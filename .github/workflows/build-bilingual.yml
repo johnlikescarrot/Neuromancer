@@ -1,6 +1,12 @@
 name: Build complete English–Vietnamese edition
 
 on:
+  # A new workflow cannot be manually dispatched until it exists on main.
+  # This narrowly scoped push trigger allows the first PR build; translation
+  # commits do not match the path filter and therefore cannot retrigger it.
+  push:
+    branches: ["arena/8c970cb2-neuromancer"]
+    paths: [".github/workflows/build-bilingual.yml"]
   workflow_dispatch:
     inputs:
       beam_size:
@@ -104,7 +110,7 @@ jobs:
         run: |
           python scripts/translate.py \
             --chapters ${{ matrix.chapters }} \
-            --beam-size ${{ inputs.beam_size }} \
+            --beam-size ${{ inputs.beam_size || '4' }} \
             --batch-size 12 \
             --output build/vi-group-${{ matrix.group }}.json \
             --checkpoint build/units-group-${{ matrix.group }}.jsonl
