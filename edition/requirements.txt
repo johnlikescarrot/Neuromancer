@@ -1,0 +1,5 @@
+beautifulsoup4==4.15.0
+reportlab==5.1.0
+PyMuPDF==1.27.2.3
+fonttools==4.68.0
+brotli==1.2.1

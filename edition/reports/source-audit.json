@@ -1,0 +1,347 @@
+{
+  "schema_version": 1,
+  "source": {
+    "path": "neuromancer.epub",
+    "bytes": 188496,
+    "sha256": "c1c38a9fbf06a36ad86054e7e11083c95d3d20d0f3988ac01c12ca7553b4ba60",
+    "expected_sha256": "c1c38a9fbf06a36ad86054e7e11083c95d3d20d0f3988ac01c12ca7553b4ba60",
+    "zip_integrity_error": null
+  },
+  "bibliography": {
+    "title": "Neuromancer",
+    "creator": "William Gibson",
+    "language": "en-US",
+    "epub_modified": "2022-09-21T18:13:30Z",
+    "publication_date_in_archive_metadata": "1984-07-01",
+    "isbn": null,
+    "print_publisher": null,
+    "translation_license": null
+  },
+  "structure": {
+    "spine": [
+      "title_page_xhtml",
+      "ch001_xhtml",
+      "ch002_xhtml"
+    ],
+    "manifest": {
+      "ncx": "toc.ncx",
+      "nav": "nav.xhtml",
+      "stylesheet1": "styles/stylesheet1.css",
+      "title_page_xhtml": "text/title_page.xhtml",
+      "ch001_xhtml": "text/ch001.xhtml",
+      "ch002_xhtml": "text/ch002.xhtml"
+    },
+    "parts": [
+      {
+        "title": "PART ONE - CHIBA CITY BLUES",
+        "id": "part-one---chiba-city-blues",
+        "chapters": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "PART TWO - THE SHOPPING EXPEDITION",
+        "id": "part-two---the-shopping-expedition",
+        "chapters": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "title": "PART THREE - MIDNIGHT IN THE RUE JULES VERNE",
+        "id": "part-three---midnight-in-the-rue-jules-verne",
+        "chapters": [
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "title": "PART FOUR - THE STRAYLIGHT RUN",
+        "id": "part-four---the-straylight-run",
+        "chapters": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      },
+      {
+        "title": "CODA - DEPARTURE AND ARRIVAL",
+        "id": "coda---departure-and-arrival",
+        "chapters": [
+          24
+        ]
+      }
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "part": "PART ONE - CHIBA CITY BLUES",
+        "id": "section",
+        "paragraphs": 222,
+        "words": 8129,
+        "characters": 46446
+      },
+      {
+        "number": 2,
+        "part": "PART ONE - CHIBA CITY BLUES",
+        "id": "section-1",
+        "paragraphs": 167,
+        "words": 4289,
+        "characters": 24367
+      },
+      {
+        "number": 3,
+        "part": "PART TWO - THE SHOPPING EXPEDITION",
+        "id": "section-2",
+        "paragraphs": 121,
+        "words": 3651,
+        "characters": 21081
+      },
+      {
+        "number": 4,
+        "part": "PART TWO - THE SHOPPING EXPEDITION",
+        "id": "section-3",
+        "paragraphs": 126,
+        "words": 5032,
+        "characters": 29796
+      },
+      {
+        "number": 5,
+        "part": "PART TWO - THE SHOPPING EXPEDITION",
+        "id": "section-4",
+        "paragraphs": 86,
+        "words": 2806,
+        "characters": 16210
+      },
+      {
+        "number": 6,
+        "part": "PART TWO - THE SHOPPING EXPEDITION",
+        "id": "section-5",
+        "paragraphs": 48,
+        "words": 1449,
+        "characters": 8739
+      },
+      {
+        "number": 7,
+        "part": "PART TWO - THE SHOPPING EXPEDITION",
+        "id": "section-6",
+        "paragraphs": 137,
+        "words": 4108,
+        "characters": 23479
+      },
+      {
+        "number": 8,
+        "part": "PART THREE - MIDNIGHT IN THE RUE JULES VERNE",
+        "id": "section-7",
+        "paragraphs": 138,
+        "words": 3074,
+        "characters": 18044
+      },
+      {
+        "number": 9,
+        "part": "PART THREE - MIDNIGHT IN THE RUE JULES VERNE",
+        "id": "section-8",
+        "paragraphs": 126,
+        "words": 2697,
+        "characters": 15241
+      },
+      {
+        "number": 10,
+        "part": "PART THREE - MIDNIGHT IN THE RUE JULES VERNE",
+        "id": "section-9",
+        "paragraphs": 158,
+        "words": 4207,
+        "characters": 24504
+      },
+      {
+        "number": 11,
+        "part": "PART THREE - MIDNIGHT IN THE RUE JULES VERNE",
+        "id": "section-10",
+        "paragraphs": 166,
+        "words": 4280,
+        "characters": 24480
+      },
+      {
+        "number": 12,
+        "part": "PART THREE - MIDNIGHT IN THE RUE JULES VERNE",
+        "id": "section-11",
+        "paragraphs": 55,
+        "words": 1843,
+        "characters": 10570
+      },
+      {
+        "number": 13,
+        "part": "PART FOUR - THE STRAYLIGHT RUN",
+        "id": "section-12",
+        "paragraphs": 55,
+        "words": 2010,
+        "characters": 11597
+      },
+      {
+        "number": 14,
+        "part": "PART FOUR - THE STRAYLIGHT RUN",
+        "id": "section-13",
+        "paragraphs": 122,
+        "words": 3012,
+        "characters": 17267
+      },
+      {
+        "number": 15,
+        "part": "PART FOUR - THE STRAYLIGHT RUN",
+        "id": "section-14",
+        "paragraphs": 93,
+        "words": 4164,
+        "characters": 23391
+      },
+      {
+        "number": 16,
+        "part": "PART FOUR - THE STRAYLIGHT RUN",
+        "id": "section-15",
+        "paragraphs": 148,
+        "words": 4162,
+        "characters": 23323
+      },
+      {
+        "number": 17,
+        "part": "PART FOUR - THE STRAYLIGHT RUN",
+        "id": "section-16",
+        "paragraphs": 79,
+        "words": 3647,
+        "characters": 21046
+      },
+      {
+        "number": 18,
+        "part": "PART FOUR - THE STRAYLIGHT RUN",
+        "id": "section-17",
+        "paragraphs": 119,
+        "words": 3693,
+        "characters": 21194
+      },
+      {
+        "number": 19,
+        "part": "PART FOUR - THE STRAYLIGHT RUN",
+        "id": "section-18",
+        "paragraphs": 61,
+        "words": 1954,
+        "characters": 11248
+      },
+      {
+        "number": 20,
+        "part": "PART FOUR - THE STRAYLIGHT RUN",
+        "id": "section-19",
+        "paragraphs": 92,
+        "words": 3401,
+        "characters": 18835
+      },
+      {
+        "number": 21,
+        "part": "PART FOUR - THE STRAYLIGHT RUN",
+        "id": "section-20",
+        "paragraphs": 52,
+        "words": 1381,
+        "characters": 7634
+      },
+      {
+        "number": 22,
+        "part": "PART FOUR - THE STRAYLIGHT RUN",
+        "id": "section-21",
+        "paragraphs": 91,
+        "words": 2242,
+        "characters": 13057
+      },
+      {
+        "number": 23,
+        "part": "PART FOUR - THE STRAYLIGHT RUN",
+        "id": "section-22",
+        "paragraphs": 109,
+        "words": 2518,
+        "characters": 14594
+      },
+      {
+        "number": 24,
+        "part": "CODA - DEPARTURE AND ARRIVAL",
+        "id": "section-23",
+        "paragraphs": 50,
+        "words": 1218,
+        "characters": 6929
+      }
+    ],
+    "chapter_count": 24,
+    "part_count_including_coda": 5,
+    "nav_link_count": 32,
+    "ncx_navpoint_count": 32,
+    "broken_nav_links": []
+  },
+  "counts": {
+    "counting_rule": "Unicode-aware ASCII word regex; hyphen/apostrophe compounds count as one; headings excluded; acknowledgements included.",
+    "body_words": 78967,
+    "chapter_words": 78967,
+    "body_paragraphs": 2626,
+    "epub_members": 10
+  },
+  "observations": [
+    "The archive metadata describes a custom EPUB assembled from online plain text; this is not evidence of public-domain status or permission to translate.",
+    "The EPUB has no ISBN or print-edition statement. Do not invent print page numbers or claim equivalence to a licensed edition.",
+    "The NCX nests later navigation points inside earlier ones; the XHTML navigation document is the clearer structural guide.",
+    "Underscore emphasis survives in some paragraphs. Spelling and punctuation have not been silently corrected against a print edition.",
+    "The final numbered chapter includes a dated inscription and acknowledgements after the narrative; chapter word counts include that paratext.",
+    "This audit exports counts and bibliographic/structural facts only, not the source prose."
+  ],
+  "repository_files": [
+    {
+      "name": ".gitignore",
+      "bytes": 40,
+      "sha256": "8d29cb3457ff021d782d2e9308231281f4d228002ec4dce1b05f965a08b584fa"
+    },
+    {
+      "name": "README.md",
+      "bytes": 13,
+      "sha256": "132950b1e72d40f37a3e10dde728394226541d423c0668bc4321c1e449d4c847"
+    },
+    {
+      "name": "__ia_thumb.jpg",
+      "bytes": 1286,
+      "sha256": "8444f035372a5a447d024d5b9e20b0c49fc30ea0bc0589acb26357be29fab697"
+    },
+    {
+      "name": "neuromancer.epub",
+      "bytes": 188496,
+      "sha256": "c1c38a9fbf06a36ad86054e7e11083c95d3d20d0f3988ac01c12ca7553b4ba60"
+    },
+    {
+      "name": "neuromancer_202209_archive.torrent",
+      "bytes": 9885,
+      "sha256": "92712b89a6e1268874bac76c92bea6caa6c6ffc335af43b1c9ab00e1f42630a7"
+    },
+    {
+      "name": "neuromancer_202209_files.xml",
+      "bytes": 7077,
+      "sha256": "1c7afcfd2e29a65d43a96859660c997c40a180a9baf41467f74d68932d93fcd9"
+    },
+    {
+      "name": "neuromancer_202209_meta.sqlite",
+      "bytes": 28672,
+      "sha256": "70a99c64c5761460c482a23f90466db4dbf7dc63d6b3d743e08d5992a4cdae4f"
+    },
+    {
+      "name": "neuromancer_202209_meta.xml",
+      "bytes": 3575,
+      "sha256": "f01f921cc55a2c12abe834b8f99fc824caf9db37a6652ab910ea738b27ee26a9"
+    }
+  ]
+}
