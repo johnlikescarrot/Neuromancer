@@ -1,0 +1,6 @@
+beautifulsoup4==4.15.0
+ctranslate2==4.8.5
+PyMuPDF==2.1
+pysbd==0.3.4
+reportlab==5.1.0
+sentencepiece==0.2.3

@@ -1,0 +1,274 @@
+{
+  "schema": "neuromancer-editorial/v1",
+  "edition_title": "NEUROMANCER",
+  "edition_subtitle": "Ấn bản song ngữ Anh–Việt dành cho người học",
+  "status": "Bản dịch máy hỗ trợ — chưa phải bản dịch văn học được biên tập độc lập",
+  "accessed": "2026-11-07",
+  "parts": {
+    "PART ONE - CHIBA CITY BLUES": "PHẦN MỘT — BLUES THÀNH PHỐ CHIBA",
+    "PART TWO - THE SHOPPING EXPEDITION": "PHẦN HAI — CHUYẾN ĐI MUA SẮM",
+    "PART THREE - MIDNIGHT IN THE RUE JULES VERNE": "PHẦN BA — NỬA ĐÊM TRÊN PHỐ JULES VERNE",
+    "PART FOUR - THE STRAYLIGHT RUN": "PHẦN BỐN — HÀNH TRÌNH STRAYLIGHT",
+    "CODA - DEPARTURE AND ARRIVAL": "ĐOẠN KẾT — KHỞI HÀNH VÀ ĐIỂM ĐẾN"
+  },
+  "reading_goals": [
+    {
+      "exam": "TOEFL iBT (trước 21/01/2026)",
+      "target": "90/120",
+      "alignment": "B2 theo bảng CEFR hiện hành của ETS; ETS gợi ý yêu cầu 90 cũ tương ứng 4,5 trên thang mới."
+    },
+    {
+      "exam": "TOEFL iBT (từ 21/01/2026)",
+      "target": "5/6",
+      "alignment": "C1; tổng điểm tương đương tham chiếu từ 95/120. Không đồng nhất mục tiêu 90 cũ với 5 mới."
+    },
+    {
+      "exam": "IELTS Academic",
+      "target": "7,0",
+      "alignment": "C1 theo bảng đối chiếu CEFR của IELTS."
+    },
+    {
+      "exam": "PTE Academic",
+      "target": "65/90",
+      "alignment": "B2 theo thang CEFR của Pearson; các bài thi và thang điểm không thay thế cho nhau."
+    },
+    {
+      "exam": "Cambridge C1 Advanced / C2 Proficiency",
+      "target": "185",
+      "alignment": "C1 trên Cambridge English Scale; ở C2 Proficiency, 180–199 được báo cáo là Level C1."
+    },
+    {
+      "exam": "Duolingo English Test",
+      "target": "120/160",
+      "alignment": "B2 theo đối chiếu CEFR được Duolingo công bố năm 2026; C1 bắt đầu ở 130."
+    }
+  ],
+  "score_sources": [
+    {
+      "label": "ETS — Understanding TOEFL iBT scores",
+      "url": "https://www.ets.org/toefl/test-takers/ibt/scores/understand-scores.html"
+    },
+    {
+      "label": "IELTS — IELTS and the CEFR",
+      "url": "https://ielts.org/news-and-insights/everything-you-need-to-know-about-ielts-and-the-cefr"
+    },
+    {
+      "label": "Pearson — Specification for PTE Academic",
+      "url": "https://www.pearsonpte.com/content/dam/ELL/pte/pearsonpte/policy-and-help-center/documents/Specification-for-PTE-Academic-V7-June-2022.pdf"
+    },
+    {
+      "label": "Cambridge English — The Cambridge English Scale",
+      "url": "https://www.cambridgeenglish.org/exams-and-tests/cambridge-english-scale/institutions/"
+    },
+    {
+      "label": "Duolingo English Test — CEFR alignment",
+      "url": "https://blog.englishtest.duolingo.com/duolingo-test-aligned-with-cefr/"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "cyberspace",
+      "vi": "không gian mạng",
+      "note": "Không gian dữ liệu có thể điều hướng bằng giao diện thần kinh; không chỉ là Internet theo nghĩa thông thường."
+    },
+    {
+      "term": "matrix",
+      "vi": "ma trận",
+      "note": "Mạng lưới dữ liệu toàn cầu, thường được Case trải nghiệm như một không gian ba chiều. Viết thường khi là hệ thống chung."
+    },
+    {
+      "term": "cyberspace deck",
+      "vi": "deck không gian mạng",
+      "note": "Thiết bị kết nối hệ thần kinh với ma trận. Giữ từ ‘deck’ để tránh nhầm với boong tàu hay bộ bài."
+    },
+    {
+      "term": "console cowboy",
+      "vi": "cao bồi không gian mạng",
+      "note": "Cách gọi mang màu sắc noir cho tin tặc điều khiển console, gợi hình ảnh người lang thang ngoài vùng biên."
+    },
+    {
+      "term": "ICE",
+      "vi": "ICE — điện tử phản xâm nhập",
+      "note": "Intrusion Countermeasures Electronics: hệ thống phòng thủ dữ liệu. Viết hoa như nguyên tác, không dịch máy thành ‘băng’."
+    },
+    {
+      "term": "icebreaker",
+      "vi": "trình phá ICE",
+      "note": "Chương trình xâm nhập được thiết kế để vô hiệu hóa hoặc xuyên qua ICE."
+    },
+    {
+      "term": "simstim",
+      "vi": "simstim — kích thích mô phỏng",
+      "note": "Công nghệ ghi và phát lại trải nghiệm cảm giác của một người cho người khác."
+    },
+    {
+      "term": "construct",
+      "vi": "cấu trúc nhân cách",
+      "note": "Một bản dựng phần mềm của trí nhớ, kỹ năng và phản ứng của con người; nghĩa cụ thể tùy câu."
+    },
+    {
+      "term": "flatline",
+      "vi": "đường ngang / chết não",
+      "note": "Hình ảnh tín hiệu điện não thành đường thẳng; cũng là biệt danh Dixie Flatline. Không áp một nghĩa cho mọi ngữ cảnh."
+    },
+    {
+      "term": "meat",
+      "vi": "xác thịt",
+      "note": "Cách gọi cơ thể vật lý, đối lập với sự tồn tại và hành động trong không gian mạng."
+    },
+    {
+      "term": "joeboy",
+      "vi": "joeboy",
+      "note": "Tiếng lóng chỉ người làm thuê hoặc tay chân; giữ từ gốc vì sắc thái xã hội không có một đối ứng Việt cố định."
+    },
+    {
+      "term": "microsofts",
+      "vi": "microsoft",
+      "note": "Tên chơi chữ trong tiểu thuyết cho các mẩu phần mềm kỹ năng cắm trực tiếp vào hệ thần kinh; không nhất thiết chỉ tập đoàn cùng tên."
+    },
+    {
+      "term": "street samurai",
+      "vi": "samurai đường phố",
+      "note": "Người làm nghề chiến đấu/bảo vệ bằng công nghệ cải tạo cơ thể; danh xưng gắn với Molly."
+    },
+    {
+      "term": "razorgirl",
+      "vi": "razorgirl",
+      "note": "Tiếng lóng chỉ nữ chiến binh có dao gắn trong cơ thể, nổi bật qua hình tượng Molly."
+    },
+    {
+      "term": "trodes",
+      "vi": "điện cực trodes",
+      "note": "Dạng rút gọn của electrodes: điện cực tiếp xúc dùng cho kết nối thần kinh hoặc simstim."
+    },
+    {
+      "term": "dermis",
+      "vi": "lớp biểu bì / miếng dán da",
+      "note": "Trong nhiều đoạn là miếng dán da chứa thuốc; cần phân biệt với nghĩa giải phẫu ‘trung bì’."
+    },
+    {
+      "term": "Sprawl",
+      "vi": "Sprawl",
+      "note": "Đô thị khổng lồ trải dài dọc bờ Đông Hoa Kỳ, còn gọi BAMA; vừa là địa danh vừa là môi trường văn hóa."
+    },
+    {
+      "term": "Chatsubo",
+      "vi": "Chatsubo / quán Chat",
+      "note": "Quán bar ở Chiba nơi Case gặp Ratz; ‘the Chat’ là cách gọi rút gọn."
+    },
+    {
+      "term": "Night City",
+      "vi": "Night City",
+      "note": "Khu vực thuộc thành phố Chiba trong tiểu thuyết; giữ địa danh gốc để tránh nhầm với các tác phẩm khác."
+    },
+    {
+      "term": "zaibatsu",
+      "vi": "zaibatsu",
+      "note": "Từ Nhật chỉ tập đoàn gia tộc lớn; trong thế giới cyberpunk gợi quyền lực doanh nghiệp vượt qua nhà nước."
+    },
+    {
+      "term": "hologram",
+      "vi": "ảnh ba chiều",
+      "note": "Hình ảnh quang học ba chiều; phân biệt với trải nghiệm trực tiếp trong ma trận hoặc simstim."
+    },
+    {
+      "term": "Sense/Net",
+      "vi": "Sense/Net",
+      "note": "Tổ chức lưu trữ và vận hành dữ liệu/simstim; dấu gạch chéo là một phần tên riêng."
+    },
+    {
+      "term": "Panther Moderns",
+      "vi": "Panther Moderns",
+      "note": "Nhóm hành động theo thời trang và công nghệ trong thế giới Sprawl; tên riêng không dịch cứng."
+    },
+    {
+      "term": "Turing Registry",
+      "vi": "Sổ đăng ký Turing",
+      "note": "Cơ quan giám sát trí tuệ nhân tạo; liên hệ với khái niệm kiểm tra Turing nhưng là thực thể pháp chế trong truyện."
+    },
+    {
+      "term": "Wintermute",
+      "vi": "Wintermute",
+      "note": "Một trí tuệ nhân tạo trung tâm của cốt truyện; tên riêng được giữ nguyên."
+    },
+    {
+      "term": "Neuromancer",
+      "vi": "Neuromancer",
+      "note": "Tên riêng và tựa tác phẩm, cấu tạo gợi liên hệ giữa ‘neuro’ (thần kinh) và ‘necromancer’ (thầy gọi hồn)."
+    },
+    {
+      "term": "Freeside",
+      "vi": "Freeside",
+      "note": "Địa điểm ngoài quỹ đạo có cấu trúc du lịch, giải trí và quyền lực riêng."
+    },
+    {
+      "term": "Straylight",
+      "vi": "Straylight",
+      "note": "Tên khu dinh thự và địa bàn của gia tộc Tessier-Ashpool; giữ nguyên địa danh."
+    },
+    {
+      "term": "Villa Straylight",
+      "vi": "Dinh thự Straylight",
+      "note": "Dinh thự của gia tộc Tessier-Ashpool, không gian kiến trúc quan trọng ở phần bốn."
+    },
+    {
+      "term": "Tessier-Ashpool",
+      "vi": "Tessier-Ashpool",
+      "note": "Gia tộc/tập đoàn sở hữu Straylight và liên quan đến Wintermute, Neuromancer."
+    },
+    {
+      "term": "Ono-Sendai",
+      "vi": "Ono-Sendai",
+      "note": "Hãng sản xuất deck không gian mạng; tên thiết bị thường gắn với Case."
+    },
+    {
+      "term": "Hosaka",
+      "vi": "Hosaka",
+      "note": "Hãng máy tính/thiết bị trong truyện; giữ tên riêng và không mở rộng thành xuất xứ sản phẩm nếu câu không nói."
+    },
+    {
+      "term": "Zion",
+      "vi": "Zion",
+      "note": "Cộng đồng ngoài quỹ đạo của những người Rastafari; không mặc nhiên đồng nhất với mọi nghĩa tôn giáo của từ."
+    },
+    {
+      "term": "Rastafari",
+      "vi": "Rastafari",
+      "note": "Phong trào tôn giáo–văn hóa có nguồn gốc Jamaica; đọc các chi tiết trong truyện như một thể hiện văn học cụ thể."
+    },
+    {
+      "term": "Ku",
+      "vi": "Ku",
+      "note": "Tên gọi trong hệ thống tín ngưỡng Rastafari của cộng đồng Zion; giữ nguyên và tra theo ngữ cảnh."
+    },
+    {
+      "term": "Dixie Flatline",
+      "vi": "Dixie Flatline",
+      "note": "Biệt danh của McCoy Pauley, một console cowboy được lưu thành construct."
+    },
+    {
+      "term": "Molly Millions",
+      "vi": "Molly Millions",
+      "note": "Nhân vật samurai đường phố với kính che mắt cấy ghép và dao trong ngón tay; thường được gọi Molly."
+    },
+    {
+      "term": "Armitage",
+      "vi": "Armitage",
+      "note": "Người tuyển Case cho nhiệm vụ; đọc các chi tiết thân phận theo diễn biến để tránh tiết lộ cốt truyện trong chú thích."
+    },
+    {
+      "term": "3Jane",
+      "vi": "3Jane",
+      "note": "Cách viết tên nhân vật thuộc gia tộc Tessier-Ashpool; giữ chữ số 3 như nguyên tác."
+    },
+    {
+      "term": "BAMA",
+      "vi": "BAMA",
+      "note": "Boston–Atlanta Metropolitan Axis, trục đô thị Boston–Atlanta; liên hệ trực tiếp với Sprawl."
+    }
+  ],
+  "dedication_vi": [
+    "Dành cho Deb,",
+    "người đã giúp hiện thực hóa cuốn sách này bằng tình yêu."
+  ]
+}

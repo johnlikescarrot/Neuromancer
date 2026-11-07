@@ -1,0 +1,7 @@
+{
+  "schema": "neuromancer-translation-overrides/v1",
+  "description": "Human-reviewed Vietnamese paragraph replacements. Keys are stable source paragraph IDs.",
+  "paragraphs": {
+    "ch01-p0001": "Bầu trời phía trên cảng có màu của một chiếc tivi chỉnh vào kênh đã chết."
+  }
+}

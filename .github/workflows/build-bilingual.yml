@@ -1,0 +1,189 @@
+name: Build complete English–Vietnamese edition
+
+on:
+  workflow_dispatch:
+    inputs:
+      beam_size:
+        description: Translation beam size (quality/speed trade-off)
+        required: true
+        default: "4"
+        type: choice
+        options: ["4", "2", "1"]
+
+permissions:
+  contents: write
+  actions: read
+
+concurrency:
+  group: bilingual-edition-${{ github.ref }}
+  cancel-in-progress: false
+
+env:
+  PYTHONHASHSEED: "0"
+  CT2_INTER_THREADS: "1"
+  CT2_INTRA_THREADS: "2"
+  MODEL_CACHE_KEY: quickmt-en-vi-ct2-int8-v1-81f2be8d
+  PDF_NAME: Neuromancer-EN-VI-Bilingual.pdf
+
+jobs:
+  prepare-model:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - name: Restore model cache
+        uses: actions/cache@v4
+        with:
+          path: .cache/quickmt-en-vi-ct2-int8
+          key: ${{ env.MODEL_CACHE_KEY }}
+      - name: Download and verify model
+        run: python scripts/download_model.py
+      - name: Run source and editorial unit tests
+        run: |
+          python -m pip install --disable-pip-version-check -r requirements.txt
+          python scripts/extract_source.py
+          python -m unittest discover -s tests -v
+      - name: Smoke-test neural translation before parallel jobs
+        run: |
+          python scripts/translate.py \
+            --chapters 24 --limit-paragraphs 3 --beam-size 1 \
+            --output build/neural-smoke.json \
+            --checkpoint build/neural-smoke-units.jsonl
+          python - <<'PY'
+          import json
+          data = json.load(open('build/neural-smoke.json', encoding='utf-8'))
+          assert data['completed_paragraphs'] == 3
+          for pid, record in data['paragraphs'].items():
+              print(pid, record['vi'])
+              assert record['vi'].strip()
+          PY
+
+  translate:
+    needs: prepare-model
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    strategy:
+      fail-fast: false
+      max-parallel: 6
+      matrix:
+        include:
+          - group: "01"
+            chapters: "1 6 12 18"
+          - group: "02"
+            chapters: "2 7 11 17"
+          - group: "03"
+            chapters: "3 8 13 19"
+          - group: "04"
+            chapters: "4 9 14 20"
+          - group: "05"
+            chapters: "5 10 15 21"
+          - group: "06"
+            chapters: "16 22 23 24"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - name: Install pinned dependencies
+        run: python -m pip install --disable-pip-version-check -r requirements.txt
+      - name: Restore verified model
+        uses: actions/cache@v4
+        with:
+          path: .cache/quickmt-en-vi-ct2-int8
+          key: ${{ env.MODEL_CACHE_KEY }}
+      - name: Verify model files
+        run: python scripts/download_model.py
+      - name: Extract EPUB with stable paragraph IDs
+        run: python scripts/extract_source.py
+      - name: Translate chapter group
+        run: |
+          python scripts/translate.py \
+            --chapters ${{ matrix.chapters }} \
+            --beam-size ${{ inputs.beam_size }} \
+            --batch-size 12 \
+            --output build/vi-group-${{ matrix.group }}.json \
+            --checkpoint build/units-group-${{ matrix.group }}.jsonl
+      - name: Upload resumable group translation
+        uses: actions/upload-artifact@v4
+        with:
+          name: translation-group-${{ matrix.group }}
+          path: build/vi-group-${{ matrix.group }}.json
+          if-no-files-found: error
+          retention-days: 14
+
+  finalize:
+    needs: translate
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - name: Install pinned dependencies
+        run: python -m pip install --disable-pip-version-check -r requirements.txt
+      - name: Download all six translation groups
+        uses: actions/download-artifact@v4
+        with:
+          pattern: translation-group-*
+          path: build/groups
+      - name: Extract and merge complete translation
+        run: |
+          python scripts/extract_source.py
+          python scripts/merge_translations.py
+      - name: Validate complete source-to-translation coverage
+        run: python scripts/qa.py --output translation/qa.json
+      - name: Render bilingual PDF
+        run: python scripts/build_pdf.py --output dist/${{ env.PDF_NAME }}
+      - name: Reopen and validate rendered PDF
+        run: |
+          python scripts/qa.py \
+            --pdf dist/${{ env.PDF_NAME }} \
+            --output dist/qa-report.json
+      - name: Commit translation and structural QA to the working branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin "$GITHUB_REF_NAME"
+          git rebase "origin/$GITHUB_REF_NAME"
+          git add translation/vi.json translation/qa.json
+          if git diff --cached --quiet; then
+            echo "No translation changes to commit."
+          else
+            git commit -m "Build complete English-Vietnamese translation"
+            git push origin "HEAD:$GITHUB_REF_NAME"
+          fi
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: neuromancer-en-vi-edition
+          path: |
+            dist/Neuromancer-EN-VI-Bilingual.pdf
+            dist/qa-report.json
+          if-no-files-found: error
+          retention-days: 14
+      - name: Publish latest PDF as a release asset
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if ! gh release view bilingual-learning-latest >/dev/null 2>&1; then
+            gh release create bilingual-learning-latest \
+              "dist/${{ env.PDF_NAME }}" \
+              dist/qa-report.json \
+              --target "$GITHUB_REF_NAME" \
+              --title "Neuromancer — English–Vietnamese learning draft" \
+              --notes "Complete 24-chapter machine-assisted bilingual draft. Structural and PDF QA are included; independent literary review is still required. Built by ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+          else
+            gh release upload bilingual-learning-latest \
+              "dist/${{ env.PDF_NAME }}" \
+              dist/qa-report.json \
+              --clobber
+          fi
