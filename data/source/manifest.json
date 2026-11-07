@@ -1,0 +1,267 @@
+{
+  "title": "Neuromancer",
+  "author": "William Gibson",
+  "original_publication_year": 1984,
+  "dedication": {
+    "en": "*for Deb / who made it possible with love*",
+    "vi": "*Tặng Deb / người đã biến cuốn sách này thành hiện thực bằng tình yêu thương*"
+  },
+  "parts": [
+    {
+      "part_num": 1,
+      "title_en": "PART ONE — CHIBA CITY BLUES",
+      "title_vi": "PHẦN MỘT — KHÚC BLUES THÀNH PHỐ CHIBA",
+      "subtitle_en": "Chiba City Blues",
+      "subtitle_vi": "Khúc Blues Thành Phố Chiba"
+    },
+    {
+      "part_num": 2,
+      "title_en": "PART TWO — THE SHOPPING EXPEDITION",
+      "title_vi": "PHẦN HAI — CHUYẾN VIỄN CHINH MUA SẮM",
+      "subtitle_en": "The Shopping Expedition",
+      "subtitle_vi": "Chuyến Viễn Chinh Mua Sắm"
+    },
+    {
+      "part_num": 3,
+      "title_en": "PART THREE — MIDNIGHT IN THE RUE JULES VERNE",
+      "title_vi": "PHẦN BA — NỬA ĐÊM TRÊN PHỐ JULES VERNE",
+      "subtitle_en": "Midnight in the Rue Jules Verne",
+      "subtitle_vi": "Nửa Đêm Trên Phố Jules Verne"
+    },
+    {
+      "part_num": 4,
+      "title_en": "PART FOUR — THE STRAYLIGHT RUN",
+      "title_vi": "PHẦN BỐN — PHI VỤ ĐỘT KÍCH STRAYLIGHT",
+      "subtitle_en": "The Straylight Run",
+      "subtitle_vi": "Phi Vụ Đột Kích Straylight"
+    },
+    {
+      "part_num": 5,
+      "title_en": "CODA — DEPARTURE AND ARRIVAL",
+      "title_vi": "VĨ THANH — KHỞI HÀNH VÀ ĐẾN ĐÍCH",
+      "subtitle_en": "Departure and Arrival",
+      "subtitle_vi": "Khởi Hành Và Đến Đích"
+    }
+  ],
+  "total_chapters": 24,
+  "total_paragraphs": 2597,
+  "total_words": 78999,
+  "chapters": [
+    {
+      "chapter": 1,
+      "chapter_id": "ch01",
+      "part_num": 1,
+      "part_title_en": "PART ONE — CHIBA CITY BLUES",
+      "part_title_vi": "PHẦN MỘT — KHÚC BLUES THÀNH PHỐ CHIBA",
+      "paragraph_count": 221,
+      "word_count": 8132
+    },
+    {
+      "chapter": 2,
+      "chapter_id": "ch02",
+      "part_num": 1,
+      "part_title_en": "PART ONE — CHIBA CITY BLUES",
+      "part_title_vi": "PHẦN MỘT — KHÚC BLUES THÀNH PHỐ CHIBA",
+      "paragraph_count": 166,
+      "word_count": 4287
+    },
+    {
+      "chapter": 3,
+      "chapter_id": "ch03",
+      "part_num": 2,
+      "part_title_en": "PART TWO — THE SHOPPING EXPEDITION",
+      "part_title_vi": "PHẦN HAI — CHUYẾN VIỄN CHINH MUA SẮM",
+      "paragraph_count": 119,
+      "word_count": 3655
+    },
+    {
+      "chapter": 4,
+      "chapter_id": "ch04",
+      "part_num": 2,
+      "part_title_en": "PART TWO — THE SHOPPING EXPEDITION",
+      "part_title_vi": "PHẦN HAI — CHUYẾN VIỄN CHINH MUA SẮM",
+      "paragraph_count": 125,
+      "word_count": 5048
+    },
+    {
+      "chapter": 5,
+      "chapter_id": "ch05",
+      "part_num": 2,
+      "part_title_en": "PART TWO — THE SHOPPING EXPEDITION",
+      "part_title_vi": "PHẦN HAI — CHUYẾN VIỄN CHINH MUA SẮM",
+      "paragraph_count": 85,
+      "word_count": 2802
+    },
+    {
+      "chapter": 6,
+      "chapter_id": "ch06",
+      "part_num": 2,
+      "part_title_en": "PART TWO — THE SHOPPING EXPEDITION",
+      "part_title_vi": "PHẦN HAI — CHUYẾN VIỄN CHINH MUA SẮM",
+      "paragraph_count": 47,
+      "word_count": 1448
+    },
+    {
+      "chapter": 7,
+      "chapter_id": "ch07",
+      "part_num": 2,
+      "part_title_en": "PART TWO — THE SHOPPING EXPEDITION",
+      "part_title_vi": "PHẦN HAI — CHUYẾN VIỄN CHINH MUA SẮM",
+      "paragraph_count": 136,
+      "word_count": 4108
+    },
+    {
+      "chapter": 8,
+      "chapter_id": "ch08",
+      "part_num": 3,
+      "part_title_en": "PART THREE — MIDNIGHT IN THE RUE JULES VERNE",
+      "part_title_vi": "PHẦN BA — NỬA ĐÊM TRÊN PHỐ JULES VERNE",
+      "paragraph_count": 137,
+      "word_count": 3073
+    },
+    {
+      "chapter": 9,
+      "chapter_id": "ch09",
+      "part_num": 3,
+      "part_title_en": "PART THREE — MIDNIGHT IN THE RUE JULES VERNE",
+      "part_title_vi": "PHẦN BA — NỬA ĐÊM TRÊN PHỐ JULES VERNE",
+      "paragraph_count": 125,
+      "word_count": 2699
+    },
+    {
+      "chapter": 10,
+      "chapter_id": "ch10",
+      "part_num": 3,
+      "part_title_en": "PART THREE — MIDNIGHT IN THE RUE JULES VERNE",
+      "part_title_vi": "PHẦN BA — NỬA ĐÊM TRÊN PHỐ JULES VERNE",
+      "paragraph_count": 157,
+      "word_count": 4207
+    },
+    {
+      "chapter": 11,
+      "chapter_id": "ch11",
+      "part_num": 3,
+      "part_title_en": "PART THREE — MIDNIGHT IN THE RUE JULES VERNE",
+      "part_title_vi": "PHẦN BA — NỬA ĐÊM TRÊN PHỐ JULES VERNE",
+      "paragraph_count": 165,
+      "word_count": 4280
+    },
+    {
+      "chapter": 12,
+      "chapter_id": "ch12",
+      "part_num": 3,
+      "part_title_en": "PART THREE — MIDNIGHT IN THE RUE JULES VERNE",
+      "part_title_vi": "PHẦN BA — NỬA ĐÊM TRÊN PHỐ JULES VERNE",
+      "paragraph_count": 54,
+      "word_count": 1843
+    },
+    {
+      "chapter": 13,
+      "chapter_id": "ch13",
+      "part_num": 4,
+      "part_title_en": "PART FOUR — THE STRAYLIGHT RUN",
+      "part_title_vi": "PHẦN BỐN — PHI VỤ ĐỘT KÍCH STRAYLIGHT",
+      "paragraph_count": 54,
+      "word_count": 2014
+    },
+    {
+      "chapter": 14,
+      "chapter_id": "ch14",
+      "part_num": 4,
+      "part_title_en": "PART FOUR — THE STRAYLIGHT RUN",
+      "part_title_vi": "PHẦN BỐN — PHI VỤ ĐỘT KÍCH STRAYLIGHT",
+      "paragraph_count": 121,
+      "word_count": 3010
+    },
+    {
+      "chapter": 15,
+      "chapter_id": "ch15",
+      "part_num": 4,
+      "part_title_en": "PART FOUR — THE STRAYLIGHT RUN",
+      "part_title_vi": "PHẦN BỐN — PHI VỤ ĐỘT KÍCH STRAYLIGHT",
+      "paragraph_count": 92,
+      "word_count": 4166
+    },
+    {
+      "chapter": 16,
+      "chapter_id": "ch16",
+      "part_num": 4,
+      "part_title_en": "PART FOUR — THE STRAYLIGHT RUN",
+      "part_title_vi": "PHẦN BỐN — PHI VỤ ĐỘT KÍCH STRAYLIGHT",
+      "paragraph_count": 147,
+      "word_count": 4173
+    },
+    {
+      "chapter": 17,
+      "chapter_id": "ch17",
+      "part_num": 4,
+      "part_title_en": "PART FOUR — THE STRAYLIGHT RUN",
+      "part_title_vi": "PHẦN BỐN — PHI VỤ ĐỘT KÍCH STRAYLIGHT",
+      "paragraph_count": 78,
+      "word_count": 3643
+    },
+    {
+      "chapter": 18,
+      "chapter_id": "ch18",
+      "part_num": 4,
+      "part_title_en": "PART FOUR — THE STRAYLIGHT RUN",
+      "part_title_vi": "PHẦN BỐN — PHI VỤ ĐỘT KÍCH STRAYLIGHT",
+      "paragraph_count": 118,
+      "word_count": 3704
+    },
+    {
+      "chapter": 19,
+      "chapter_id": "ch19",
+      "part_num": 4,
+      "part_title_en": "PART FOUR — THE STRAYLIGHT RUN",
+      "part_title_vi": "PHẦN BỐN — PHI VỤ ĐỘT KÍCH STRAYLIGHT",
+      "paragraph_count": 60,
+      "word_count": 1950
+    },
+    {
+      "chapter": 20,
+      "chapter_id": "ch20",
+      "part_num": 4,
+      "part_title_en": "PART FOUR — THE STRAYLIGHT RUN",
+      "part_title_vi": "PHẦN BỐN — PHI VỤ ĐỘT KÍCH STRAYLIGHT",
+      "paragraph_count": 91,
+      "word_count": 3400
+    },
+    {
+      "chapter": 21,
+      "chapter_id": "ch21",
+      "part_num": 4,
+      "part_title_en": "PART FOUR — THE STRAYLIGHT RUN",
+      "part_title_vi": "PHẦN BỐN — PHI VỤ ĐỘT KÍCH STRAYLIGHT",
+      "paragraph_count": 51,
+      "word_count": 1381
+    },
+    {
+      "chapter": 22,
+      "chapter_id": "ch22",
+      "part_num": 4,
+      "part_title_en": "PART FOUR — THE STRAYLIGHT RUN",
+      "part_title_vi": "PHẦN BỐN — PHI VỤ ĐỘT KÍCH STRAYLIGHT",
+      "paragraph_count": 90,
+      "word_count": 2241
+    },
+    {
+      "chapter": 23,
+      "chapter_id": "ch23",
+      "part_num": 4,
+      "part_title_en": "PART FOUR — THE STRAYLIGHT RUN",
+      "part_title_vi": "PHẦN BỐN — PHI VỤ ĐỘT KÍCH STRAYLIGHT",
+      "paragraph_count": 108,
+      "word_count": 2516
+    },
+    {
+      "chapter": 24,
+      "chapter_id": "ch24",
+      "part_num": 5,
+      "part_title_en": "CODA — DEPARTURE AND ARRIVAL",
+      "part_title_vi": "VĨ THANH — KHỞI HÀNH VÀ ĐẾN ĐÍCH",
+      "paragraph_count": 50,
+      "word_count": 1219
+    }
+  ]
+}

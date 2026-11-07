@@ -1,0 +1,25 @@
+{
+  "name": "neuromancer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnlikescarrot/Neuromancer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnlikescarrot/Neuromancer/issues"
+  },
+  "homepage": "https://github.com/johnlikescarrot/Neuromancer#readme",
+  "devDependencies": {
+    "@expo-google-fonts/be-vietnam-pro": "^0.4.1",
+    "@expo-google-fonts/crimson-pro": "^0.4.2",
+    "@expo-google-fonts/jetbrains-mono": "^0.4.1"
+  }
+}
