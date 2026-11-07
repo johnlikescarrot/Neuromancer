@@ -1,0 +1,333 @@
+{
+  "cyberpunk_terms": [
+    {
+      "term": "cyberspace",
+      "vi": "không gian điều khiển / không gian mạng ảo",
+      "definition": "A consensual hallucination experienced daily by billions of legitimate operators, a graphic representation of data abstracted from banks of every computer."
+    },
+    {
+      "term": "the matrix",
+      "vi": "ma trận dữ liệu",
+      "definition": "The vast abstract digital network where data is visually manifested as geometric clusters and cyberspace decks connect."
+    },
+    {
+      "term": "cowboy",
+      "vi": "cao bồi bàn phím / hacker xâm nhập dữ liệu",
+      "definition": "A data thief, hacker, or console operator specializing in cracking ICE (intrusion countermeasures electronics)."
+    },
+    {
+      "term": "deck / cyberspace deck",
+      "vi": "bàn điều khiển / bo mạch giao diện thần kinh",
+      "definition": "Hardware console equipped with dermatrodes used to project operator consciousness into cyberspace."
+    },
+    {
+      "term": "ICE (Intrusion Countermeasures Electronics)",
+      "vi": "băng điện tử phòng hộ / hệ thống phòng thủ mạng",
+      "definition": "Security software programs that defend systems against unauthorized intrusion; visual representation resembles walls of shadow or ice."
+    },
+    {
+      "term": "icebreaker",
+      "vi": "chương trình phá băng / phần mềm bẻ khóa phòng thủ",
+      "definition": "A virus or penetrative program designed to pierce ICE defenses."
+    },
+    {
+      "term": "black ICE",
+      "vi": "băng đen phòng hộ hủy diệt",
+      "definition": "Lethal countermeasures designed to kill hackers by triggering fatal neural overload or cardiac arrest through neural jacks."
+    },
+    {
+      "term": "simstim (simulated stimulation)",
+      "vi": "công nghệ mô phỏng kích thích giác quan",
+      "definition": "Technology allowing a user to record or experience another human being's full sensory input (sight, sound, physical feelings)."
+    },
+    {
+      "term": "flatline",
+      "vi": "sóng não phẳng / chết lâm sàng trên mạng",
+      "definition": "Electroencephalogram showing absence of brain waves; in the matrix, surviving an encounter with black ICE after flatlining is legendary."
+    },
+    {
+      "term": "the Sprawl (BAMA - Boston-Atlanta Metropolitan Axis)",
+      "vi": "Đại đô thị Sprawl",
+      "definition": "The vast continuous urban megalopolis stretching across the eastern seaboard of North America."
+    },
+    {
+      "term": "joeboy",
+      "vi": "tay sai trẻ / đàn em bảo kê",
+      "definition": "A young hoodlum, runner, or expendable gang subordinate in the urban underworld."
+    },
+    {
+      "term": "derm",
+      "vi": "miếng dán thẩm thấu dưới da",
+      "definition": "Transdermal patch delivering narcotics, stimulants, or medicinal compounds directly into the bloodstream."
+    },
+    {
+      "term": "microsoft / soft",
+      "vi": "vi mạch kỹ năng / phần mềm cấy ghép não bộ",
+      "definition": "Silicon chips plugged directly into cranial neural sockets behind the ear to provide instant language skills, knowledge, or reflex boosts."
+    },
+    {
+      "term": "construct",
+      "vi": "bản sao ý thức / mô hình nhân cách nhân tạo",
+      "definition": "A ROM cassette preserving the personality, memory constructs, and skills of a deceased hacker (e.g., the Dixie Flatline)."
+    },
+    {
+      "term": "coffin",
+      "vi": "khoang ngủ con nhộng / phòng trọ quan tài",
+      "definition": "Extremely cramped capsule hotel room common in Tokyo and Chiba City ports."
+    },
+    {
+      "term": "Chiba City",
+      "vi": "Thành phố Chiba (Nhật Bản)",
+      "definition": "A hub of black-market cybernetics, genetic engineering, and neurosurgery on the periphery of Tokyo Bay."
+    }
+  ],
+  "academic_vocabulary_cefr_c1_c2": [
+    {
+      "word": "consensual",
+      "pos": "adj.",
+      "cefr": "C2",
+      "proficiency_benchmarks": {
+        "IELTS": "7.5+",
+        "TOEFL": "95+",
+        "PTE": "70+",
+        "Cambridge": "185-200 (C2)",
+        "DET": "125+"
+      },
+      "definition": "Relating to or based on mutual agreement or consensus.",
+      "vi_definition": "Đồng thuận, dựa trên sự đồng thuận của nhiều bên.",
+      "context_in_text": "A consensual hallucination experienced daily by billions of legitimate operators.",
+      "collocations": [
+        "consensual agreement",
+        "consensual relationship",
+        "consensual hallucination"
+      ]
+    },
+    {
+      "word": "prosthetic",
+      "pos": "adj. / n.",
+      "cefr": "C1",
+      "proficiency_benchmarks": {
+        "IELTS": "7.0+",
+        "TOEFL": "90+",
+        "PTE": "65+",
+        "Cambridge": "180-190 (C1)",
+        "DET": "120+"
+      },
+      "definition": "Relating to an artificial device that replaces a missing body part.",
+      "vi_definition": "Thuộc về cơ phận giả, bộ phận cơ thể giả.",
+      "context_in_text": "Ratz was tending bar, his prosthetic arm jerking monotonously.",
+      "collocations": [
+        "prosthetic limb",
+        "prosthetic device",
+        "prosthetic replacement"
+      ]
+    },
+    {
+      "word": "monotonously",
+      "pos": "adv.",
+      "cefr": "C1",
+      "proficiency_benchmarks": {
+        "IELTS": "7.0+",
+        "TOEFL": "90+",
+        "PTE": "65+",
+        "Cambridge": "180-190 (C1)",
+        "DET": "120+"
+      },
+      "definition": "In a dull, unchanging tone or tedious, unvarying manner.",
+      "vi_definition": "Một cách đơn điệu, đều đều và tẻ nhạt.",
+      "context_in_text": "...his prosthetic arm jerking monotonously as he filled a tray of glasses.",
+      "collocations": [
+        "drone monotonously",
+        "repeat monotonously",
+        "hum monotonously"
+      ]
+    },
+    {
+      "word": "deficiency",
+      "pos": "n.",
+      "cefr": "C1",
+      "proficiency_benchmarks": {
+        "IELTS": "7.0+",
+        "TOEFL": "90+",
+        "PTE": "65+",
+        "Cambridge": "180-190 (C1)",
+        "DET": "120+"
+      },
+      "definition": "A lack, shortage, or insufficiency of an essential substance or quality.",
+      "vi_definition": "Sự thiếu hụt, suy giảm hàm lượng cần thiết.",
+      "context_in_text": "It's like my body's developed this massive drug deficiency.",
+      "collocations": [
+        "immune deficiency",
+        "severe deficiency",
+        "correct a deficiency"
+      ]
+    },
+    {
+      "word": "heraldic",
+      "pos": "adj.",
+      "cefr": "C2",
+      "proficiency_benchmarks": {
+        "IELTS": "7.5+",
+        "TOEFL": "95+",
+        "PTE": "70+",
+        "Cambridge": "185-200 (C2)",
+        "DET": "125+"
+      },
+      "definition": "Relating to coats of arms or emblazoned symbols; grandly or traditionally distinctive.",
+      "vi_definition": "Mang huy hiệu biểu trưng, có tính chất biểu chương đặc sắc.",
+      "context_in_text": "In an age of affordable beauty, there was something heraldic about his lack of it.",
+      "collocations": [
+        "heraldic emblem",
+        "heraldic tradition",
+        "heraldic bearings"
+      ]
+    },
+    {
+      "word": "ubiquitous",
+      "pos": "adj.",
+      "cefr": "C1",
+      "proficiency_benchmarks": {
+        "IELTS": "7.0+",
+        "TOEFL": "90+",
+        "PTE": "65+",
+        "Cambridge": "180-190 (C1)",
+        "DET": "120+"
+      },
+      "definition": "Present, appearing, or found everywhere simultaneously.",
+      "vi_definition": "Phổ biến khắp nơi, nhan nhản, có mặt khắp chốn.",
+      "context_in_text": "The ubiquitous presence of neon lights and sprawling corporate towers.",
+      "collocations": [
+        "ubiquitous influence",
+        "ubiquitous technology",
+        "become ubiquitous"
+      ]
+    },
+    {
+      "word": "obsolescence",
+      "pos": "n.",
+      "cefr": "C2",
+      "proficiency_benchmarks": {
+        "IELTS": "7.5+",
+        "TOEFL": "95+",
+        "PTE": "70+",
+        "Cambridge": "185-200 (C2)",
+        "DET": "125+"
+      },
+      "definition": "The state of becoming obsolete or being no longer useful or in use.",
+      "vi_definition": "Sự lỗi thời, sự thoái hóa và bị đào thải theo thời gian.",
+      "context_in_text": "Hardware condemned to rapid obsolescence by newer generations of microprocessors.",
+      "collocations": [
+        "planned obsolescence",
+        "technological obsolescence",
+        "fall into obsolescence"
+      ]
+    },
+    {
+      "word": "visceral",
+      "pos": "adj.",
+      "cefr": "C2",
+      "proficiency_benchmarks": {
+        "IELTS": "7.5+",
+        "TOEFL": "95+",
+        "PTE": "70+",
+        "Cambridge": "185-200 (C2)",
+        "DET": "125+"
+      },
+      "definition": "Relating to deep inward feelings rather than to the intellect; profound and bodily felt.",
+      "vi_definition": "Thuộc về bản năng sâu thẳm, tác động trực tiếp và mãnh liệt vào cảm giác cơ thể.",
+      "context_in_text": "The visceral shock of transitioning from disembodied cyberspace back into flesh.",
+      "collocations": [
+        "visceral reaction",
+        "visceral horror",
+        "visceral thrill"
+      ]
+    },
+    {
+      "word": "juxtaposition",
+      "pos": "n.",
+      "cefr": "C2",
+      "proficiency_benchmarks": {
+        "IELTS": "7.5+",
+        "TOEFL": "95+",
+        "PTE": "70+",
+        "Cambridge": "185-200 (C2)",
+        "DET": "125+"
+      },
+      "definition": "The fact of two things being seen or placed close together with contrasting effect.",
+      "vi_definition": "Sự đặt cạnh nhau để tương phản, phép tương phản đặt cận kề.",
+      "context_in_text": "The juxtaposition of cutting-edge neural tech with squalid back-alley clinic ruins.",
+      "collocations": [
+        "stark juxtaposition",
+        "unlikely juxtaposition",
+        "ironic juxtaposition"
+      ]
+    },
+    {
+      "word": "labyrinthine",
+      "pos": "adj.",
+      "cefr": "C2",
+      "proficiency_benchmarks": {
+        "IELTS": "7.5+",
+        "TOEFL": "95+",
+        "PTE": "70+",
+        "Cambridge": "185-200 (C2)",
+        "DET": "125+"
+      },
+      "definition": "Like a labyrinth; irregular, complicated, and perplexing in structure.",
+      "vi_definition": "Mê cung, chằng chịt và phức tạp như một ma trận.",
+      "context_in_text": "Navigating the labyrinthine databanks of Sense/Net and Tessier-Ashpool.",
+      "collocations": [
+        "labyrinthine corridors",
+        "labyrinthine system",
+        "labyrinthine bureaucracy"
+      ]
+    },
+    {
+      "word": "myriad",
+      "pos": "adj. / n.",
+      "cefr": "C1",
+      "proficiency_benchmarks": {
+        "IELTS": "7.0+",
+        "TOEFL": "90+",
+        "PTE": "65+",
+        "Cambridge": "180-190 (C1)",
+        "DET": "120+"
+      },
+      "definition": "A countless or extremely great number.",
+      "vi_definition": "Vô số, muôn vàn, hằng hà sa số.",
+      "context_in_text": "Myriad constellations of corporate data flashing in the electronic void.",
+      "collocations": [
+        "myriad options",
+        "myriad reasons",
+        "a myriad of possibilities"
+      ]
+    },
+    {
+      "word": "ephemeral",
+      "pos": "adj.",
+      "cefr": "C2",
+      "proficiency_benchmarks": {
+        "IELTS": "7.5+",
+        "TOEFL": "95+",
+        "PTE": "70+",
+        "Cambridge": "185-200 (C2)",
+        "DET": "125+"
+      },
+      "definition": "Lasting for a very short time; fleeting or transient.",
+      "vi_definition": "Phù du, chóng tàn, thoáng qua.",
+      "context_in_text": "The ephemeral rush of synthetic endorphins flooding his scorched receptors.",
+      "collocations": [
+        "ephemeral nature",
+        "ephemeral pleasures",
+        "ephemeral existence"
+      ]
+    }
+  ],
+  "test_proficiency_framework": {
+    "TOEFL_iBT": "Score 90+ (Pre-Jan 2026) / Band 5.0+ (Post-Jan 2026)",
+    "IELTS": "Band 7.0+ Academic (Good User to Very Good User)",
+    "PTE_Academic": "Score 65+ (Competent/Proficient Communicator)",
+    "Cambridge": "Score 185+ (C1 Advanced Grade A / C2 Proficiency Grade C+)",
+    "DET": "Score 120+ (Advanced Literacy, Comprehension, and Conversation)"
+  }
+}
