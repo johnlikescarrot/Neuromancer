@@ -1,0 +1,148 @@
+{
+  "checks": [
+    {
+      "name": "pdf_exists",
+      "pass": true,
+      "detail": "274852"
+    },
+    {
+      "name": "page_count",
+      "pass": true,
+      "detail": "75 pages"
+    },
+    {
+      "name": "vietnamese_diacritics",
+      "pass": true,
+      "detail": "required lowercase Vietnamese letters present"
+    },
+    {
+      "name": "no_cjk_contamination",
+      "pass": true,
+      "detail": "no Chinese characters in extracted text"
+    },
+    {
+      "name": "not_a_translation_notice",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "all_24_chapters",
+      "pass": true,
+      "detail": "missing=[]"
+    },
+    {
+      "name": "vocab_count",
+      "pass": true,
+      "detail": "192"
+    },
+    {
+      "name": "vocab_in_pdf",
+      "pass": true,
+      "detail": "missing=[]"
+    },
+    {
+      "name": "practice_R1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "practice_R2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "practice_R3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "practice_L1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "practice_L2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "practice_W1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "practice_W2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "practice_W3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "practice_W4",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "practice_I1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "practice_I2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "practice_I3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "pdf_outline",
+      "pass": true,
+      "detail": "59 outline entries"
+    },
+    {
+      "name": "font_glyph_coverage",
+      "pass": true,
+      "detail": "missing="
+    },
+    {
+      "name": "no_12_token_source_overlap",
+      "pass": true,
+      "detail": "overlap_count=0"
+    },
+    {
+      "name": "no_placeholder",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "no_blank_pages",
+      "pass": true,
+      "detail": "blank=[]"
+    },
+    {
+      "name": "bilingual_chapter_units",
+      "pass": true,
+      "detail": ""
+    }
+  ],
+  "warnings": [],
+  "page_count": 75,
+  "outline_entries": 59,
+  "sample_pages": [
+    1,
+    2,
+    3,
+    6,
+    11,
+    21,
+    41,
+    75
+  ],
+  "pdf_bytes": 274852
+}
