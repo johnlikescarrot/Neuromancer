@@ -1,0 +1,175 @@
+{
+  "chapter": 1,
+  "chapter_title_vi": "BẦU TRỜI KÊNH CHẾT & LƯỠI DAO DƯỚI MÓNG ĐỎ RƯỢU VANG",
+  "chapter_summary_vi": "Tại khu phố ngầm Thành phố Đêm (Night City) ở Chiba, Nhật Bản, Henry Dorsett Case — cựu 'cao bồi không gian mạng' thiên tài bị chủ cũ dùng độc tố nấm Nga đốt hỏng hệ thần kinh — trượt dài trong vòng xoáy ma túy tổng hợp và các thương vụ chợ đen tự hủy. Tin lời người tình nghiện ngập Linda Lee rằng tay trùm sinh học Wage muốn giết mình, Case hoảng loạn săn lùng vũ khí và tự đẩy mình vào cơn hoang tưởng suốt đêm trên phố Ninsei, để rồi lúc rạng sáng phát hiện Linda đã cuỗm cắp tài sản cuối cùng của hắn, còn kẻ bám đuôi thực sự là Molly — một nữ samurai đường phố mắt tráng gương cấy ghép được phái tới đưa hắn đến gặp một ông chủ bí ẩn.",
+  "vocabulary": [
+    {
+      "term": "expatriate",
+      "ipa": "/ekˈspæt.ri.ət/",
+      "pos": "n. / adj.",
+      "cefr": "C1",
+      "quote_id": "01·002",
+      "meaning_vi": "người sống lưu xứ / kẻ tha hương dài hạn ở nước ngoài",
+      "nuance_vi": "Khác với *immigrant* (người nhập cư định cư lâu dài) hay *migrant* (người di cư lao động), *expatriate* nhấn mạnh người rời quê hương sang làm việc/sinh sống ở nước khác nhưng vẫn giữ bản sắc tách biệt.",
+      "collocations": "• *professional expatriates* (giới chuyên gia tha hương) • *expatriate community* (cộng đồng người nước ngoài) — Rất hay xuất hiện trong IELTS Reading & TOEFL Sociology."
+    },
+    {
+      "term": "prosthetic / prosthesis",
+      "ipa": "/prɒsˈθet.ɪk/ • /prɒsˈθiː.sɪs/",
+      "pos": "adj. / n.",
+      "cefr": "C1",
+      "quote_id": "01·003",
+      "meaning_vi": "thuộc bộ phận giả y học / chi giả nhân tạo",
+      "nuance_vi": "Thuật ngữ y sinh học chuẩn xác (số nhiều của *prosthesis* là *prostheses* /prɒsˈθiː.siːz/ — bẫy phát âm và chính tả kinh điển của Cambridge C1 & PTE).",
+      "collocations": "• *prosthetic limb/arm* (chi/tay giả) • *neural prosthesis* (thiết bị giả thần kinh) — Từ vựng cốt lõi chủ đề Bio-engineering trong IELTS Writing Task 2."
+    },
+    {
+      "term": "heraldic",
+      "ipa": "/heˈræl.dɪk/",
+      "pos": "adj.",
+      "cefr": "C2",
+      "quote_id": "01·005",
+      "meaning_vi": "mang tính huy hiệu gia tộc; uy nghi biểu tượng cổ điển",
+      "nuance_vi": "Gibson dùng *heraldic* một cách nghịch dị (ironic): giữa kỷ nguyên ai cũng mua được nhan sắc nhân tạo, cái xấu xí nguyên bản của Ratz lại sừng sững như một gia huy quý tộc cổ.",
+      "collocations": "• *heraldic crest/emblem* (huy hiệu dòng tộc) • *heraldic bearing* (dáng vẻ uy nghi biểu tượng) — Đọc hiểu sắc thái châm biếm trong Cambridge C1/C2 Reading Part 5."
+    },
+    {
+      "term": "supplant",
+      "ipa": "/səˈplɑːnt/",
+      "pos": "v.",
+      "cefr": "C1",
+      "quote_id": "01·016",
+      "meaning_vi": "thay thế, chiếm chỗ và đào thải (cái cũ/lạc hậu)",
+      "nuance_vi": "Trang trọng và mạnh hơn *replace*: hàm ý cái mới vượt trội đẩy lùi cái cũ ra khỏi vị trí thống trị (*whole bodies of technique supplanted monthly*).",
+      "collocations": "• *be rapidly supplanted by* (nhanh chóng bị thay thế bởi) • *supplant traditional methods* — Động từ vàng cho bài luận Công nghệ & AI (TOEFL Band 5 / IELTS 7.5+)."
+    },
+    {
+      "term": "disembodied",
+      "ipa": "/ˌdɪs.ɪmˈbɒd.id/",
+      "pos": "adj.",
+      "cefr": "C1",
+      "quote_id": "01·024",
+      "meaning_vi": "thoát xác, tách rời khỏi cơ thể vật lý; không thấy người (chỉ nghe tiếng)",
+      "nuance_vi": "Xuất hiện hai lần trong Chương 1 với hai nghĩa tinh tế: *disembodied consciousness* (ý thức thoát xác trong ma trận [01·024]) và *Deane's disembodied voice* (giọng nói phát qua loa không thấy người [01·079]).",
+      "collocations": "• *disembodied voice/spirit/consciousness* — Rèn kỹ năng đa nghĩa theo ngữ cảnh (TOEFL Vocabulary-in-Context & DET)."
+    },
+    {
+      "term": "consensual",
+      "ipa": "/kənˈsen.sju.əl/",
+      "pos": "adj.",
+      "cefr": "C1",
+      "quote_id": "01·024",
+      "meaning_vi": "dựa trên sự đồng thuận chung / tự nguyện thống nhất",
+      "nuance_vi": "Danh từ gốc là *consensus* (sự đồng thuận). Trong cụm bất hủ *consensual hallucination*, nó diễn tả một không gian ảo được hàng triệu tâm trí cùng đồng thuận kiến tạo.",
+      "collocations": "• *consensual decision-making* (ra quyết định đồng thuận) • *reach a consensus* — Cực kỳ hữu dụng trong Cambridge Word Formation (consent → consensual)."
+    },
+    {
+      "term": "exultation",
+      "ipa": "/ˌeɡ.zʌlˈteɪ.ʃən/",
+      "pos": "n.",
+      "cefr": "C2",
+      "quote_id": "01·029",
+      "meaning_vi": "niềm hoan lạc tột độ, sự hân hoan chiến thắng mãnh liệt",
+      "nuance_vi": "Cần phân biệt sắc nét với *exaltation* (/ˌeɡ.zɔːlˈteɪ.ʃən/ — sự tôn vinh/đề cao). *Bodiless exultation* diễn tả khoái cảm tự do tuyệt đối khi thoát khỏi thể xác.",
+      "collocations": "• *a surge of exultation* (cơn sóng hân hoan) • *exult in (v.)* — Cặp từ dễ nhầm (confusable pair) thường gặp ở PTE Fill in the Blanks & CPE."
+    },
+    {
+      "term": "subliminal",
+      "ipa": "/ˌsʌbˈlɪm.ɪ.nəl/",
+      "pos": "adj.",
+      "cefr": "C1",
+      "quote_id": "01·038",
+      "meaning_vi": "dưới ngưỡng ý thức, tiềm thức ngầm",
+      "nuance_vi": "Từ gốc Latin *sub-* (dưới) + *limen* (ngưỡng cửa). Chỉ những tác động thâm nhập vào tâm trí mà người ta không nhận biết trực tiếp (*a constant subliminal hum*).",
+      "collocations": "• *subliminal advertising/messages* (quảng cáo/thông điệp tác động tiềm thức) — Chủ đề Tâm lý học quen thuộc trong IELTS & TOEFL."
+    },
+    {
+      "term": "burgeoning",
+      "ipa": "/ˈbɜː.dʒən.ɪŋ/",
+      "pos": "adj.",
+      "cefr": "C1",
+      "quote_id": "01·071",
+      "meaning_vi": "đang bùng nổ, sinh sôi phát triển nhanh chóng",
+      "nuance_vi": "Một trong những tính từ học thuật đắt giá nhất của bài thi TOEFL Reading và IELTS Writing (*burgeoning technologies* = những công nghệ đang trỗi dậy mạnh mẽ).",
+      "collocations": "• *burgeoning demand/industry/population* (nhu cầu/ngành công nghiệp/dân số tăng vọt)."
+    },
+    {
+      "term": "proscribed",
+      "ipa": "/prəʊˈskraɪbd/",
+      "pos": "adj. (past part.)",
+      "cefr": "C2",
+      "quote_id": "01·072",
+      "meaning_vi": "bị nghiêm cấm, bị đặt ngoài vòng pháp luật",
+      "nuance_vi": "**Bẫy C1/C2 kinh điển:** Đừng nhầm *proscribe* (cấm đoán, bài trừ) với *prescribe* (kê đơn, quy định)! *Proscribed biologicals* = các chế phẩm sinh học quốc cấm.",
+      "collocations": "• *proscribed organizations/substances* (tổ chức/chất bị cấm) — Từ phân loại điểm 185+ Cambridge & Band 5.0+ TOEFL."
+    },
+    {
+      "term": "stratified",
+      "ipa": "/ˈstræt.ɪ.faɪd/",
+      "pos": "adj.",
+      "cefr": "C1",
+      "quote_id": "01·074",
+      "meaning_vi": "phân tầng, phân hóa giai cấp rõ rệt",
+      "nuance_vi": "Mượn từ địa chất học (*strata* — các tầng địa chất) sang xã hội học để chỉ cấu trúc tôn ti cứng nhắc (*rigidly stratified criminal establishment*).",
+      "collocations": "• *a rigidly stratified society* (xã hội phân tầng cứng nhắc) • *social stratification (n.)*."
+    },
+    {
+      "term": "assiduously",
+      "ipa": "/əˈsɪdʒ.u.əs.li/",
+      "pos": "adv.",
+      "cefr": "C2",
+      "quote_id": "01·077",
+      "meaning_vi": "một cách cần mẫn, kiên trì tỉ mỉ không ngơi nghỉ",
+      "nuance_vi": "Nhấn mạnh sự chăm chút bền bỉ và công phu vào từng chi tiết nhỏ (*his metabolism assiduously warped by a weekly fortune in serums*).",
+      "collocations": "• *assiduously cultivate/avoid/pursue* (dày công vun đắp / kiên quyết tránh / bền bỉ theo đuổi)."
+    }
+  ],
+  "syntax_notes": [
+    {
+      "feature": "Mệnh đề Tuyệt đối Phân từ (Nominative Absolute Construction) tạo nhịp điện ảnh",
+      "quote_en": "Strapped to a bed in a Memphis hotel, his talent burning out micron by micron, he hallucinated for thirty hours. [01·027]",
+      "analysis_vi": "Câu gồm 3 tầng nén chặt: (1) Cụm quá khứ phân từ chỉ trạng thái bị động của chủ ngữ *he* (*Strapped to a bed...*); (2) **Cấu trúc tuyệt đối (Nominative Absolute)** có chủ ngữ riêng *his talent* + hiện tại phân từ *burning out micron by micron* diễn tả quá trình song hành tàn khốc; (3) Mệnh đề chính ngắn đanh (*he hallucinated for thirty hours*).",
+      "exam_transfer_vi": "Trong **PTE Summarize Written Text** và **IELTS Writing Band 7.5+**, thay vì nối câu vụng về bằng *and* (*He was strapped to a bed and his talent burned out...*), hãy dùng cấu trúc tuyệt đối: *Traditional manufacturing having declined, urban economies pivoted toward digital services.*"
+    },
+    {
+      "feature": "Đảo ngữ Tân ngữ (Object Fronting / Topicalization) khắc họa giọng ngoại quốc",
+      "quote_en": "Zone shows a percentage. You I let work here for entertainment value. [01·011]",
+      "analysis_vi": "Thay vì trật tự chuẩn *I let you work here...*, Ratz đẩy đại từ tân ngữ *You* lên đầu câu (*You I let work here...*). Phép đảo tân ngữ (topicalization) vừa tạo đối xứng tương phản gay gắt với *Zone* ở câu trước, vừa tái hiện âm hưởng ngữ pháp tiếng Đức/Đông Âu trong lời nói của Ratz.",
+      "exam_transfer_vi": "Hiểu rõ cơ chế *Fronting for contrast* giúp xử lý câu hỏi tu từ học trong **Cambridge C1/C2 Reading** và tránh lạm dụng cấu trúc khẩu ngữ này trong bài viết học thuật trang trọng (nơi nên thay bằng *Whereas Zone contributes a percentage, Case is permitted to operate...*)."
+    },
+    {
+      "feature": "Giả định thức Nhấn mạnh Trợ động từ (Emphatic Conditional Subjunctive)",
+      "quote_en": "If I *did* know, of course, I might not be in a position to tell you. Things being what they are, you understand. [01·089]",
+      "analysis_vi": "Julius Deane dùng *If I did know* (câu điều kiện loại 2 thêm trợ động từ *did* in nghiêng trước động từ nguyên mẫu) để nhấn mạnh tính giả định xa vời ('Giả sử như tôi *có* biết thật đi chăng nữa...'), kết hợp ngay sau đó bằng cụm phân từ tuyệt đối thành ngữ *Things being what they are* ('Trong hoàn cảnh thế sự như hiện nay').",
+      "exam_transfer_vi": "Cấu trúc *Even if governments did intervene...* và cụm *Circumstances being what they are...* là vũ khí ngữ pháp chuẩn **Band 7.0–8.0 IELTS** & **Cambridge Scale 185+** khi bàn luận giả thuyết đối lập."
+    },
+    {
+      "feature": "Chuyển đổi Khẩu ngữ Đường phố sang Văn phong Học thuật (Register Shifting)",
+      "quote_en": "I been lookin' for you, man... He does me, he's out the money anyway. [01·048, 01·055]",
+      "analysis_vi": "Gibson ghi âm chân thực tiếng lóng tầng đáy xã hội: lược bỏ trợ động từ *have* (*I [have] been lookin'*), lược bỏ *if* trong câu điều kiện (*[If] he does me*), dùng *do somebody* với nghĩa 'giết ai' và *be out + noun* ('mất trắng khoản gì').",
+      "exam_transfer_vi": "Trong **TOEFL Listening** hoặc **Cambridge Listening**, nắm bắt hiện tượng nuốt trợ động từ giúp nghe hiểu tự nhiên; ngược lại trong **Academic Writing**, luôn chuyển về dạng chuẩn: *Were he to eliminate me, he would forfeit the capital regardless.*"
+    }
+  ],
+  "exam_drills": [
+    {
+      "exam_tag": "TOEFL iBT Band 5.0 (90+) • Reading Inference & Rhetorical Purpose",
+      "prompt": "Based on paragraph [01·071], why does Case find the second theory about Night City's existence plausible?\n(A) Municipal authorities lack the policing resources required to regulate gaijin enclaves.\n(B) Rapidly emerging technologies inherently necessitate unregulated spaces in which to evolve without legal constraints.\n(C) The Yakuza actively fund black clinics in order to monopolize legitimate corporate research in Tokyo.\n(D) Corporate arcologies rely on Night City primarily as a source of inexpensive labor.",
+      "answer_and_explanation": "**Đáp án đúng: (B).** Trong đoạn [01·071], Case nhận thấy có lý ở quan điểm *\"that burgeoning technologies require outlaw zones, that Night City wasn't there for its inhabitants, but as a deliberately unsupervised playground for technology itself.\"* Phương án (B) diễn giải chuẩn xác (paraphrase) *burgeoning technologies* → *rapidly emerging technologies* và *outlaw zones / deliberately unsupervised playground* → *unregulated spaces without legal constraints*. (A) sai vì sự buông lỏng là *deliberately unsupervised* (cố ý); (C) trộn lẫn sai lệch giả thuyết thứ nhất về Yakuza ('công viên lịch sử'); (D) không có trong văn bản."
+    },
+    {
+      "exam_tag": "Cambridge C1 Advanced / C2 (Scale 185+) • Key Word Transformation",
+      "prompt": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given in capitals. Do not change the word given. Use between THREE and SIX words.\n\n1. Whole bodies of neurosurgical technique were replaced every month in Chiba's black clinics. (**SUPPLANTED**)\n→ Whole bodies of neurosurgical technique ________________________ basis in Chiba's black clinics.\n\n2. Even assuming Deane actually possessed that information, his position prevented him from disclosing it. (**DID**)\n→ Even ________________________ that information, he was not in a position to disclose it.",
+      "answer_and_explanation": "**1. were supplanted on a monthly** (Cấu trúc bị động *were supplanted* + cụm giới từ chuẩn C1 *on a monthly basis* thay cho trạng từ *monthly*).\n**2. if Deane did possess** (hoặc **if Deane did have**) (Cấu trúc điều kiện giả định nhấn mạnh *Even if + S + did + V-infinitive*, đối chiếu trực tiếp đoạn [01·089])."
+    },
+    {
+      "exam_tag": "PTE Academic 65+ & DET 120+ • Contextual Lexical Cloze",
+      "prompt": "Fill in each blank with ONE precise C1/C2 word drawn from Chapter 1's academic lexicon:\n\"Rather than serving merely as a refuge for petty criminals, the enclave functioned as an experiment in social stratification: legitimate commerce had long been (1) __________ by cashless corporate networks, while trade in (2) __________ biological agents thrived beneath a (3) __________ hum of constant surveillance and paranoia.\"",
+      "answer_and_explanation": "**(1) supplanted** (bị thay thế/đào thải bởi mạng lưới phi tiền mặt) • **(2) proscribed** (bị nghiêm cấm theo luật pháp — chú ý không viết nhầm thành *prescribed*) • **(3) subliminal** (tiềm thức, âm ỉ dưới ngưỡng nhận thức)."
+    },
+    {
+      "exam_tag": "IELTS Writing Task 2 (Band 7.0+) & TOEFL Academic Discussion • Production Transfer",
+      "prompt": "**Topic:** *Rapid technological innovation often outpaces legal and ethical regulation, creating 'gray zones' before laws catch up. To what extent should governments restrict experimental technologies before their risks are fully understood?*\nHãy viết một luận điểm chủ đề (Thesis & Topic Paragraph ~90–110 từ) vận dụng tối thiểu 3 từ vựng C1/C2 của Chương 1 (*burgeoning, supplant, proscribed, stratified*).",
+      "answer_and_explanation": "**Đoạn văn mẫu chuẩn Band 7.5–8.0 (C1+):** *While overly rigid regulation can stifle **burgeoning** scientific fields such as neurotechnology and genetic engineering, complete deregulation inevitably invites abuse. History demonstrates that whenever novel capabilities **supplant** existing medical standards faster than oversight frameworks can adapt, commercial incentives push hazardous procedures into unaccountable gray markets. Rather than imposing blanket bans that merely drive **proscribed** experimentation underground—potentially deepening a **stratified** divide between wealthy elites and vulnerable populations—policymakers should establish supervised regulatory sandboxes paired with strict bioethical boundaries.*"
+    }
+  ]
+}

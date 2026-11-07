@@ -480,7 +480,7 @@ def generate_typst_source(chapters_to_include: list[int], is_complete: bool) -> 
     columns: (24%, 34%, 42%),
     inset: 5pt,
     stroke: 0.4pt + border-light,
-    fill: (x, y) => if y == 0 { slate-dark } else if calc.odd(y) { bg-soft } else { white },
+    fill: (x, y) => if y == 0 {{ slate-dark }} else if calc.odd(y) {{ bg-soft }} else {{ white }},
     table.header(
       [#text(font: ("Be Vietnam Pro", "DejaVu Sans"), fill: white, weight: "bold")[Từ vựng • IPA • CEFR]],
       [#text(font: ("Be Vietnam Pro", "DejaVu Sans"), fill: white, weight: "bold")[Nghĩa Tiếng Việt & Sắc thái C1/C2]],
@@ -559,7 +559,7 @@ def generate_typst_source(chapters_to_include: list[int], is_complete: bool) -> 
     columns: (25%, 18%, 10%, 37%, 10%),
     inset: 4.5pt,
     stroke: 0.35pt + border-light,
-    fill: (x, y) => if y == 0 { navy } else if calc.odd(y) { bg-soft } else { white },
+    fill: (x, y) => if y == 0 {{ navy }} else if calc.odd(y) {{ bg-soft }} else {{ white }},
     table.header(
       [#text(font: ("Be Vietnam Pro", "DejaVu Sans"), fill: white, weight: "bold")[Mục từ (Headword)]],
       [#text(font: ("Be Vietnam Pro", "DejaVu Sans"), fill: white, weight: "bold")[Phiên âm IPA]],

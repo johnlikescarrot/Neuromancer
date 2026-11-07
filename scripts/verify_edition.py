@@ -74,6 +74,10 @@ def verify_chapter(ch_num: int, strict_ratio: bool = True) -> list[str]:
         if vi.count("*") % 2 != 0:
             errors.append(f"Ch {ch_num:02d} [{idx:03d}]: Unbalanced '*' emphasis in VI: {vi[:80]}")
 
+        # Disallow stray CJK / Hangul / Cyrillic characters in Vietnamese text
+        if re.search(r"[\u0400-\u04FF\u3040-\u30FF\u4E00-\u9FFF\uAC00-\uD7AF]", vi):
+            errors.append(f"Ch {ch_num:02d} [{idx:03d}]: Stray non-Latin/VI script character in VI: {vi[:80]}")
+
         if VI_DIACRITIC_RE.search(vi):
             diacritic_paras += 1
         elif len(en.split()) >= 5:
