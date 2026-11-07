@@ -1,0 +1,265 @@
+@page {
+  size: A4;
+  margin: 20mm 15mm 20mm 15mm;
+  @top-left {
+    content: "William Gibson — Neuromancer (Bilingual Edition)";
+    font-family: "DejaVu Sans", "Helvetica Neue", Arial, sans-serif;
+    font-size: 8pt;
+    color: #718096;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 4px;
+  }
+  @top-right {
+    content: "Ấn bản Song ngữ Anh - Việt";
+    font-family: "DejaVu Sans", "Helvetica Neue", Arial, sans-serif;
+    font-size: 8pt;
+    color: #718096;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 4px;
+  }
+  @bottom-center {
+    content: counter(page);
+    font-family: "DejaVu Sans", "Helvetica Neue", Arial, sans-serif;
+    font-size: 9pt;
+    color: #4a5568;
+  }
+}
+
+body {
+  font-family: "DejaVu Serif", "Georgia", "Times New Roman", serif;
+  color: #1a202c;
+  line-height: 1.6;
+  font-size: 10pt;
+  margin: 0;
+  padding: 0;
+}
+
+.cover-page {
+  page-break-after: always;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);
+  color: #f0f6fc;
+  padding: 40px;
+  box-sizing: border-box;
+}
+
+.cover-title {
+  font-size: 38pt;
+  font-weight: 900;
+  letter-spacing: 4px;
+  color: #58a6ff;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  text-shadow: 0 0 10px rgba(88, 166, 255, 0.4);
+}
+
+.cover-subtitle {
+  font-size: 18pt;
+  font-weight: 300;
+  letter-spacing: 2px;
+  color: #8b949e;
+  margin-bottom: 30px;
+}
+
+.cover-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin: 25px 0;
+  max-width: 600px;
+}
+
+.badge {
+  background: #21262d;
+  border: 1px solid #30363d;
+  color: #7ee787;
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 8.5pt;
+  font-family: "DejaVu Sans", sans-serif;
+  font-weight: 600;
+}
+
+.cover-desc {
+  font-size: 10pt;
+  color: #c9d1d9;
+  max-width: 550px;
+  line-height: 1.5;
+  margin-top: 20px;
+}
+
+.cover-author {
+  margin-top: 40px;
+  font-size: 12pt;
+  letter-spacing: 1px;
+  color: #f0f6fc;
+  font-family: "DejaVu Sans", sans-serif;
+}
+
+.page-break {
+  page-break-after: always;
+}
+
+.section-part-header {
+  page-break-before: always;
+  text-align: center;
+  margin: 60px 0 40px 0;
+  padding: 20px;
+  background: #f7fafc;
+  border-top: 3px solid #2b6cb0;
+  border-bottom: 3px solid #2b6cb0;
+}
+
+.section-part-title {
+  font-size: 18pt;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: #2b6cb0;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.section-part-vi {
+  font-size: 13pt;
+  color: #4a5568;
+  margin-top: 6px;
+  font-style: italic;
+}
+
+.chapter-header {
+  page-break-before: always;
+  margin-top: 30px;
+  margin-bottom: 25px;
+  border-bottom: 2px solid #cbd5e0;
+  padding-bottom: 10px;
+}
+
+.chapter-title {
+  font-size: 16pt;
+  font-weight: bold;
+  color: #1a365d;
+  margin: 0;
+}
+
+.chapter-sub {
+  font-size: 11pt;
+  color: #718096;
+  font-style: italic;
+  margin-top: 4px;
+}
+
+.parallel-row {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 14px;
+  page-break-inside: avoid;
+  gap: 20px;
+  border-bottom: 1px dotted #e2e8f0;
+  padding-bottom: 12px;
+}
+
+.col-en {
+  flex: 1;
+  text-align: justify;
+  font-size: 9.5pt;
+  line-height: 1.55;
+  color: #2d3748;
+}
+
+.col-vi {
+  flex: 1;
+  text-align: justify;
+  font-size: 9.5pt;
+  line-height: 1.55;
+  color: #1a202c;
+  background-color: #fafbfc;
+  padding: 4px 8px;
+  border-radius: 4px;
+  border-left: 3px solid #4299e1;
+}
+
+.vocab-box {
+  margin: 15px 0 25px 0;
+  background: #ebf8ff;
+  border: 1px solid #bee3f8;
+  border-left: 4px solid #3182ce;
+  border-radius: 6px;
+  padding: 12px 16px;
+  page-break-inside: avoid;
+  font-family: "DejaVu Sans", sans-serif;
+}
+
+.vocab-title {
+  font-size: 10pt;
+  font-weight: bold;
+  color: #2b6cb0;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.vocab-item {
+  margin-bottom: 6px;
+  font-size: 8.5pt;
+  line-height: 1.45;
+  color: #2d3748;
+}
+
+.vocab-word {
+  font-weight: bold;
+  color: #1a365d;
+}
+
+.vocab-phonetic {
+  color: #718096;
+  font-style: italic;
+  margin-right: 4px;
+}
+
+.vocab-exam-tag {
+  display: inline-block;
+  background: #3182ce;
+  color: white;
+  font-size: 7pt;
+  font-weight: bold;
+  padding: 1px 5px;
+  border-radius: 3px;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.vocab-def {
+  color: #4a5568;
+}
+
+.vocab-trans {
+  color: #2c5282;
+  font-weight: 500;
+}
+
+.cultural-note {
+  margin: 12px 0 20px 0;
+  background: #fffaf0;
+  border: 1px solid #feebc8;
+  border-left: 4px solid #dd6b20;
+  border-radius: 6px;
+  padding: 10px 14px;
+  page-break-inside: avoid;
+  font-family: "DejaVu Sans", sans-serif;
+  font-size: 8.5pt;
+  line-height: 1.45;
+  color: #744210;
+}
+
+.cultural-note-title {
+  font-weight: bold;
+  color: #c05621;
+  margin-bottom: 4px;
+}

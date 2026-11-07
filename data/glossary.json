@@ -1,0 +1,11 @@
+{
+  "benchmarks": {
+    "TOEFL": "90 (prior to Jan 21, 2026) / 5 (from Jan 21, 2026 onwards)",
+    "IELTS": "7.0 (Good user / operational command)",
+    "PTE_Academic": "65",
+    "Cambridge": "185 (C1 Advanced / C2 Proficiency)",
+    "Duolingo_DET": "120"
+  },
+  "target_audience": "Advanced English Learners & Cyberpunk Connoisseurs",
+  "entries": {}
+}

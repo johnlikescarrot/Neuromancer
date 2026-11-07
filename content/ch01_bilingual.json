@@ -1,0 +1,1226 @@
+{
+  "part": "PART ONE - CHIBA CITY BLUES",
+  "part_vi": "PHẦN MỘT - NỖI SẦU THÀNH PHỐ CHIBA",
+  "is_first_of_part": true,
+  "chapter": "CHAPTER 1",
+  "chapter_vi": "CHƯƠNG 1",
+  "sections": [
+    {
+      "type": "note",
+      "title": "KÍNH VẠN HOA CỦA ĐẦU SÁCH: CÂU MỞ ĐẦU KINH ĐIỂN CỦA VĂN HỌC THẾ KỶ 20",
+      "content": "Câu mở đầu kinh điển: 'The sky above the port was the color of television, tuned to a dead channel' (Bầu trời phía trên bến cảng mang màu của một màn hình tivi bắt trúng kênh tín hiệu chết). Vào năm 1984 khi cuốn sách ra đời, 'dead channel' trên tivi CRT analog phát ra nhiễu tĩnh điện xám xịt nhấp nháy ('snow/static'). Chi tiết này lập tức thiết lập thế giới quan cyberpunk nơi tự nhiên đã bị đồng hóa và mô tả hoàn toàn bằng ẩn dụ công nghệ và màn hình điện tử."
+    },
+    {
+      "type": "parallel",
+      "en": "The sky above the port was the color of television, tuned to a dead channel.",
+      "vi": "Bầu trời phía trên bến cảng mang màu của một màn hình tivi bắt trúng kênh tín hiệu chết."
+    },
+    {
+      "type": "parallel",
+      "en": "\"It's not like I'm using,\" Case heard someone say, as he shouldered his way through the crowd around the door of the Chat. \"It's like my body's developed this massive drug deficiency.\" It was a Sprawl voice and a Sprawl joke. The Chatsubo was a bar for professional expatriates; you could drink there for a week and never hear two words in Japanese.",
+      "vi": "“Không phải là tôi đang phê pha,” Case nghe thấy ai đó nói khi anh lách mình qua đám đông quanh cửa quán Chat. “Chỉ là cơ thể tôi vừa phát tác cơn thiếu thuốc trầm trọng thôi.” Đó là một giọng nói vùng Sprawl và một câu đùa kiểu Sprawl. Quán Chatsubo vốn là quán bar dành cho dân tha hương chuyên nghiệp; bạn có thể ngồi uống ở đó suốt cả tuần mà chẳng bao giờ nghe thấy lấy hai từ tiếng Nhật."
+    },
+    {
+      "type": "parallel",
+      "en": "Ratz was tending bar, his prosthetic arm jerking monotonously as he filled a tray of glasses with draft Kirin. He saw Case and smiled, his teeth a webwork of East European steel and brown decay. Case found a place at the bar, between the unlikely tan on one of Lonny Zone's whores and the crisp naval uniform of a tall African whose cheekbones were ridged with precise rows of tribal scars. \"Wage was in here early, with two joeboys,\" Ratz said, shoving a draft across the bar with his good hand. \"Maybe some business with you, Case?\"",
+      "vi": "Ratz đang đứng quầy, cánh tay cơ khí giả của gã giật giật đều đặn khi gã rót đầy một khay bia Kirin tươi. Gã nhìn thấy Case và mỉm cười, hàm răng gã là một mạng lưới thép Đông Âu đan xen với những mảng mục nát ố nâu. Case tìm được một chỗ ở quầy bar, chen giữa làn da rám nắng kỳ quặc của một trong những ả đào nhà Lonny Zone và bộ quân phục hải quân chỉnh tề của một gã châu Phi cao lớn có gò má hằn những vệt sẹo bộ tộc ngay ngắn. “Wage ghé qua đây lúc sớm, cùng hai gã du côn joeboy,” Ratz nói, đẩy một vại bia qua mặt quầy bằng bàn tay lành lặn. “Có mối làm ăn gì với cậu à, Case?”"
+    },
+    {
+      "type": "parallel",
+      "en": "Case shrugged. The girl to his right giggled and nudged him.",
+      "vi": "Case nhún vai. Cô ả bên phải anh khúc khích cười rồi huých nhẹ vào người anh."
+    },
+    {
+      "type": "parallel",
+      "en": "The bartender's smile widened. His ugliness was the stuff of legend. In an age of affordable beauty, there was something heraldic about his lack of it. The antique arm whined as he reached for another mug. It was a Russian military prosthesis, a seven-function force-feedback manipulator, cased in grubby pink plastic. \"You are too much the artiste, Herr Case.\" Ratz grunted; the sound served him as laughter. He scratched his overhang of white-shirted belly with the pink claw. \"You are the artiste of the slightly funny deal.\"",
+      "vi": "Nụ cười của gã pha chế càng nở rộng. Vẻ xấu xí của gã đã đi vào huyền thoại. Trong một thời đại mà vẻ đẹp có thể mua được dễ dàng, sự thiếu thốn nhan sắc của gã lại mang một nét gì đó đường bệ, huy hoàng. Cánh tay cổ lỗ rít lên ken két khi gã với lấy một vại bia khác. Đó là một cánh tay giả quân sự của Nga, một bộ thao tác phản hồi lực bảy chức năng, bọc trong lớp nhựa màu hồng bẩn thỉu. “Cậu đúng là một nghệ sĩ quá đỗi, Herr Case.” Ratz khịt mũi gầm gừ; âm thanh ấy thay cho tiếng cười. Gã gãi gãi cái bụng phệ lộ ra dưới lớp áo sơ mi trắng bằng cái vuốt màu hồng. “Cậu là nghệ sĩ của những phi vụ có đôi chút nực cười.”"
+    },
+    {
+      "type": "parallel",
+      "en": "\"Sure,\" Case said, and sipped his beer. \"Somebody's gotta be funny around here. Sure the fuck isn't you.\"",
+      "vi": "“Chắc rồi,” Case nói, nhấp một ngụm bia. “Phải có ai đó vui nhộn ở cái chốn này chứ. Mà kẻ đó dứt khoát đếch phải lão rồi.”"
+    },
+    {
+      "type": "vocab",
+      "title": "CHIBA CITY & THE UNDERWORLD: HIGH-LEVEL ACADEMIC VOCABULARY",
+      "items": [
+        {
+          "word": "prosthetic",
+          "ipa": "/prɒsˈθet.ɪk/",
+          "level": "C1 / IELTS 7.5",
+          "en_def": "relating to an artificial body part, such as a limb, tooth, or eye",
+          "vi_def": "thuộc về chi giả, bộ phận cơ thể giả"
+        },
+        {
+          "word": "monotonously",
+          "ipa": "/məˈnɒt.ən.əs.li/",
+          "level": "C1 / TOEFL 95",
+          "en_def": "in a dull, unvarying, and repetitive tone or manner",
+          "vi_def": "đều đều, đơn điệu, không đổi nhịp"
+        },
+        {
+          "word": "heraldic",
+          "ipa": "/hɪˈræl.dɪk/",
+          "level": "C2 / Cambridge CPE 190+",
+          "en_def": "bearing distinctive, prestigious historic or symbolic significance",
+          "vi_def": "mang tính huy hiệu, đường bệ, có dấu ấn biểu trưng"
+        },
+        {
+          "word": "force-feedback",
+          "ipa": "/fɔːs ˈfiːd.bæk/",
+          "level": "Technical C1",
+          "en_def": "the simulation of physical sensations such as resistance or vibration in a human-machine interface",
+          "vi_def": "cơ chế phản hồi lực trong giao diện máy móc - thần kinh"
+        }
+      ]
+    },
+    {
+      "type": "parallel",
+      "en": "The whore's giggle went up an octave.",
+      "vi": "Tiếng cười khúc khích của con điếm tăng lên một quãng tám."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Isn't you either, sister. So you vanish, okay? Zone, he's a close personal friend of mine.\"",
+      "vi": "\"Chị cũng vậy phải không chị. Vậy chị biến mất nhé? Zone, anh ấy là bạn thân của tôi.\""
+    },
+    {
+      "type": "parallel",
+      "en": "She looked Case in the eye and made the softest possible spitting sound, her lips barely moving. But she left.",
+      "vi": "Cô ấy nhìn vào mắt Case và phát ra âm thanh khạc nhẹ nhất có thể, môi cô ấy hầu như không cử động. Nhưng cô ấy đã bỏ đi."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Jesus,\" Case said, \"what kinda creepjoint you running here? Man can't have a drink.\"",
+      "vi": "\"Chúa ơi,\" Case nói, \"bạn đang chạy đến đây bằng thứ gì vậy? Con người không thể uống được.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"Ha,\" Ratz said, swabbing the scarred wood with a rag, \"Zone shows a percentage. You I let work here for entertainment value.\"",
+      "vi": "“Ha,” Ratz nói, dùng giẻ lau vết sẹo trên phần gỗ, “Khu vực hiển thị tỷ lệ phần trăm. Tôi cho anh làm việc ở đây vì giá trị giải trí.”"
+    },
+    {
+      "type": "parallel",
+      "en": "As Case was picking up his beer, one of those strange instants of silence descended, as though a hundred unrelated conversations had simultaneously arrived at the same pause. Then the whore's giggle rang out, tinged with a certain hysteria.",
+      "vi": "Khi Case đang cầm cốc bia của mình lên, một trong những khoảnh khắc im lặng kỳ lạ đó bao trùm, như thể hàng trăm cuộc trò chuyện không liên quan đã đồng thời dừng lại ở cùng một khoảng dừng. Rồi tiếng cười khúc khích của con điếm vang lên, nhuốm vẻ cuồng loạn."
+    },
+    {
+      "type": "parallel",
+      "en": "Ratz grunted. \"An angel passed.\"",
+      "vi": "Ratz càu nhàu. \"Một thiên thần đã đi qua.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"The Chinese,\" bellowed a drunken Australian, \"Chinese bloody invented nerve-splicing. Give me the mainland for a nerve job any day. Fix you right, mate...\"",
+      "vi": "\"Người Trung Quốc,\" một người Úc say rượu gầm lên, \"Người Trung Quốc đã phát minh ra phương pháp nối dây thần kinh. Hãy giao cho tôi đất liền để làm công việc thần kinh bất cứ ngày nào. Hãy sửa chữa đi, anh bạn...\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"Now that,\" Case said to his glass, all his bitterness suddenly rising in him like bile, \"that is _so_ much bullshit.\"",
+      "vi": "“Giờ thì,” Case nói với ly rượu của mình, tất cả sự cay đắng đột nhiên dâng lên trong anh như mật, “điều đó _thật là nhảm nhí.”"
+    },
+    {
+      "type": "parallel",
+      "en": "The Japanese had already forgotten more neurosurgery than the Chinese had ever known. The black clinics of Chiba were the cutting edge, whole bodies of technique supplanted monthly, and still they couldn't repair the damage he'd suffered in that Memphis hotel.",
+      "vi": "Người Nhật đã quên nhiều kiến thức phẫu thuật thần kinh hơn cả những gì người Trung Quốc từng biết. Những phòng khám chợ đen ở Chiba là đỉnh cao công nghệ, các hệ thống kỹ thuật hoàn toàn mới được thay thế hàng tháng, vậy mà họ vẫn không thể hàn gắn được tổn thương mà anh đã phải gánh chịu tại khách sạn Memphis đó."
+    },
+    {
+      "type": "parallel",
+      "en": "A year here and he still dreamed of cyberspace, hope fading nightly. All the speed he took, all the turns he'd taken and the corners he'd cut in Night City, and still he'd see the matrix in his sleep, bright lattices of logic unfolding across that colorless void... The Sprawl was a long strange way home over the Pacific now, and he was no console man, no cyberspace cowboy. Just another hustler, trying to make it through. But the dreams came on in the Japanese night like livewire voodoo, and he'd cry for it, cry in his sleep, and wake alone in the dark, curled in his capsule in some coffin hotel, his hands clawed into the bedslab, temperfoam bunched between his fingers, trying to reach the console that wasn't there.",
+      "vi": "Một năm ở đây và anh vẫn mơ về không gian ảo (cyberspace), niềm hy vọng cứ lụi tàn dần qua từng đêm. Mọi liều thuốc kích thích speed anh từng nạp, mọi khúc cua anh từng rẽ và mọi lối tắt anh từng lách qua ở Night City, anh vẫn thấy ma trận hiện về trong giấc ngủ, những mạng tinh thể logic rực rỡ mở ra trên khoảng hư không vô sắc... Giờ đây Sprawl là một chặng đường về kỳ lạ và thăm thẳm bên kia bờ Thái Bình Dương, và anh không còn là một tay điều khiển bàn điều khiển, không còn là chàng cao bồi không gian ảo. Chỉ là một kẻ xoay xở kiếm sống tầm thường khác, gắng gượng qua ngày. Nhưng những giấc mơ ập đến trong đêm xứ Nhật tựa thứ tà thuật voodoo dây điện sống, và anh sẽ khóc vì nó, bật khóc trong cơn mê, rồi thức giấc đơn độc trong bóng tối, co ro trong khoang con nhộng tại một khách sạn quan tài nào đó, đôi bàn tay cào cấu vào phiến đệm, lớp mút xốp temperfoam vón cục giữa các ngón tay, tuyệt vọng với tìm bàn điều khiển vốn đã chẳng còn ở đó nữa."
+    },
+    {
+      "type": "parallel",
+      "en": "\"I saw your girl last night,\" Ratz said, passing Case his second Kirin.",
+      "vi": "“Tối qua tôi đã nhìn thấy cô gái của anh,” Ratz nói, đưa cho Case chiếc con kỳ lân thứ hai của anh."
+    },
+    {
+      "type": "vocab",
+      "title": "CYBERSPACE & LOSS: ACADEMIC & CEFR C1/C2 VOCABULARY",
+      "items": [
+        {
+          "word": "supplant",
+          "ipa": "/səˈplɑːnt/",
+          "level": "C2 / GRE / IELTS 8.0",
+          "en_def": "to supersede and replace something through superior force, innovation, or efficiency",
+          "vi_def": "thay thế, soán chỗ, vượt mặt"
+        },
+        {
+          "word": "lattices",
+          "ipa": "/ˈlæt.ɪ.sɪz/",
+          "level": "C1 / PTE 70+",
+          "en_def": "interlaced structures or regular periodic geometrical frameworks",
+          "vi_def": "mạng tinh thể, mạng lưới cấu trúc không gian"
+        },
+        {
+          "word": "consensual",
+          "ipa": "/kənˈsen.sju.əl/",
+          "level": "C1 / TOEFL 92",
+          "en_def": "existing by mutual agreement or shared perception among a community",
+          "vi_def": "đồng thuận, được sự nhất trí chung"
+        },
+        {
+          "word": "disembodied",
+          "ipa": "/ˌdɪs.ɪmˈbɒd.id/",
+          "level": "C1 / DET 125",
+          "en_def": "separated from or existing without a biological physical body",
+          "vi_def": "phi thể xác, tách rời khỏi thân xác"
+        }
+      ]
+    },
+    {
+      "type": "parallel",
+      "en": "\"I don't have one,\" he said, and drank.",
+      "vi": "“Tôi không có,” anh nói và uống."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Miss Linda Lee.\"",
+      "vi": "\"Cô Linda Lee.\""
+    },
+    {
+      "type": "parallel",
+      "en": "Case shook his head.",
+      "vi": "Case lắc đầu."
+    },
+    {
+      "type": "parallel",
+      "en": "\"No girl? Nothing? Only biz, friend artiste? Dedication to commerce?\" The bartender's small brown eyes were nested deep in wrinkled flesh. \"I think I liked you better, with her. You laughed more. Now, some night, you get maybe too artistic; you wind up in the clinic tanks, spare parts.\"",
+      "vi": "\"Không cô gái? Không có gì? Chỉ có giới thôi, bạn nghệ sĩ? Cống hiến cho thương mại?\" Đôi mắt nâu nhỏ của người pha chế rượu ẩn sâu trong làn da nhăn nheo. \"Tôi nghĩ tôi thích anh hơn, với cô ấy. Anh cười nhiều hơn. Bây giờ, một đêm nào đó, có lẽ anh trở nên quá nghệ thuật; anh cuộn mình trong thùng chứa đồ dự phòng của bệnh viện.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"You're breaking my heart, Ratz.\" He finished his beer, paid and left, high narrow shoulders hunched beneath the rainstained khaki nylon of his windbreaker. Threading his way through the Ninsei crowds, he could smell his own stale sweat.",
+      "vi": "“Anh đang làm tan nát trái tim tôi đấy, Ratz.” Anh ta uống xong bia, trả tiền và rời đi, đôi vai cao hẹp khom xuống bên dưới lớp vải kaki bằng nylon dính nước mưa của chiếc áo gió. Đi xuyên qua đám đông Ninsei, anh có thể ngửi thấy mùi mồ hôi thiu thiu của chính mình."
+    },
+    {
+      "type": "note",
+      "title": "THUẬT NGỮ CYBERSPACE VÀ COWBOY KHÔNG GIAN ẢO",
+      "content": "William Gibson chính là người đã phổ biến và định hình từ 'Cyberspace' vào văn hóa đại chúng qua Neuromancer. 'Console cowboy' (cao bồi bàn điều khiển) là hình tượng người dịch chuyển ý thức vào mạng lưới dữ liệu toàn cầu bằng 'deck' (thiết bị điều khiển giao diện thần kinh), mang tinh thần độc lập, liều lĩnh và nổi loạn của những chàng cao bồi viễn Tây nước Mỹ thế kỷ 19."
+    },
+    {
+      "type": "parallel",
+      "en": "Case was twenty-four. At twenty-two, he'd been a cowboy, a rustler, one of the best in the Sprawl. He'd been trained by the best, by McCoy Pauley and Bobby Quine, legends in the biz. He'd operated on an almost permanent adrenaline high, a byproduct of youth and proficiency, jacked into a custom cyberspace deck that projected his disembodied consciousness into the consensual hallucination that was the matrix. A thief, he'd worked for other, wealthier thieves, employers who provided the exotic software required to penetrate the bright walls of corporate systems, opening windows into rich fields of data.",
+      "vi": "Case hai mươi tư tuổi. Năm hai mươi hai tuổi, anh từng là một cao bồi, một tay trộm dữ liệu siêu đẳng, một trong những tay cừ khôi nhất ở Sprawl. Anh từng được đào tạo bởi những huyền thoại xuất sắc nhất, bởi McCoy Pauley và Bobby Quine, những tượng đài trong giới. Anh từng hoạt động trong cơn hưng phấn adrenaline gần như triền miên, hệ quả của tuổi trẻ và kỹ năng siêu việt, cắm giắc cắm thần kinh vào cỗ máy cyberspace được tinh chỉnh riêng nhằm phóng chiếu ý thức phi thể xác của mình vào ảo giác đồng thuận mang tên ma trận (the matrix). Một kẻ trộm, anh từng làm việc cho những tên trộm khác giàu có hơn, những kẻ thuê mướn cung cấp các phần mềm ngoại lai tinh vi cần thiết để chọc thủng những bức tường kiên cố của hệ thống các tập đoàn, mở toang những ô cửa dẫn vào các mỏ dữ liệu màu mỡ."
+    },
+    {
+      "type": "parallel",
+      "en": "He'd made the classic mistake, the one he'd sworn he'd never make. He stole from his employers. He kept something for himself and tried to move it through a fence in Amsterdam. He still wasn't sure how he'd been discovered, not that it mattered now. He'd expected to die, then, but they only smiled. Of course he was welcome, they told him, welcome to the money. And he was going to need it. Because -still smiling -they were going to make sure he never worked again.",
+      "vi": "Anh đã phạm phải sai lầm kinh điển, sai lầm mà anh từng thề sẽ không bao giờ mắc phải. Anh đã ăn trộm của chính những kẻ thuê mình. Anh giữ lại một phần cho riêng mình và cố tuồn nó qua một tay tiêu thụ đồ gian ở Amsterdam. Anh vẫn không hiểu làm sao họ phát hiện ra, dẫu giờ đây điều đó chẳng còn quan trọng nữa. Lúc ấy anh đã chuẩn bị tinh thần đón nhận cái chết, nhưng họ chỉ mỉm cười. Họ bảo anh rằng dĩ nhiên anh cứ tự nhiên, cứ cầm lấy số tiền đó đi. Và anh sẽ cần đến nó đấy. Bởi vì — vẫn với nụ cười ấy — họ sẽ bảo đảm rằng anh sẽ không bao giờ còn có thể hành nghề được nữa."
+    },
+    {
+      "type": "parallel",
+      "en": "They damaged his nervous system with a wartime Russian mycotoxin.",
+      "vi": "Họ hủy hoại hệ thần kinh của anh bằng một loại độc tố nấm mycotoxin quân dụng thời chiến của Nga."
+    },
+    {
+      "type": "parallel",
+      "en": "Strapped to a bed in a Memphis hotel, his talent burning out micron by micron, he hallucinated for thirty hours.",
+      "vi": "Bị trói chặt trên giường trong một khách sạn ở Memphis, tài năng của anh bị thiêu rụi từng micron một, anh đã rơi vào ảo giác suốt ba mươi giờ đồng hồ."
+    },
+    {
+      "type": "parallel",
+      "en": "The damage was minute, subtle, and utterly effective.",
+      "vi": "Tổn thương cực kỳ vi tế, tinh vi, và hiệu quả một cách tàn nhẫn."
+    },
+    {
+      "type": "parallel",
+      "en": "For Case, who'd lived for the bodiless exultation of cyberspace, it was the Fall. In the bars he'd frequented as a cowboy hotshot, the elite stance involved a certain relaxed contempt for the flesh. The body was meat. Case fell into the prison of his own flesh.",
+      "vi": "Đối với Case, người từng sống vì sự thăng hoa phi thể xác của không gian ảo, đó chính là Sự Sa Ngã (the Fall). Trong những quán bar mà anh từng lui tới thời còn là một cao bồi cự phách, phong thái của giới thượng đẳng luôn gắn liền với một sự khinh miệt thản nhiên đối với xác thịt. Thể xác chỉ là miếng thịt tầm thường. Giờ đây, Case đã rơi vào chốn ngục tù của chính thể xác mình."
+    },
+    {
+      "type": "parallel",
+      "en": "His total assets were quickly converted to New Yen, a fat sheaf of the old paper currency that circulated endlessly through the closed circuit of the world's black markets like the seashells of the Trobriand islanders. It was difficult to transact legitimate business with cash in the Sprawl; in Japan, it was already illegal.",
+      "vi": "Tổng tài sản của ông nhanh chóng được chuyển đổi thành New Yên, một xấp tiền giấy béo bở được lưu hành không ngừng nghỉ qua các thị trường chợ đen trên thế giới khép kín giống như vỏ sò của người dân đảo Trobriand. Rất khó để giao dịch kinh doanh hợp pháp bằng tiền mặt ở Sprawl; ở Nhật Bản, nó đã là bất hợp pháp."
+    },
+    {
+      "type": "parallel",
+      "en": "In Japan, he'd known with a clenched and absolute certainty, he'd find his cure. In Chiba. Either in a registered clinic or in the shadowland of black medicine. Synonymous with implants, nerve-splicing, and microbionics, Chiba was a magnet for the Sprawl's techno-criminal subcultures.",
+      "vi": "Ở Nhật Bản, anh biết chắc chắn rằng anh sẽ tìm ra cách chữa trị. Ở Chiba. Hoặc trong một phòng khám đã đăng ký hoặc trong vùng bóng tối của y học đen. Đồng nghĩa với cấy ghép, nối dây thần kinh và vi sinh vật, Chiba là một nam châm thu hút các nền văn hóa tội phạm công nghệ của Sprawl."
+    },
+    {
+      "type": "parallel",
+      "en": "In Chiba, he'd watched his New Yen vanish in a two-month round of examinations and consultations. The men in the black clinics, his last hope, had admired the expertise with which he'd been maimed, and then slowly shaken their heads.",
+      "vi": "Ở Chiba, anh đã chứng kiến ​​đồng Yên mới của mình biến mất sau hai tháng kiểm tra và tư vấn. Những người đàn ông trong phòng khám của người da đen, niềm hy vọng cuối cùng của anh, đã ngưỡng mộ khả năng chuyên môn của anh trong việc gây thương tích cho anh, rồi họ từ từ lắc đầu."
+    },
+    {
+      "type": "parallel",
+      "en": "Now he slept in the cheapest coffins, the ones nearest the port, beneath the quartz-halogen floods that lit the docks all night like vast stages; where you couldn't see the lights of Tokyo for the glare of the television sky, not even the towering hologram logo of the Fuji Electric Company, and Tokyo Bay was a black expanse where gulls wheeled above drifting shoals of white styrofoam. Behind the port lay the city, factory domes dominated by the vast cubes of corporate arcologies. Port and city were divided by a narrow borderland of older streets, an area with no official name. Night City, with Ninsei its heart. By day, the bars down Ninsei were shuttered and featureless, the neon dead, the holograms inert, waiting, under the poisoned silver sky.",
+      "vi": "Giờ đây anh ngủ trong những chiếc quan tài rẻ tiền nhất, những chiếc gần cảng nhất, dưới ánh đèn halogen thạch anh thắp sáng các bến tàu suốt đêm như những sân khấu rộng lớn; nơi bạn không thể nhìn thấy ánh đèn của Tokyo vì ánh sáng chói của bầu trời tivi, thậm chí không có biểu tượng ba chiều cao chót vót của Công ty Điện lực Fuji, và Vịnh Tokyo là một vùng đất đen rộng lớn nơi những con mòng biển bay lượn trên những bãi xốp trắng đang trôi dạt. Đằng sau bến cảng là thành phố, những mái vòm nhà máy bị chi phối bởi những khối kiến ​​trúc khổng lồ của công ty. Cảng và thành phố bị chia cắt bởi một vùng biên giới hẹp gồm những con phố cũ, một khu vực không có tên chính thức. Thành phố đêm, với Ninsei là trái tim. Ban ngày, các quán bar ở Ninsei đều đóng cửa và không có gì đặc biệt, đèn neon chết chóc, những hình ảnh ba chiều trơ trọi, chờ đợi, dưới bầu trời bạc độc."
+    },
+    {
+      "type": "parallel",
+      "en": "Two blocks west of the Chat, in a teashop called the Jarre de Th, Case washed down the night's first pill with a double espresso. It was a flat pink octagon, a potent species of Brazilian dex he bought from one of Zone's girls.",
+      "vi": "Cách Chat hai dãy nhà về phía tây, trong một quán trà tên là Jarre de Th, Case đã uống xong viên thuốc đầu tiên trong đêm bằng một tách espresso đôi. Đó là một hình bát giác phẳng màu hồng, một loại dex mạnh mẽ của Brazil mà anh mua từ một trong những cô gái của Zone."
+    },
+    {
+      "type": "vocab",
+      "title": "THE FALL & BLACK MARKET PHENOMENOLOGY",
+      "items": [
+        {
+          "word": "exultation",
+          "ipa": "/ˌeɡ.zʌlˈteɪ.ʃən/",
+          "level": "C2 / Cambridge 190+",
+          "en_def": "a feeling of triumphant elation, supreme ecstasy, or boundless joy",
+          "vi_def": "sự hoan hỉ tột độ, niềm thăng hoa đắc thắng"
+        },
+        {
+          "word": "atavism",
+          "ipa": "/ˈæt.ə.vɪ.zəm/",
+          "level": "C2 / GRE Academic",
+          "en_def": "a recurrence of or reversion to an earlier ancestral type, trait, or behavior",
+          "vi_def": "sự lại giống, trạng thái hồi tố về thời nguyên thủy"
+        },
+        {
+          "word": "mycotoxin",
+          "ipa": "/ˌmaɪ.kəʊˈtɒk.sɪn/",
+          "level": "Advanced Bio-tech",
+          "en_def": "a toxic secondary metabolite produced by organisms of the fungus kingdom",
+          "vi_def": "độc tố nấm mốc (đặc biệt trong chiến tranh sinh học thần kinh)"
+        },
+        {
+          "word": "subcutaneous",
+          "ipa": "/ˌsʌb.kjuːˈteɪ.ni.əs/",
+          "level": "C1 Medical English",
+          "en_def": "applied, located, or existing under the skin",
+          "vi_def": "dưới da (chíp cấy ghép, vi mạch sinh học)"
+        }
+      ]
+    },
+    {
+      "type": "parallel",
+      "en": "The Jarre was walled with mirrors, each panel framed in red neon.",
+      "vi": "Jarre được bao quanh bởi những tấm gương, mỗi tấm được đóng khung bằng đèn neon đỏ."
+    },
+    {
+      "type": "parallel",
+      "en": "At first, finding himself alone in Chiba, with little money and less hope of finding a cure, he'd gone into a kind of terminal overdrive, hustling fresh capital with a cold intensity that had seemed to belong to someone else. In the first month, he'd killed two men and a woman over sums that a year before would have seemed ludicrous. Ninsei wore him down until the street itself came to seem the externalization of some death wish, some secret poison he hadn't known he carried.",
+      "vi": "Lúc đầu, thấy mình đơn độc ở Chiba, với ít tiền và ít hy vọng tìm được thuốc chữa, anh ấy đã rơi vào tình trạng quá tải, hối hả với nguồn vốn mới với cường độ lạnh lẽo dường như thuộc về người khác. Trong tháng đầu tiên, anh ta đã giết hai người đàn ông và một phụ nữ với số tiền mà một năm trước đó có vẻ lố bịch. Ninsei đã làm anh kiệt sức cho đến khi chính con phố dường như là hiện thân của một điều ước chết nào đó, một chất độc bí mật nào đó mà anh không hề biết mình mang theo."
+    },
+    {
+      "type": "parallel",
+      "en": "Night City was like a deranged experiment in social Darwinism, designed by a bored researcher who kept one thumb permanently on the fast-forward button. Stop hustling and you sank without a trace, but move a little too swiftly and you'd break the fragile surface tension of the black market; either way, you were gone, with nothing left of you but some vague memory in the mind of a fixture like Ratz, though heart or lungs or kidneys might survive in the service of some stranger with New Yen for the clinic tanks.",
+      "vi": "Thành phố đêm giống như một thử nghiệm loạn trí trong chủ nghĩa Darwin xã hội, được thiết kế bởi một nhà nghiên cứu buồn chán, người luôn giữ một ngón tay cái trên nút tua đi. Đừng hối hả nữa là bạn sẽ chìm nghỉm không dấu vết, nhưng di chuyển quá nhanh một chút là bạn sẽ phá vỡ sức căng bề mặt mong manh của chợ đen; Dù thế nào đi nữa, bạn cũng đã ra đi, chẳng còn lại gì ngoài ký ức mơ hồ nào đó trong tâm trí của một kẻ cố định như Ratz, mặc dù tim, phổi hoặc thận có thể tồn tại để phục vụ một người lạ nào đó với New Yen cho xe tăng của phòng khám."
+    },
+    {
+      "type": "parallel",
+      "en": "Biz here was a constant subliminal hum, and death the accepted punishment for laziness, carelessness, lack of grace, the failure to heed the demands of an intricate protocol.",
+      "vi": "Biz ở đây là một tiếng ồn ào cao siêu liên tục, và cái chết là hình phạt được chấp nhận cho sự lười biếng, bất cẩn, thiếu ân cần, không tuân theo các yêu cầu của một nghi thức phức tạp."
+    },
+    {
+      "type": "parallel",
+      "en": "Alone at a table in the Jarre de Th, with the octagon coming on, pinheads of sweat starting from his palms, suddenly aware of each tingling hair on his arms and chest, Case knew that at some point he'd started to play a game with himself, a very ancient one that has no name, a final solitaire. He no longer carried a weapon, no longer took the basic precautions. He ran the fastest, loosest deals on the street, and he had a reputation for being able to get whatever you wanted. A part of him knew that the arc of his self-destruction was glaringly obvious to his customers, who grew steadily fewer, but that same part of him basked in the knowledge that it was only a matter of time. And that was the part of him, smug in its expectation of death, that most hated the thought of Linda Lee.",
+      "vi": "Một mình tại chiếc bàn ở Jarre de Th, với hình bát giác đang nổi lên, những giọt mồ hôi chảy ra từ lòng bàn tay, chợt nhận ra từng sợi lông ngứa ran trên cánh tay và ngực mình, Case biết rằng tại một thời điểm nào đó anh đã bắt đầu chơi một trò chơi với chính mình, một trò chơi rất cổ xưa không có tên, một ván bài cuối cùng. Anh ta không còn mang theo vũ khí, không còn thực hiện các biện pháp phòng ngừa cơ bản nữa. Anh ta thực hiện những giao dịch nhanh nhất, lỏng lẻo nhất trên đường phố và anh ta nổi tiếng là người có thể đạt được bất cứ điều gì bạn muốn. Một phần trong anh biết rằng vòng cung tự hủy diệt của anh là điều hiển nhiên đối với khách hàng của anh, những người ngày càng ít đi, nhưng phần đó trong anh đắm chìm trong nhận thức rằng đó chỉ là vấn đề thời gian. Và đó chính là phần trong anh, tự mãn chờ đợi cái chết, ghét nhất ý nghĩ của Linda Lee."
+    },
+    {
+      "type": "parallel",
+      "en": "He'd found her, one rainy night, in an arcade.",
+      "vi": "Anh đã tìm thấy cô, vào một đêm mưa, trong một trò chơi điện tử."
+    },
+    {
+      "type": "parallel",
+      "en": "Under bright ghosts burning through a blue haze of cigarette smoke, holograms of Wizard's Castle, Tank War Europa, the New York skyline... And now he remembered her that way, her face bathed in restless laser light, features reduced to a code: her cheekbones flaring scarlet as Wizard's Castle burned, forehead drenched with azure when Munich fell to the Tank War, mouth touched with hot gold as a gliding cursor struck sparks from the wall of a skyscraper canyon. He was riding high that night, with a brick of Wage's ketamine on its way to Yokohama and the money already in his pocket. He'd come in out of the warm rain that sizzled across the Ninsei pavement and somehow she'd been singled out for him, one face out of the dozens who stood at the consoles, lost in the game she played. The expression on her face, then, had been the one he'd seen, hours later, on her sleeping face in a portside coffin, her upper lip like the line children draw to represent a bird in flight.",
+      "vi": "Dưới những bóng ma rực sáng cháy qua làn khói thuốc lá màu xanh, hình ảnh ba chiều của Wizard's Castle, Tank War Europa, đường chân trời New York... Và giờ anh nhớ về cô như vậy, khuôn mặt cô tắm trong ánh sáng laze không ngừng nghỉ, các nét đặc trưng được thu gọn thành mật mã: xương gò má cô đỏ bừng khi Lâu đài Wizard's cháy, trán ướt đẫm màu xanh khi Munich rơi vào Chiến tranh xe tăng, miệng chạm vào vàng nóng khi một con trỏ lướt đánh tia lửa từ bức tường của một hẻm núi chọc trời. Đêm đó anh ta đã thăng hoa, với một viên ketamine của Wage đang trên đường tới Yokohama và số tiền đã có sẵn trong túi. Anh ấy bước vào sau cơn mưa ấm áp xối xả trên vỉa hè Ninsei và bằng cách nào đó cô ấy đã được chọn ra cho anh ấy, một trong số hàng chục người đứng ở bảng điều khiển, lạc lối trong trò chơi mà cô ấy chơi. Khi đó, biểu cảm trên khuôn mặt cô ấy chính là biểu cảm mà anh đã nhìn thấy, vài giờ sau, trên khuôn mặt đang ngủ của cô trong quan tài bên bến cảng, môi trên của cô giống như đường kẻ trẻ con vẽ để tượng trưng cho một con chim đang bay."
+    },
+    {
+      "type": "parallel",
+      "en": "Crossing the arcade to stand beside her, high on the deal he'd made, he saw her glance up. Gray eyes rimmed with smudged black paintstick. Eyes of some animal pinned in the headlights of an oncoming vehicle.",
+      "vi": "Băng qua hành lang để đứng cạnh cô, hài lòng với thỏa thuận anh đã đạt được, anh thấy cô ngước lên. Đôi mắt màu xám được viền bằng một vết sơn đen nhòe. Đôi mắt của một con vật nào đó chiếu vào đèn pha của một chiếc xe đang chạy tới."
+    },
+    {
+      "type": "parallel",
+      "en": "Their night together stretching into a morning, into tickets at the hoverport and his first trip across the Bay. The rain kept up, falling along Harajuku, beading on her plastic jacket, the children of Tokyo trooping past the famous boutiques in white loafers and clingwrap capes, until she'd stood with him in the midnight clatter of a pachinko parlor and held his hand like a child.",
+      "vi": "Đêm của họ bên nhau kéo dài đến sáng, vào vé vào cảng thủy phi cơ và chuyến đi đầu tiên xuyên Vịnh. Mưa vẫn tiếp tục rơi, rơi dọc theo Harajuku, lấm tấm trên áo khoác nhựa của cô, lũ trẻ Tokyo đi ngang qua các cửa hàng nổi tiếng trong giày lười màu trắng và áo choàng bọc vải, cho đến khi cô đứng cùng anh trong tiếng ồn ào lúc nửa đêm của tiệm pachinko và nắm tay anh như một đứa trẻ."
+    },
+    {
+      "type": "parallel",
+      "en": "It took a month for the gestalt of drugs and tension he moved through to turn those perpetually startled eyes into wells of reflexive need. He'd watched her personality fragment, calving like an iceberg, splinters drifting away, and finally he'd seen the raw need, the hungry armature of addiction. He'd watched her track the next hit with a concentration that reminded him of the mantises they sold in stalls along Shiga, beside tanks of blue mutant carp and crickets caged in bamboo.",
+      "vi": "Phải mất một tháng, cơn nghiện ma túy và sự căng thẳng mà anh vượt qua mới biến đôi mắt thường xuyên giật mình đó thành giếng nhu cầu phản xạ. Anh đã quan sát từng mảnh nhân cách của cô, vỡ ra như một tảng băng trôi, những mảnh vụn trôi đi, và cuối cùng anh đã nhìn thấy nhu cầu thô sơ, phần cứng khao khát của cơn nghiện. Anh đã theo dõi cô theo dõi cú đánh tiếp theo với sự tập trung khiến anh nhớ đến những con bọ ngựa họ bán trong các quầy hàng dọc Shiga, bên cạnh những bể cá chép đột biến màu xanh và dế nhốt trong tre."
+    },
+    {
+      "type": "parallel",
+      "en": "He stared at the black ring of grounds in his empty cup. It was vibrating with the speed he'd taken. The brown laminate of the tabletop was dull with a patina of tiny scratches. With the dex mounting through his spine he saw the countless random impacts required to create a surface like that. The Jarre was decorated in a dated, nameless style from the previous century, an uneasy blend of Japanese traditional and pale Milanese plastics, but everything seemed to wear a subtle film, as though the bad nerves of a million customers had somehow attacked the mirrors and the once glossy plastics, leaving each surface fogged with something that could never be wiped away.",
+      "vi": "Anh nhìn chằm chằm vào vòng đất đen trong chiếc cốc rỗng của mình. Nó rung lên với tốc độ mà anh ấy đã thực hiện. Mặt bàn màu nâu xỉn với một vài vết xước nhỏ. Với dex gắn qua xương sống, anh thấy vô số tác động ngẫu nhiên cần thiết để tạo ra một bề mặt như thế. Jarre được trang trí theo phong cách cũ kỹ, không tên từ thế kỷ trước, một sự pha trộn khó chịu giữa nhựa truyền thống của Nhật Bản và nhựa Milan nhạt, nhưng mọi thứ dường như khoác lên mình một lớp màng tinh tế, như thể sự lo lắng tồi tệ của hàng triệu khách hàng bằng cách nào đó đã tấn công những tấm gương và lớp nhựa bóng loáng một thời, khiến mỗi bề mặt bị mờ một thứ gì đó không bao giờ có thể lau sạch được."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Hey. Case, good buddy...\"",
+      "vi": "\"Này. Case, bạn tốt...\""
+    },
+    {
+      "type": "parallel",
+      "en": "He looked up, met gray eyes ringed with paintstick. She was wearing faded French orbital fatigues and new white sneakers.",
+      "vi": "Anh ngước lên, bắt gặp đôi mắt xám được bao quanh bởi vết sơn. Cô ấy đang mặc bộ quần áo quỹ đạo kiểu Pháp đã bạc màu và đi giày thể thao màu trắng mới."
+    },
+    {
+      "type": "parallel",
+      "en": "\"I been lookin'~ for you, man.\" She took a seat opposite him, her elbows on the table. The sleeves of the blue zipsuit had been ripped out at the shoulders; he automatically checked her arms for signs of derms or the needle. \"Want a cigarette?\"",
+      "vi": "\"Tôi đang tìm ~ anh đấy, anh bạn.\" Cô ngồi đối diện anh, khuỷu tay đặt lên bàn. Tay áo của bộ zipsuit màu xanh đã bị rách tới tận vai; anh tự động kiểm tra cánh tay cô xem có dấu hiệu của da hay kim tiêm không. \"Muốn hút thuốc không?\""
+    },
+    {
+      "type": "parallel",
+      "en": "She dug a crumpled pack of Yeheyuan filters from an ankle pocket and offered him one. He took it, let her light it with a red plastic tube. \"You sleepin'~ okay, Case? You look tired.\" Her accent put her south along the Sprawl, toward Atlanta. The skin below her eyes was pale and unhealthy-looking, but the flesh was still smooth and firm. She was twenty. New lines of pain were starting to etch themselves permanently at the corners of her mouth. Her dark hair was drawn back, held by a band of printed silk. The pattern might have represented microcircuits, or a city map.",
+      "vi": "Cô lôi một gói bộ lọc Yeheyuan nhàu nát từ túi mắt cá chân và đưa cho anh một cái. Anh cầm lấy, để cô châm lửa bằng một ống nhựa màu đỏ. \"Bạn đang ngủ~ được chứ Case? Trông bạn có vẻ mệt mỏi.\" Giọng nói của cô ấy đưa cô ấy về phía nam dọc theo Sprawl, hướng tới Atlanta. Vùng da dưới mắt cô nhợt nhạt và trông không khỏe mạnh, nhưng thịt vẫn mịn màng và săn chắc. Cô ấy đã hai mươi tuổi. Những vết đau mới bắt đầu khắc sâu vĩnh viễn ở khóe miệng cô. Mái tóc đen của cô được vén ra sau, được buộc bằng một dải lụa in hình. Mẫu này có thể đại diện cho các vi mạch hoặc bản đồ thành phố."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Not if I remember to take my pills,\" he said, as a tangible wave of longing hit him, lust and loneliness riding in on the wavelength of amphetamine. He remembered the smell of her skin in the overheated darkness of a coffin near the port, her fingers locked across the small of his back.",
+      "vi": "“Sẽ không nếu tôi nhớ uống thuốc,” anh nói, khi một làn sóng khao khát hữu hình ập đến với anh, dục vọng và sự cô đơn đang cuốn theo bước sóng của amphetamine. Anh nhớ mùi da của cô trong bóng tối quá nóng của một chiếc quan tài gần bến cảng, những ngón tay của cô khóa chặt vào lưng anh."
+    },
+    {
+      "type": "parallel",
+      "en": "All the meat, he thought, and all it wants.",
+      "vi": "Tất cả thịt, anh nghĩ, và tất cả những gì nó muốn."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Wage,\" she said, narrowing her eyes. \"He wants to see you with a hole in your face.\" She lit her own cigarette.",
+      "vi": "“Tiền lương,” cô nói, nheo mắt lại. “Hắn muốn nhìn thấy cậu với một cái lỗ trên mặt.” Cô tự châm điếu thuốc cho mình."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Who says? Ratz? You been talking to Ratz?\"",
+      "vi": "\"Ai nói? Ratz? Cậu đang nói chuyện với Ratz à?\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"No. Mona. Her new squeeze is one of Wage's boys.\"",
+      "vi": "\"Không. Mona. Người mới ôm cô ấy là một trong những chàng trai của Wage.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"I don't owe him enough. He does me, he's out the money anyway.\" He shrugged.",
+      "vi": "\"Tôi không nợ anh ta đủ. Anh ta trả tiền cho tôi, dù sao thì anh ta cũng hết tiền.\" Anh nhún vai."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Too many people owe him now, Case. Maybe you get to be the example. You seriously better watch it.\"",
+      "vi": "\"Bây giờ có quá nhiều người mắc nợ anh ấy, Case. Có lẽ anh sẽ trở thành một tấm gương. Tốt nhất anh nên nghiêm túc xem xét nó.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"Sure. How about you, Linda? You got anywhere to sleep?\"",
+      "vi": "\"Chắc chắn rồi. Còn bạn thì sao, Linda? Bạn có chỗ nào để ngủ không?\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"Sleep.\" She shook her head. \"Sure, Case.\" She shivered, hunched forward over the table. Her face was filmed with sweat.",
+      "vi": "\"Ngủ.\" Cô ấy lắc đầu. “Chắc chắn rồi, Case.” Cô rùng mình, cúi người về phía bàn. Mặt cô lấm tấm mồ hôi."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Here,\" he said, and dug in the pocket of his windbreaker, coming up with a crumpled fifty. He smoothed it automatically, under the table, folded it in quarters, and passed it to her.",
+      "vi": "“Đây,” anh nói và lục túi áo gió, lấy ra một tờ năm mươi nhàu nát. Anh tự động vuốt nó phẳng phiu dưới gầm bàn, gấp làm tư rồi đưa cho cô."
+    },
+    {
+      "type": "parallel",
+      "en": "\"You need that, honey. You better give it to Wage.\" There was something in the gray eyes now that he couldn't read, something he'd never seen there before.",
+      "vi": "\"Em cần cái đó, em yêu. Tốt hơn em nên đưa nó cho Wage.\" Có điều gì đó trong đôi mắt xám bây giờ mà anh không thể đọc được, điều gì đó anh chưa từng thấy trước đây."
+    },
+    {
+      "type": "parallel",
+      "en": "\"I owe Wage a lot more than that. Take it. I got more coming,\" he lied, as he watched his New Yen vanish into a zippered pocket.",
+      "vi": "\"Tôi nợ tiền lương nhiều hơn thế. Hãy nhận đi. Tôi sẽ nhận được nhiều hơn,\" anh nói dối khi nhìn đồng Yên mới của mình biến mất trong một chiếc túi có khóa kéo."
+    },
+    {
+      "type": "parallel",
+      "en": "\"You get your money, Case, you find Wage quick.\"",
+      "vi": "\"Anh lấy được tiền rồi, Case, anh tìm Wage nhanh lên.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"I'll see you, Linda,\" he said, getting up.",
+      "vi": "“Tôi sẽ gặp lại cô, Linda,” anh nói và đứng dậy."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Sure.\" A millimeter of white showed beneath each of her pupils. Sanpaku. \"You watch your back, man.\"",
+      "vi": "\"Chắc chắn.\" Một milimet màu trắng hiện ra bên dưới mỗi con ngươi của cô. Sanpaku. \"Anh coi chừng sau lưng đấy, anh bạn.\""
+    },
+    {
+      "type": "parallel",
+      "en": "He nodded, anxious to be gone.",
+      "vi": "Anh gật đầu, lo lắng muốn rời đi."
+    },
+    {
+      "type": "parallel",
+      "en": "He looked back as the plastic door swung shut behind him, saw her eyes reflected in a cage of red neon.",
+      "vi": "Anh nhìn lại khi cánh cửa nhựa đóng lại sau lưng anh, nhìn thấy đôi mắt cô phản chiếu trong một cái lồng đèn neon đỏ."
+    },
+    {
+      "type": "parallel",
+      "en": "Friday night on Ninsei.",
+      "vi": "Tối thứ Sáu ở Ninsei."
+    },
+    {
+      "type": "parallel",
+      "en": "He passed yakitori stands and massage parlors, a franchised coffee shop called Beautiful Girl, the electronic thunder of an arcade. He stepped out of the way to let a dark-suited sarariman by, spotting the Mitsubishi-Genentech logo tattooed across the back of the man's right hand.",
+      "vi": "Anh đi ngang qua các quầy bán yakitori và tiệm mát-xa, một quán cà phê được nhượng quyền tên là Beautiful Girl, tiếng sấm điện tử của một trò chơi điện tử. Anh ta bước tránh đường để cho một sarariman mặc bộ đồ tối màu đi qua, nhận ra logo Mitsubishi-Genentech được xăm trên mu bàn tay phải của người đàn ông."
+    },
+    {
+      "type": "parallel",
+      "en": "Was it authentic? If that's for real, he thought, he's in for trouble. If it wasn't, served him right. M-G employees above a certain level were implanted with advanced microprocessors that monitored mutagen levels in the bloodstream. Gear like that would get you rolled in Night City, rolled straight into a black clinic.",
+      "vi": "Nó có xác thực không? Nếu đó là sự thật, anh nghĩ, anh sẽ gặp rắc rối. Nếu không, hãy phục vụ anh ta ngay. Các nhân viên của M-G trên một mức độ nhất định đã được cấy ghép bộ vi xử lý tiên tiến để theo dõi nồng độ chất gây đột biến trong máu. Những thiết bị như thế sẽ khiến bạn lăn lộn trong Thành phố đêm, lao thẳng vào một phòng khám của người da đen."
+    },
+    {
+      "type": "parallel",
+      "en": "The sarariman had been Japanese, but the Ninsei crowd was a gaijin crowd. Groups of sailors up from the port, tense solitary tourists hunting pleasures no guidebook listed, Sprawl heavies showing off grafts and implants, and a dozen distinct species of hustler, all swarming the street in an intricate dance of desire and commerce.",
+      "vi": "Sarariman là người Nhật, nhưng đám đông Ninsei là đám đông gaijin. Những nhóm thủy thủ từ bến cảng tiến lên, những du khách đơn độc căng thẳng săn lùng những thú vui không có sách hướng dẫn nào liệt kê, những đoàn người nặng trĩu khoe những mảnh ghép và cấy ghép, và hàng tá loài hối hả khác nhau, tất cả tràn ngập đường phố trong một vũ điệu phức tạp của ham muốn và thương mại."
+    },
+    {
+      "type": "parallel",
+      "en": "There were countless theories explaining why Chiba City tolerated the Ninsei enclave, but Case tended toward the idea that the Yakuza might be preserving the place as a kind of historical park, a reminder of humble origins. But he also saw a certain sense in the notion that burgeoning technologies require outlaw zones, that Night City wasn't there for its inhabitants, but as a deliberately unsupervised playground for technology itself.",
+      "vi": "Có vô số giả thuyết giải thích tại sao Thành phố Chiba lại chấp nhận vùng đất Ninsei, nhưng Case có xu hướng thiên về ý tưởng rằng Yakuza có thể đang bảo tồn nơi này như một loại công viên lịch sử, một lời nhắc nhở về nguồn gốc khiêm tốn. Nhưng anh ấy cũng thấy có ý nghĩa nhất định trong quan điểm cho rằng công nghệ đang phát triển đòi hỏi phải có các khu vực ngoài vòng pháp luật, rằng Thành phố Đêm không dành cho cư dân của nó mà là một sân chơi không được giám sát có chủ ý dành cho chính công nghệ."
+    },
+    {
+      "type": "parallel",
+      "en": "Was Linda right, he wondered, staring up at the lights? Would Wage have him killed to make an example? It didn't make much sense, but then Wage dealt primarily in proscribed biologicals, and they said you had to be crazy to do that.",
+      "vi": "Liệu Linda có đúng không, anh tự hỏi, nhìn chằm chằm vào ánh đèn? Liệu Wage có giết anh ta để làm gương không? Điều đó không có nhiều ý nghĩa, nhưng Wage chủ yếu kinh doanh các sản phẩm sinh học bị cấm, và họ nói bạn phải điên mới làm điều đó."
+    },
+    {
+      "type": "parallel",
+      "en": "But Linda said Wage wanted him dead. Case's primary insight into the dynamics of street dealing was that neither the buyer nor the seller really needed him. A middleman's business is to make himself a necessary evil. The dubious niche Case had carved for himself in the criminal ecology of Night City had been cut out with lies, scooped out a night at a time with betrayal. Now, sensing that its walls were starting to crumble, he felt the edge of a strange euphoria.",
+      "vi": "Nhưng Linda nói Wage muốn anh ta chết. Cái nhìn sâu sắc chính của Case về động lực của giao dịch trên đường phố là cả người mua lẫn người bán đều không thực sự cần anh ta. Công việc của người trung gian là biến mình thành kẻ ác cần thiết. Cái hốc đáng ngờ mà Case đã tạo ra cho chính mình trong hệ sinh thái tội phạm của Thành phố đêm đã bị loại bỏ bằng những lời dối trá, bị vạch trần từng đêm một bằng sự phản bội. Bây giờ, khi cảm nhận được những bức tường của nó đang bắt đầu vỡ vụn, anh cảm thấy một cảm giác hưng phấn kỳ lạ."
+    },
+    {
+      "type": "parallel",
+      "en": "The week before, he'd delayed transfer of a synthetic glandular extract, retailing it for a wider margin than usual. He knew Wage hadn't liked that. Wage was his primary supplier, nine years in Chiba and one of the few gaijin dealers who'd managed to forge links with the rigidly stratified criminal establishment beyond Night City's borders. Genetic materials and hormones trickled down to Ninsei along an intricate ladder of fronts and blinds. Somehow Wage had managed to trace something back, once, and now he enjoyed steady connections in a dozen cities.",
+      "vi": "Tuần trước, anh ta đã trì hoãn việc chuyển giao một loại chiết xuất tuyến tổng hợp, bán lẻ với mức lãi cao hơn bình thường. Anh biết Wage không thích điều đó. Wage là nhà cung cấp chính của anh ta, chín năm ở Chiba và là một trong số ít những người buôn bán gaijin đã cố gắng tạo dựng mối liên kết với tổ chức tội phạm phân tầng cứng nhắc bên ngoài biên giới của Thành phố Đêm. Vật liệu di truyền và hormone chảy xuống Ninsei dọc theo một bậc thang phức tạp gồm mặt trước và rèm. Bằng cách nào đó, Wage đã có lần tìm được dấu vết gì đó, và giờ anh ấy có được những mối quan hệ ổn định ở hàng chục thành phố."
+    },
+    {
+      "type": "parallel",
+      "en": "Case found himself staring through a shop window. The place sold small bright objects to the sailors. Watches, flicknives, lighters, pocket VTRs, simstim decks, weighted manriki chains, and shuriken. The shuriken had always fascinated him, steel stars with knife-sharp points. Some were chromed, others black, others treated with a rainbow surface like oil on water. But the chrome stars held his gaze. They were mounted against scarlet ultrasuede with nearly invisible loops of nylon fishline, their centers stamped with dragons or yinyang symbols. They caught the street's neon and twisted it, and it came to Case that these were the stars under which he voyaged, his destiny spelled out in a constellation of cheap chrome.",
+      "vi": "Case thấy mình đang nhìn chằm chằm qua cửa sổ cửa hàng. Nơi bán những đồ vật nhỏ sáng màu cho các thủy thủ. Đồng hồ, đèn chiếu sáng, bật lửa, VTR bỏ túi, sàn simstim, dây chuyền manriki có trọng lượng và shuriken. Chiếc shuriken luôn mê hoặc anh, những ngôi sao bằng thép với những mũi nhọn như dao. Một số được mạ crôm, số khác màu đen, số khác được xử lý bằng bề mặt cầu vồng như dầu trên nước. Nhưng những ngôi sao mạ crôm đã giữ lấy ánh nhìn của anh. Chúng được gắn trên nền da lộn màu đỏ tươi với những vòng dây nylon gần như vô hình, ở giữa chúng có khắc hình rồng hoặc biểu tượng âm dương. Họ bắt được ánh đèn neon trên đường phố và vặn vẹo nó, và Case nhận ra rằng đây chính là những ngôi sao mà anh du hành theo đó, số phận của anh được thể hiện bằng một chòm sao bằng crom rẻ tiền."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Julie,\" he said to his stars. \"Time to see old Julie. He'll know.\"",
+      "vi": "“Julie,” anh nói với các ngôi sao của mình. \"Đã đến lúc gặp Julie rồi. Anh ấy sẽ biết thôi.\""
+    },
+    {
+      "type": "parallel",
+      "en": "Julius Deane was one hundred and thirty-five years old, his metabolism assiduously warped by a weekly fortune in serums and hormones. His primary hedge against aging was a yearly pilgrimage to Tokyo, where genetic surgeons re-set the code of his DNA, a procedure unavailable in Chiba. Then he'd fly to Hongkong and order the year's suits and shirts. Sexless and inhumanly patient, his primary gratification seemed to lie in his devotion to esoteric forms of tailor-worship. Case had never seen him wear the same suit twice, although his wardrobe seemed to consist entirely of meticulous reconstructions of garments of the previous century. He affected prescription lenses, framed in spidery gold, ground from thin slabs of pink synthetic quartz and beveled like the mirrors in a Victorian dollhouse.",
+      "vi": "Julius Deane đã 135 tuổi, quá trình trao đổi chất của ông bị biến dạng một cách cần mẫn bởi lượng huyết thanh và hormone tăng hàng tuần. Biện pháp phòng ngừa chính của ông chống lại sự lão hóa là chuyến hành hương hàng năm đến Tokyo, nơi các bác sĩ phẫu thuật di truyền thiết lập lại mã DNA của ông, một thủ tục không có ở Chiba. Sau đó, anh ấy sẽ bay đến Hồng Kông và đặt mua vest và áo sơ mi của năm. Vô tính và kiên nhẫn vô nhân đạo, sự hài lòng chính của anh ta dường như nằm ở sự tận tâm của anh ta đối với các hình thức tôn thờ thợ may bí truyền. Case chưa bao giờ thấy anh ta mặc cùng một bộ đồ hai lần, mặc dù tủ quần áo của anh ta dường như chỉ toàn là những bộ quần áo được làm lại tỉ mỉ của thế kỷ trước. Ông làm ra những chiếc kính áp tròng theo toa, được đóng khung bằng vàng ròng, được mài từ những phiến thạch anh tổng hợp mỏng màu hồng và được vát cạnh giống như những chiếc gương trong ngôi nhà búp bê thời Victoria."
+    },
+    {
+      "type": "parallel",
+      "en": "His offices were located in a warehouse behind Ninsei, part of which seemed to have been sparsely decorated, years before, with a random collection of European furniture, as though Deane had once intended to use the place as his home. Neo Aztec bookcases gathered dust against one wall of the room where Case waited. A pair of bulbous Disney-styled table lamps perched awkwardly on a low Kandinsky-look coffee table in scarlet-lacquered steel. A Dali clock hung on the wall between the bookcases, its distorted face sagging to the bare concrete floor. Its hands were holograms that altered to match the convolutions of the face as they rotated, but it never told the correct time. The room was stacked with white fiberglass shipping modules that gave off the tang of preserved ginger.",
+      "vi": "Văn phòng của ông nằm trong một nhà kho phía sau Ninsei, nhiều năm trước đây dường như một phần của nó được trang trí sơ sài với một bộ sưu tập ngẫu nhiên đồ nội thất châu Âu, như thể Deane đã từng có ý định sử dụng nơi này làm nhà của mình. Những tủ sách kiểu Neo Aztec bám bụi vào một bức tường của căn phòng nơi Case đang đợi. Một cặp đèn bàn hình củ hành kiểu Disney đặt lúng túng trên chiếc bàn cà phê thấp kiểu Kandinsky bằng thép sơn mài đỏ tươi. Một chiếc đồng hồ Dali treo trên tường giữa các tủ sách, mặt méo mó của nó xệ xuống sàn bê tông trần. Bàn tay của nó là hình ảnh ba chiều được thay đổi để phù hợp với các đường cong của khuôn mặt khi chúng quay, nhưng nó không bao giờ cho biết thời gian chính xác. Căn phòng chất đầy các mô-đun vận chuyển bằng sợi thủy tinh màu trắng tỏa ra mùi gừng bảo quản."
+    },
+    {
+      "type": "parallel",
+      "en": "\"You seem to be clean, old son,\" said Deane's disembodied voice. \"Do come in.\"",
+      "vi": "“Con có vẻ sạch sẽ đấy, con trai ạ,” giọng nói quái gở của Deane vang lên. \"Mời vào.\""
+    },
+    {
+      "type": "parallel",
+      "en": "Magnetic bolts thudded out of position around the massive imitation-rosewood door to the left of the bookcases. JULIUS DEANE IMPORT EXPORT was lettered across the plastic in peeling self-adhesive capitals. If the furniture scattered in Deane's makeshift foyer suggested the end of the past century, the office itself seemed to belong to its start.",
+      "vi": "Những chiếc bu lông từ tính bị bật ra khỏi vị trí xung quanh cánh cửa giả gỗ cẩm lai đồ sộ ở bên trái tủ sách. JULIUS DEane IMPORT EXPORT được in chữ trên nhựa bằng các chữ hoa tự dính bong tróc. Nếu đồ đạc rải rác trong tiền sảnh tạm bợ của Deane gợi nhớ đến sự kết thúc của thế kỷ trước, thì bản thân văn phòng dường như thuộc về sự khởi đầu của nó."
+    },
+    {
+      "type": "parallel",
+      "en": "Deane's seamless pink face regarded Case from a pool of light cast by an ancient brass lamp with a rectangular shade of dark green glass. The importer was securely fenced behind a vast desk of painted steel, flanked on either side by tall, drawered cabinets made of some sort of pale wood. The sort of thing, Case supposed, that had once been used to store written records of some kind. The desktop was littered with cassettes, scrolls of yellowed printout, and various parts of some sort of clockwork typewriter, a machine Deane never seemed to get around to reassembling.",
+      "vi": "Khuôn mặt hồng hào không có đường nét của Deane nhìn Case từ một vũng ánh sáng được tạo ra bởi một chiếc đèn đồng cổ có chao đèn hình chữ nhật bằng thủy tinh màu xanh đậm. Nhà nhập khẩu được rào chắn an toàn phía sau một chiếc bàn lớn bằng thép sơn, hai bên là những chiếc tủ cao có ngăn kéo làm bằng một loại gỗ nhạt nào đó. Case cho là loại thứ này đã từng được sử dụng để lưu trữ một số loại hồ sơ bằng văn bản. Mặt bàn ngổn ngang những cuộn băng cassette, những cuộn giấy in ố vàng và nhiều bộ phận khác nhau của một loại máy đánh chữ chạy bằng đồng hồ nào đó, một cỗ máy mà Deane dường như chưa bao giờ có thời gian để lắp ráp lại."
+    },
+    {
+      "type": "parallel",
+      "en": "\"What brings you around, boyo?\" Deane asked, offering Case a narrow bonbon wrapped in blue-and-white checked paper. \"Try one. Ting Ting Djahe, the very best.\" Case refused the ginger, took a seat in a yawing wooden swivel chair, and ran a thumb down the faded seam of one black jeans-leg. \"Julie, I hear Wage wants to kill me.\"",
+      "vi": "“Điều gì khiến cậu phải đến đây thế, cậu bé?” Deane hỏi và đưa cho Case một chiếc kẹo hẹp bọc trong giấy ca-rô xanh trắng. \"Thử một cái đi. Ting Ting Djahe, ngon nhất.\" Case từ chối miếng gừng, ngồi vào chiếc ghế xoay bằng gỗ đang ngoằn ngoèo và dùng ngón tay cái vuốt dọc đường may đã phai màu của một ống quần jean màu đen. \"Julie, tôi nghe nói Wage muốn giết tôi.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"Ah. Well then. And where did you hear this, if I may?\"",
+      "vi": "\"À. Vậy thì. Và bạn nghe được điều này ở đâu, nếu tôi có thể?\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"People.\"",
+      "vi": "\"Mọi người.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"People,\" Deane said, around a ginger bonbon. \"What sort of people? Friends?\"",
+      "vi": "“Mọi người,” Deane nói, quanh một chiếc kẹo gừng. \"Loại người nào? Bạn bè?\""
+    },
+    {
+      "type": "parallel",
+      "en": "Case nodded.",
+      "vi": "Case gật đầu."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Not always that easy to know who your friends are, is it?\"",
+      "vi": "“Không phải lúc nào cũng dễ dàng biết được bạn bè mình là ai phải không?”"
+    },
+    {
+      "type": "parallel",
+      "en": "\"I do owe him a little money, Deane. He say anything to you?\"",
+      "vi": "\"Tôi nợ anh ấy một ít tiền, Deane. Anh ấy có nói gì với anh không?\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"Haven't been in touch, of late.\" Then he sighed. \"If I _did_ know, of course, I might not be in a position to tell you. Things being what they are, you understand.\"",
+      "vi": "“Gần đây không liên lạc.” Rồi anh thở dài. \"Tất nhiên, nếu tôi biết, tôi có thể không có tư cách để nói cho bạn biết. Mọi chuyện vốn là như vậy, bạn hiểu đấy.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"Things?\"",
+      "vi": "\"Đồ đạc?\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"He's an important connection, Case.\"",
+      "vi": "“Anh ấy là một đầu mối quan trọng, Case.”"
+    },
+    {
+      "type": "parallel",
+      "en": "\"Yeah. He want to kill me, Julie?\"",
+      "vi": "\"Phải. Anh ta muốn giết tôi phải không Julie?\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"Not that I know of.\" Deane shrugged. They might have been discussing the price of ginger. \"If it proves to be an unfounded rumor, old son, you come back in a week or so and I'll let you in on a little something out of Singapore.\"",
+      "vi": "\"Không phải là tôi biết.\" Deane nhún vai. Có lẽ họ đang thảo luận về giá gừng. “Nếu nó được chứng minh là một tin đồn vô căn cứ, con trai ạ, khoảng một tuần nữa con hãy quay lại và ta sẽ cho con biết một chút gì đó từ Singapore.”"
+    },
+    {
+      "type": "parallel",
+      "en": "\"Out of the Nan Hai Hotel, Bencoolen Street?\"",
+      "vi": "\"Ra khỏi khách sạn Nam Hải, đường Bencoolen?\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"Loose lips, old son!\" Deane grinned. The steel desk was jammed with a fortune in debugging gear.",
+      "vi": "\"Môi lỏng lẻo, con trai già!\" Deane cười toe toét. Chiếc bàn thép chất đầy đồ đạc sửa lỗi."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Be seeing you, Julie. I'll say hello to Wage.\"",
+      "vi": "\"Hẹn gặp lại nhé Julie. Tôi sẽ chào Wage.\""
+    },
+    {
+      "type": "parallel",
+      "en": "Deane's fingers came up to brush the perfect knot in his pale silk tie.",
+      "vi": "Những ngón tay của Deane đưa lên chạm vào nút thắt hoàn hảo trên chiếc cà vạt lụa nhạt của anh."
+    },
+    {
+      "type": "parallel",
+      "en": "He was less than a block from Deane's office when it hit, the sudden cellular awareness that someone was on his ass, and very close.",
+      "vi": "Khi cơn bão ập tới, anh chỉ cách văn phòng của Deane chưa đầy một dãy nhà, tế bào đột nhiên nhận ra có ai đó đang ở trên mông anh và rất gần."
+    },
+    {
+      "type": "parallel",
+      "en": "The cultivation of a certain tame paranoia was something Case took for granted. The trick lay in not letting it get out of control. But that could be quite a trick, behind a stack of octagons. He fought the adrenaline surge and composed his narrow features in a mask of bored vacancy, pretending to let the crowd carry him along. When he saw a darkened display window, he managed to pause by it. The place was a surgical boutique, closed for renovations. With his hands in the pockets of his jacket, he stared through the glass at a flat lozenge of vatgrown flesh that lay on a carved pedestal of imitation jade. The color of its skin reminded him of Zone's whores; it was tattooed with a luminous digital display wired to a subcutaneous chip. Why bother with the surgery, he found himself thinking, while sweat coursed down his ribs, when you could just carry the thing around in your pocket?",
+      "vi": "Việc nuôi dưỡng một chứng hoang tưởng đã được thuần hóa nào đó là điều mà Case cho là đương nhiên. Bí quyết nằm ở việc không để nó vượt quá tầm kiểm soát. Nhưng đó có thể là một trò lừa đảo đằng sau một chồng hình bát giác. Anh ta chiến đấu với sự dâng trào của adrenaline và tạo nên những đường nét nhỏ nhắn của mình trong chiếc mặt nạ trống rỗng buồn chán, giả vờ để đám đông mang anh ta đi cùng. Khi nhìn thấy một cửa sổ trưng bày tối om, anh cố dừng lại bên nó. Nơi này là một cửa hàng phẫu thuật, đóng cửa để cải tạo. Đút tay vào túi áo khoác, anh nhìn chằm chằm qua tấm kính vào một khối thịt hình thoi phẳng nằm trên một bệ chạm khắc bằng ngọc giả. Màu da của nó khiến anh nhớ đến những con điếm của Zone; nó được xăm bằng một màn hình kỹ thuật số phát sáng được nối với một con chip dưới da. Tại sao phải bận tâm đến cuộc phẫu thuật, anh thấy mình nghĩ trong khi mồ hôi chảy dọc xương sườn, khi bạn có thể mang thứ đó trong túi của mình?"
+    },
+    {
+      "type": "parallel",
+      "en": "Without moving his head, he raised his eyes and studied the reflection of the passing crowd.",
+      "vi": "Không cử động đầu, anh ngước mắt lên và quan sát hình ảnh phản chiếu của đám đông đi qua."
+    },
+    {
+      "type": "parallel",
+      "en": "There.",
+      "vi": "Ở đó."
+    },
+    {
+      "type": "parallel",
+      "en": "Behind sailors in short-sleeved khaki. Dark hair, mirrored glasses, dark clothing, slender...",
+      "vi": "Phía sau các thủy thủ trong trang phục kaki ngắn tay. Tóc đen, đeo kính tráng gương, quần áo tối màu, mảnh khảnh..."
+    },
+    {
+      "type": "parallel",
+      "en": "And gone.",
+      "vi": "Và đã biến mất."
+    },
+    {
+      "type": "parallel",
+      "en": "Then Case was running, bent low, dodging between bodies.",
+      "vi": "Sau đó Case chạy, cúi thấp người, né tránh giữa các cơ thể."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Rent me a gun, Shin?\"",
+      "vi": "“Cho tôi thuê súng nhé Shin?”"
+    },
+    {
+      "type": "parallel",
+      "en": "The boy smiled. \"Two hour.\" They stood together in the smell of fresh raw seafood at the rear of a Shiga sushi stall. \"You come back, two hour.\"",
+      "vi": "Cậu bé mỉm cười. \"Hai giờ.\" Họ đứng cùng nhau trong mùi hải sản tươi sống ở phía sau quầy sushi Shiga. \"Anh quay lại nhé, hai tiếng nữa.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"I need one now, man. Got anything right now?\"",
+      "vi": "\"Tôi cần một cái ngay bây giờ, anh bạn. Hiện tại có gì không?\""
+    },
+    {
+      "type": "parallel",
+      "en": "Shin rummaged behind empty two-liter cans that had once been filled with powdered horseradish. He produced a slender package wrapped in gray plastic. \"Taser. One hour, twenty New Yen. Thirty deposit.\"",
+      "vi": "Shin lục lọi những chiếc lon hai lít rỗng từng chứa đầy bột cải ngựa. Anh ta đưa ra một cái gói mảnh khảnh được bọc trong nhựa màu xám. \"Taser. Một giờ hai mươi Yên mới. Ba mươi tiền đặt cọc.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"Shit. I don't need that. I need a gun. Like I maybe wanna shoot somebody, understand?\"",
+      "vi": "\"Chết tiệt. Tôi không cần thứ đó. Tôi cần một khẩu súng. Kiểu như tôi muốn bắn ai đó, hiểu không?\""
+    },
+    {
+      "type": "parallel",
+      "en": "The waiter shrugged, replacing the taser behind the horseradish cans. \"Two hour.\"",
+      "vi": "Người phục vụ nhún vai, đặt lại súng điện vào sau hộp cải ngựa. \"Hai giờ.\""
+    },
+    {
+      "type": "parallel",
+      "en": "He went into the shop without bothering to glance at the display of shuriken. He'd never thrown one in his life.",
+      "vi": "Anh bước vào cửa hàng mà không buồn liếc nhìn quầy trưng bày shuriken. Anh chưa bao giờ ném một cái nào trong đời."
+    },
+    {
+      "type": "parallel",
+      "en": "He bought two packs of Yeheyuans with a Mitsubishi Bank chip that gave his name as Charles Derek May. It beat Truman Starr, the best he'd been able to do for a passport.",
+      "vi": "Anh ta mua hai gói Yeheyuans bằng con chip của Ngân hàng Mitsubishi có tên anh ta là Charles Derek May. Nó đã đánh bại Truman Starr, điều tốt nhất mà anh ấy có thể làm để có được tấm hộ chiếu."
+    },
+    {
+      "type": "parallel",
+      "en": "The Japanese woman behind the terminal looked like she had a few years on old Deane, none of them with the benefit of science. He took his slender roll of New Yen out of his pocket and showed it to her. \"I want to buy a weapon.\"",
+      "vi": "Người phụ nữ Nhật Bản đằng sau nhà ga trông giống như cô ấy đã hơn Deane vài tuổi, không ai trong số họ có lợi ích về mặt khoa học. Anh lấy trong túi ra một cuộn New Yên mảnh mai đưa cho cô. \"Tôi muốn mua vũ khí.\""
+    },
+    {
+      "type": "parallel",
+      "en": "She gestured in the direction of a case filled with knives.",
+      "vi": "Cô ấy chỉ tay về phía một chiếc hộp chứa đầy dao."
+    },
+    {
+      "type": "parallel",
+      "en": "\"No,\" he said, \"I don't like knives.\"",
+      "vi": "“Không,” anh ta nói, “tôi không thích dao.”"
+    },
+    {
+      "type": "parallel",
+      "en": "She brought an oblong box from beneath the counter. The lid was yellow cardboard, stamped with a crude image of a coiled cobra with a swollen hood. Inside were eight identical tissue-wrapped cylinders. He watched while mottled brown fingers stripped the paper from one. She held the thing up for him to examine, a dull steel tube with a leather thong at one end and a small bronze pyramid at the other. She gripped the tube with one hand, the pyramid between her other thumb and forefinger, and pulled. Three oiled, telescoping segments of tightly wound coilspring slid out and locked. \"Cobra,\" she said.",
+      "vi": "Cô mang một chiếc hộp hình thuôn dài từ dưới quầy tính tiền ra. Nắp hộp bằng bìa cứng màu vàng, có in hình một con rắn hổ mang cuộn tròn với chiếc mũ phồng lên. Bên trong là tám ống trụ được bọc khăn giấy giống hệt nhau. Anh nhìn những ngón tay nâu lốm đốm lột tờ giấy ra khỏi một tờ giấy. Cô giơ vật đó lên cho anh xem, một ống thép xỉn màu có một dây da ở một đầu và một kim tự tháp nhỏ bằng đồng ở đầu kia. Cô ấy nắm chặt cái ống bằng một tay, kim tự tháp ở giữa ngón cái và ngón trỏ còn lại rồi kéo. Ba đoạn lò xo cuộn được bôi dầu, dạng ống lồng, được quấn chặt, trượt ra và khóa lại. “Rắn hổ mang,” cô nói."
+    },
+    {
+      "type": "parallel",
+      "en": "Beyond the neon shudder of Ninsei, the sky was that mean shade of gray. The air had gotten worse; it seemed to have teeth tonight, and half the crowd wore filtration masks. Case had spent ten minutes in a urinal, trying to discover a convenient way to conceal his cobra; finally he'd settled for tucking the handle into the waistband of his jeans, with the tube slanting across his stomach. The pyramidal striking tip rode between his ribcage and the lining of his windbreaker. The thing felt like it might clatter to the pavement with his next step, but it made him feel better.",
+      "vi": "Ngoài ánh đèn neon rùng rợn của Ninsei, bầu trời mang một màu xám xịt. Không khí đã trở nên tồi tệ hơn; tối nay dường như nó đã mọc răng và một nửa đám đông đeo mặt nạ lọc. Case đã dành mười phút trong bồn tiểu, cố gắng tìm ra cách thuận tiện để giấu con rắn hổ mang của mình; cuối cùng anh quyết định nhét tay cầm vào cạp quần jean, với ống xiên ngang bụng. Mũi nhọn hình kim tự tháp nằm giữa lồng ngực và lớp lót áo gió của anh ta. Thứ đó có vẻ như sẽ rơi xuống vỉa hè khi anh bước tiếp, nhưng nó khiến anh cảm thấy dễ chịu hơn."
+    },
+    {
+      "type": "parallel",
+      "en": "The Chat wasn't really a dealing bar, but on weeknights it attracted a related clientele. Fridays and Saturdays were different. The regulars were still there, most of them, but they faded behind an influx of sailors and the specialists who preyed on them. As Case pushed through the doors, he looked for Ratz, but the bartender wasn't in sight. Lonny Zone, the bar's resident pimp, was observing with glazed fatherly interest as one of his girls went to work on a young sailor. Zone was addicted to a brand of hypnotic the Japanese called Cloud Dancers. Catching the pimp's eye, Case beckoned him to the bar. Zone came drifting through the crowd in slow motion, his long face slack and placid.",
+      "vi": "Trò chuyện không thực sự là một nơi giao dịch, nhưng vào các tối trong tuần, nó thu hút một nhóm khách hàng có liên quan. Thứ sáu và thứ bảy thì khác. Hầu hết những người chính quy vẫn còn ở đó, nhưng họ mờ dần sau làn sóng thủy thủ và các chuyên gia săn lùng họ. Khi Case đẩy cửa ra vào, anh tìm Ratz, nhưng không thấy người pha chế rượu đâu cả. Lonny Zone, ma cô thường trú của quán bar, đang quan sát với sự quan tâm đờ đẫn của một người cha khi một trong những cô gái của ông đi làm việc cho một thủy thủ trẻ. Zone nghiện một loại thuốc thôi miên của người Nhật tên là Cloud Dancers. Bắt gặp ánh mắt của tên ma cô, Case ra hiệu cho hắn đến quán bar. Zone lướt qua đám đông một cách chậm rãi, khuôn mặt dài của anh ta uể oải và điềm tĩnh."
+    },
+    {
+      "type": "parallel",
+      "en": "\"You seen Wage tonight, Lonny?\"",
+      "vi": "“Tối nay cậu có gặp Wage không, Lonny?”"
+    },
+    {
+      "type": "parallel",
+      "en": "Zone regarded him with his usual calm. He shook his head.",
+      "vi": "Zone nhìn anh với vẻ bình tĩnh thường thấy. Anh lắc đầu."
+    },
+    {
+      "type": "parallel",
+      "en": "\"You sure, man?\"",
+      "vi": "“Anh chắc chứ, anh bạn?”"
+    },
+    {
+      "type": "parallel",
+      "en": "\"Maybe in the Namban. Maybe two hours ago.\"",
+      "vi": "\"Có lẽ ở Namban. Có lẽ là hai giờ trước.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"Got some joeboys with him? One of 'em thin, dark hair, maybe a black jacket?\"",
+      "vi": "\"Có vài chàng trai đi cùng anh ấy à? Một trong số họ tóc đen, mỏng, có thể là áo khoác đen?\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"No,\" Zone said at last, his smooth forehead creased to indicate the effort it cost him to recall so much pointless detail. \"Big boys. Graftees.\" Zone's eyes showed very little white and less iris; under the drooping lids, his pupils were dilated and enormous. He stared into Case's face for a long time, then lowered his gaze. He saw the bulge of the steel whip. \"Cobra,\" he said, and raised an eyebrow. \"You wanna fuck somebody up?\"",
+      "vi": "“Không,” cuối cùng Zone nói, vầng trán mịn màng của anh nhăn lại để biểu thị rằng anh đã phải tốn rất nhiều công sức để nhớ lại quá nhiều chi tiết vô nghĩa. \"Những chàng trai lớn. Người ghép.\" Mắt của Zone có rất ít lòng trắng và ít mống mắt; dưới mi mắt rũ xuống, đồng tử của anh giãn ra và to lớn. Anh nhìn chằm chằm vào mặt Case một lúc lâu rồi hạ ánh mắt xuống. Anh ta nhìn thấy chỗ phình ra của chiếc roi thép. “Rắn hổ mang,” anh nói và nhướn mày. \"Bạn muốn đụ ai đó à?\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"See you, Lonny.\" Case left the bar.",
+      "vi": "\"Hẹn gặp lại, Lonny.\" Trường hợp rời khỏi quán bar."
+    },
+    {
+      "type": "parallel",
+      "en": "His tail was back. He was sure of it. He felt a stab of elation, the octagons and adrenaline mingling with something else. You're enjoying this, he thought; you're crazy.",
+      "vi": "Đuôi của anh ấy đã quay trở lại. Anh ấy chắc chắn về điều đó. Anh cảm thấy một niềm hân hoan dâng trào, những hình bát giác và adrenaline hòa quyện với thứ gì đó khác. Bạn đang tận hưởng điều này, anh nghĩ; bạn điên rồi."
+    },
+    {
+      "type": "parallel",
+      "en": "Because, in some weird and very approximate way, it was like a run in the matrix. Get just wasted enough, find yourself in some desperate but strangely arbitrary kind of trouble, and it was possible to see Ninsei as a field of data, the way the matrix had once reminded him of proteins linking to distinguish cell specialties. Then you could throw yourself into a highspeed drift and skid, totally engaged but set apart from it all, and all around you the dance of biz, information interacting, data made flesh in the mazes of the black market...",
+      "vi": "Bởi vì, theo một cách kỳ lạ và rất gần đúng nào đó, nó giống như một cuộc chạy trong ma trận. Lãng phí vừa đủ, thấy mình rơi vào một loại rắc rối tuyệt vọng nhưng độc đoán kỳ lạ nào đó, và có thể coi Ninsei là một trường dữ liệu, cách mà ma trận đã từng nhắc nhở anh về các protein liên kết để phân biệt các đặc tính của tế bào. Sau đó, bạn có thể ném mình vào một cuộc trôi dạt và trượt tốc độ cao, hoàn toàn tham gia nhưng tách biệt khỏi tất cả, và xung quanh bạn là điệu nhảy của biz, tương tác thông tin, dữ liệu tạo nên xác thịt trong mê cung của chợ đen..."
+    },
+    {
+      "type": "parallel",
+      "en": "Go it, Case, he told himself. Suck 'em in. Last thing they'll expect. He was half a block from the games arcade where he'd first met Linda Lee.",
+      "vi": "Cố lên Case, anh tự nhủ. Hút chúng vào. Điều cuối cùng chúng mong đợi. Anh ấy cách khu trò chơi điện tử nơi anh ấy gặp Linda Lee lần đầu tiên nửa dãy nhà."
+    },
+    {
+      "type": "parallel",
+      "en": "He bolted across Ninsei, scattering a pack of strolling sailors. One of them screamed after him in Spanish. Then he was through the entrance, the sound crashing over him like surf, subsonics throbbing in the pit of his stomach. Someone scored a ten-megaton hit on Tank War Europa, a simulated airburst drowning the arcade in white sound as a lurid hologram fireball mushroomed overhead. He cut to the right and loped up a flight of unpainted chipboard stairs. He'd come here once with Wage, to discuss a deal in proscribed hormonal triggers with a man called Matsuga. He remembered the hallway, its stained matting, the row of identical doors leading to tiny office cubicles. One door was open now. A Japanese girl in a sleeveless black t-shirt glanced up from a white terminal, behind her head a travel poster of Greece, Aegian blue splashed with streamlined ideograms.",
+      "vi": "Anh ta băng qua Ninsei, giải tán một nhóm thủy thủ đang tản bộ. Một trong số họ hét lên theo anh bằng tiếng Tây Ban Nha. Rồi anh đi qua lối vào, âm thanh ập vào anh như tiếng sóng vỗ, những âm thanh cận âm đập mạnh trong bụng anh. Ai đó đã ghi được một đòn tấn công mười megaton trên Tank War Europa, một vụ nổ trên không mô phỏng nhấn chìm trò chơi điện tử trong âm thanh trắng khi một quả cầu lửa hình ảnh ba chiều khủng khiếp mọc lên như nấm trên đầu. Anh rẽ sang phải và leo lên một cầu thang bằng ván dăm không sơn. Anh ta đã từng đến đây một lần với Wage để thảo luận về một thỏa thuận về việc cấm sử dụng các chất kích thích nội tiết tố với một người đàn ông tên là Matsuga. Anh nhớ đến hành lang, tấm thảm ố màu, dãy cửa giống hệt nhau dẫn đến những ngăn văn phòng nhỏ xíu. Bây giờ một cánh cửa đã mở. Một cô gái Nhật Bản mặc áo phông đen không tay ngước lên từ một nhà ga màu trắng, sau đầu cô ấy là một tấm áp phích du lịch của Hy Lạp, màu xanh Aegian điểm xuyết những chữ tượng hình được sắp xếp hợp lý."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Get your security up here,\" Case told her.",
+      "vi": "“Hãy đưa lực lượng an ninh của bạn lên đây,” Case nói với cô ấy."
+    },
+    {
+      "type": "parallel",
+      "en": "Then he sprinted down the corridor, out of her sight. The last two doors were closed and, he assumed, locked. He spun and slammed the sole of his nylon running shoe into the bluelacquered composition door at the far end. It popped, cheap hardware failing from the splintered frame. Darkness there, the white curve of a terminal housing. Then he was on the door to its right, both hands around the transparent plastic knob, leaning in with everything he had. Something snapped, and he was inside. This was where he and Wage had met with Matsuga, but whatever front company Matsuga had operated was long gone. No terminal, nothing. Light from the alley behind the arcade, filtering in through sootblown plastic. He made out a snakelike loop of fiberoptics protruding from a wall socket, a pile of discarded food containers, and the bladeless nacelle of an electric fan.",
+      "vi": "Sau đó anh chạy nhanh xuống hành lang, khuất tầm mắt cô. Hai cánh cửa cuối cùng đã đóng và anh đoán là đã bị khóa. Anh ta quay người và đập mạnh đế giày chạy bộ nylon của mình vào cánh cửa sơn màu xanh lam ở phía xa. Nó bật ra, phần cứng rẻ tiền bị hỏng do khung bị vỡ. Bóng tối ở đó, đường cong màu trắng của nhà ga. Rồi anh đến cánh cửa bên phải, cả hai tay ôm lấy núm nhựa trong suốt, dựa vào tất cả những gì anh có. Có cái gì đó gãy, và anh ấy đã ở bên trong. Đây là nơi anh và Wage đã gặp Matsuga, nhưng công ty bình phong mà Matsuga điều hành đã biến mất từ ​​​​lâu. Không có thiết bị đầu cuối, không có gì. Ánh sáng từ con hẻm phía sau mái vòm, xuyên qua tấm nhựa đầy bồ hóng. Anh ta tạo ra một vòng sợi quang giống như con rắn nhô ra từ ổ cắm trên tường, một đống hộp đựng thức ăn bỏ đi và vỏ bọc không cánh của một chiếc quạt điện."
+    },
+    {
+      "type": "parallel",
+      "en": "The window was a single pane of cheap plastic. He shrugged out of his jacket, bundled it around his right hand, and punched. It split, requiring two more blows to free it from the frame. Over the muted chaos of the games, an alarm began to cycle, triggered either by the broken window or by the girl at the head of the corridor.",
+      "vi": "Cửa sổ chỉ là một tấm kính nhựa rẻ tiền. Anh ta cởi áo khoác ra, quấn nó quanh tay phải và đấm. Nó tách ra, cần thêm hai cú đánh nữa để giải phóng nó khỏi khung. Giữa sự hỗn loạn thầm lặng của trò chơi, một hồi chuông báo động bắt đầu vang lên, được kích hoạt bởi cửa sổ vỡ hoặc bởi cô gái ở đầu hành lang."
+    },
+    {
+      "type": "parallel",
+      "en": "Case turned, pulled his jacket on, and flicked the cobra to full extension.",
+      "vi": "Case quay lại, mặc áo khoác vào và kéo con rắn hổ mang hết cỡ."
+    },
+    {
+      "type": "parallel",
+      "en": "With the door closed, he was counting on his tail to assume he'd gone through the one he'd kicked half off its hinges. The cobra's bronze pyramid began to bob gently, the spring-steel shaft amplifying his pulse.",
+      "vi": "Khi cánh cửa đóng lại, anh ta đang trông cậy vào cái đuôi của mình để cho rằng mình đã đi qua cái mà anh ta đã đá văng mất một nửa bản lề. Kim tự tháp bằng đồng của con rắn hổ mang bắt đầu lắc lư nhẹ nhàng, trục thép lò xo khuếch đại nhịp đập của nó."
+    },
+    {
+      "type": "parallel",
+      "en": "Nothing happened. There was only the surging of the alarm, the crashing of the games, his heart hammering. When the fear came, it was like some half-forgotten friend. Not the cold, rapid mechanism of the dex-paranoia, but simple animal fear. He'd lived for so long on a constant edge of anxiety that he'd almost forgotten what real fear was.",
+      "vi": "Không có gì xảy ra. Chỉ có tiếng chuông báo thức reo lên, tiếng trò chơi ngừng hoạt động, trái tim anh đập thình thịch. Khi nỗi sợ hãi ập đến, nó giống như một người bạn sắp bị lãng quên. Không phải cơ chế lạnh lùng, nhanh chóng của chứng hoang tưởng dex, mà là nỗi sợ hãi đơn giản của động vật. Anh đã sống quá lâu trong nỗi lo lắng thường trực đến nỗi gần như quên mất nỗi sợ hãi thực sự là gì."
+    },
+    {
+      "type": "parallel",
+      "en": "This cubicle was the sort of place where people died. He might die here. They might have guns...",
+      "vi": "Căn phòng này là nơi người ta chết. Anh ấy có thể sẽ chết ở đây. Họ có thể có súng..."
+    },
+    {
+      "type": "parallel",
+      "en": "A crash, from the far end of the corridor. A man's voice, shouting something in Japanese. A scream, shrill terror. Another crash.",
+      "vi": "Một tiếng va chạm, từ phía cuối hành lang. Giọng một người đàn ông đang hét lên điều gì đó bằng tiếng Nhật. Một tiếng thét chói tai, kinh hãi. Một vụ tai nạn khác."
+    },
+    {
+      "type": "parallel",
+      "en": "And footsteps, unhurried, coming closer.",
+      "vi": "Và những bước chân, không vội vã, đang đến gần hơn."
+    },
+    {
+      "type": "parallel",
+      "en": "Passing his closed door. Pausing for the space of three rapid beats of his heart. And returning. One, two, three. A bootheel scraped the matting.",
+      "vi": "Đi ngang qua cánh cửa đóng kín của anh. Dừng lại trong không gian của ba nhịp đập nhanh chóng của trái tim anh. Và trở về. Một, hai, ba. Một chiếc lều đã cạo tấm thảm."
+    },
+    {
+      "type": "parallel",
+      "en": "The last of his octagon-induced bravado collapsed. He snapped the cobra into its handle and scrambled for the window, blind with fear, his nerves screaming. He was up, out, and falling, all before he was conscious of what he'd done. The impact with pavement drove dull rods of pain through his shins.",
+      "vi": "Sự dũng cảm cuối cùng do hình bát giác gây ra của anh ta đã sụp đổ. Anh ta tóm con rắn hổ mang vào tay cầm và bò ra cửa sổ, mù quáng vì sợ hãi, dây thần kinh của anh ta gào thét. Anh đứng dậy, bước ra và ngã xuống, tất cả đều diễn ra trước khi anh ý thức được mình đã làm gì. Cú va chạm với mặt đường khiến những vết đau âm ỉ xuyên qua cẳng chân anh."
+    },
+    {
+      "type": "parallel",
+      "en": "A narrow wedge of light from a half-open service hatch framed a heap of discarded fiberoptics and the chassis of a junked console. He'd fallen face forward on a slab of soggy chipboard; he rolled over, into the shadow of the console. The cubicle's window was a square of faint light. The alarm still oscillated, louder here, the rear wall dulling the roar of the games.",
+      "vi": "Một tia sáng hẹp từ một cửa sập dịch vụ nửa mở đóng khung một đống sợi quang bị loại bỏ và khung của một bảng điều khiển rác rưởi. Anh ta ngã úp mặt về phía trước trên một tấm ván dăm sũng nước; anh lăn người vào bóng tối của bảng điều khiển. Cửa sổ căn phòng là một hình vuông có ánh sáng mờ nhạt. Chuông báo thức vẫn rung, ở đây to hơn, bức tường phía sau làm át đi tiếng gầm rú của trò chơi."
+    },
+    {
+      "type": "parallel",
+      "en": "A head appeared, framed in the window, backlit by the fluorescents in the corridor, then vanished. It returned, but he still couldn't read the features. Glint of silver across the eyes. \"Shit,\" someone said, a woman, in the accent of the northern Sprawl.",
+      "vi": "Một cái đầu xuất hiện, đóng khung trong cửa sổ, được chiếu sáng bởi ánh đèn huỳnh quang ở hành lang, rồi biến mất. Nó quay trở lại nhưng anh vẫn không thể đọc được các đặc điểm. Ánh bạc lấp lánh trong mắt. \"Chết tiệt,\" ai đó nói, một phụ nữ, bằng giọng của vùng Sprawl phía Bắc."
+    },
+    {
+      "type": "parallel",
+      "en": "The head was gone. Case lay under the console for a long count of twenty, then stood up. The steel cobra was still in his hand, and it took him a few seconds to remember what it was. He limped away down the alley, nursing his left ankle.",
+      "vi": "Cái đầu đã biến mất. Case nằm dưới bàn điều khiển một lúc lâu đến hai mươi rồi đứng dậy. Con rắn hổ mang thép vẫn còn trong tay anh, phải mất vài giây anh mới nhớ ra nó là gì. Anh khập khiễng đi xuống con hẻm, ôm lấy mắt cá chân trái."
+    },
+    {
+      "type": "parallel",
+      "en": "Shin's pistol was a fifty-year-old Vietnamese imitation of a South American copy of a Walther PPK, double-action on the first shot, with a very rough pull. It was chambered for .22 long rifle, and Case would've preferred lead azide explosives to the simple Chinese hollowpoints Shin had sold him. Still, it was a handgun and nine rounds of ammunition, and as he made his way down Shiga from the sushi stall he cradled it in his jacket pocket. The grips were bright red plastic molded in a raised dragon motif, something to run your thumb across in the dark. He'd consigned the cobra to a dump canister on Ninsei and dry-swallowed another octagon.",
+      "vi": "Khẩu súng lục của Shin là một khẩu súng lục của Việt Nam năm mươi năm tuổi nhái theo một bản sao của khẩu Walther PPK ở Nam Mỹ, tác động kép ngay lần bắn đầu tiên, với lực kéo rất thô. Nó được chứa trong khoang chứa một khẩu súng trường dài .22, và Case thích chất nổ chì azide hơn là loại đầu đạn đơn giản của Trung Quốc mà Shin đã bán cho anh ta. Tuy nhiên, đó là một khẩu súng ngắn và chín viên đạn, và khi đi xuống Shiga từ quầy bán sushi, anh đã nhét nó vào túi áo khoác. Báng cầm được làm bằng nhựa màu đỏ tươi được đúc theo họa tiết rồng nổi lên, thứ gì đó để bạn di chuyển ngón tay cái trong bóng tối. Anh ta đã gửi con rắn hổ mang vào một thùng rác ở Ninsei và nuốt chửng một hình bát giác khác."
+    },
+    {
+      "type": "parallel",
+      "en": "The pill lit his circuits and he rode the rush down Shiga to Ninsei, then over to Baiitsu. His tail, he'd decided, was gone, and that was fine. He had calls to make, biz to transact, and it wouldn't wait. A block down Baiitsu, toward the port, stood a featureless ten-story office building in ugly yellow brick. Its windows were dark now, but a faint glow from the roof was visible if you craned your neck. An unlit neon sign near the main entrance offered CHEAP HOTEL under a cluster of ideograms. If the place had another name, Case didn't know it; it was always referred to as Cheap Hotel. You reached it through an alley off Baiitsu, where an elevator waited at the foot of a transparent shaft. The elevator, like Cheap Hotel, was an afterthought, lashed to the building with bamboo and epoxy. Case climbed into the plastic cage and used his key, an unmarked length of rigid magnetic tape.",
+      "vi": "Viên thuốc thắp sáng các mạch của anh ấy và anh ấy phóng nhanh xuống Shiga đến Ninsei, rồi đến Baiitsu. Anh quyết định rằng cái đuôi của anh đã biến mất và điều đó không sao cả. Anh ấy có những cuộc gọi cần thực hiện, công việc phải giao dịch và nó sẽ không chờ đợi. Cách Baiitsu một dãy nhà, về phía bến cảng, có một tòa nhà văn phòng mười tầng xây bằng gạch màu vàng xấu xí. Cửa sổ bây giờ tối om, nhưng nếu bạn nghển cổ lên thì vẫn có thể nhìn thấy ánh sáng mờ nhạt từ mái nhà. Một bảng hiệu đèn neon không sáng gần lối vào chính đề nghị KHÁCH SẠN GIÁ RẺ dưới một cụm chữ tượng hình. Nếu nơi đó có một cái tên khác thì Case cũng không biết; nó luôn được gọi là Khách sạn giá rẻ. Bạn đến đó qua một con hẻm ngoài Baiitsu, nơi có một chiếc thang máy đợi dưới chân một trục trong suốt. Thang máy, giống như Khách sạn Giá rẻ, là một giải pháp được cân nhắc kỹ lưỡng, được gắn vào tòa nhà bằng tre và epoxy. Case trèo vào chiếc lồng nhựa và dùng chìa khóa của mình, một đoạn băng từ cứng có chiều dài không dấu."
+    },
+    {
+      "type": "parallel",
+      "en": "Case had rented a coffin here, on a weekly basis, since he'd arrived in Chiba, but he'd never slept in Cheap Hotel. He slept in cheaper places.",
+      "vi": "Case đã thuê quan tài ở đây hàng tuần kể từ khi anh đến Chiba, nhưng anh chưa bao giờ ngủ ở Khách sạn Giá rẻ. Anh ta ngủ ở những nơi rẻ hơn."
+    },
+    {
+      "type": "parallel",
+      "en": "The elevator smelled of perfume and cigarettes; the sides of the cage was scratched and thumb-smudged. As it passed the fifth floor, he saw the lights of Ninsei. He drummed his fingers against the pistolgrip as the cage slowed with a gradual hiss. As always, it came to a full stop with a violent jolt, but he was ready for it. He stepped out into the courtyard that served the place as some combination of lobby and lawn.",
+      "vi": "Thang máy có mùi nước hoa và thuốc lá; các cạnh của lồng bị trầy xước và nhòe ngón tay cái. Khi đi qua tầng năm, anh nhìn thấy ánh đèn của Ninsei. Anh gõ ngón tay vào báng súng khi chiếc lồng chậm lại kèm theo tiếng rít dần dần. Như mọi khi, nó dừng lại hoàn toàn bằng một cú giật mạnh, nhưng anh đã sẵn sàng. Anh bước ra sân, nơi được coi là sự kết hợp giữa tiền sảnh và bãi cỏ."
+    },
+    {
+      "type": "parallel",
+      "en": "Centered in the square carpet of green plastic turf, a Japanese teenager sat behind a C-shaped console, reading a textbook. The white fiberglass coffins were racked in a framework of industrial scaffolding. Six tiers of coffins, ten coffins on a side. Case nodded in the boy's direction and limped across the plastic grass to the nearest ladder. The compound was roofed with cheap laminated matting that rattled in a strong wind and leaked when it rained, but the coffins were reasonably difficult to open without a key.",
+      "vi": "Giữa tấm thảm vuông trải cỏ nhựa màu xanh lá cây, một thiếu niên Nhật Bản ngồi sau chiếc bàn hình chữ C và đọc sách giáo khoa. Những chiếc quan tài bằng sợi thủy tinh màu trắng được đặt trên khung giàn giáo công nghiệp. Sáu tầng quan tài, mỗi bên mười quan tài. Case gật đầu về phía cậu bé và khập khiễng băng qua bãi cỏ nhựa đến chiếc thang gần nhất. Khu nhà được lợp bằng những tấm thảm nhiều lớp rẻ tiền, rung lắc khi gió mạnh và dột khi trời mưa, nhưng những chiếc quan tài khá khó mở nếu không có chìa khóa."
+    },
+    {
+      "type": "parallel",
+      "en": "The expansion-grate catwalk vibrated with his weight as he edged his way along the third tier to Number 92. The coffins were three meters long, the oval hatches a meter wide and just under a meter and a half tall. He fed his key into the slot and waited for verification from the house computer. Magnetic bolts thudded reassuringly and the hatch rose vertically with a creak of springs. Fluorescents flickered on as he crawled in, pulling the hatch shut behind him and slapping the panel that activated the manual latch.",
+      "vi": "Sàn catwalk có tấm lưới mở rộng rung chuyển theo sức nặng của anh khi anh bước dọc theo tầng thứ ba đến Số 92. Những chiếc quan tài dài ba mét, hình bầu dục nở ra rộng một mét và chỉ cao chưa đến một mét rưỡi. Anh nhét chìa khóa vào khe và chờ xác minh từ máy tính trong nhà. Những chiếc bu-lông nam châm kêu thịch một cách trấn an và cánh cửa nâng lên theo phương thẳng đứng cùng với tiếng lò xo cọt kẹt. Đèn huỳnh quang nhấp nháy khi anh bò vào, kéo cửa sập lại phía sau và đập mạnh vào bảng điều khiển để kích hoạt chốt bằng tay."
+    },
+    {
+      "type": "parallel",
+      "en": "There was nothing in Number 92 but a standard Hitachi pocket computer and a small white styrofoam cooler chest. The cooler contained the remains of three ten-kilo slabs of dry ice, carefully wrapped in paper to delay evaporation, and a spun aluminum lab flask. Crouching on the brown temperfoam slab that was both floor and bed, Case took Shin's .22 from his pocket and put it on top of the cooler. Then he took off his jacket. The coffin's terminal was molded into one concave wall, opposite a panel listing house rules in seven languages. Case took the pink handset from its cradle and punched a Hongkong number from memory. He let it ring five times, then hung up. His buyer for the three megabytes of hot RAM in the Hitachi wasn't taking calls.",
+      "vi": "Ở Số 92 không có gì ngoài một chiếc máy tính bỏ túi tiêu chuẩn của Hitachi và một thùng làm mát nhỏ bằng xốp màu trắng. Máy làm mát chứa phần còn lại của ba phiến đá khô nặng 10 kg, được bọc cẩn thận trong giấy để trì hoãn sự bay hơi và một bình thí nghiệm bằng nhôm quay tròn. Cúi mình trên tấm ván xốp màu nâu vừa làm sàn vừa làm giường, Case lấy khẩu .22 của Shin từ trong túi ra và đặt nó lên trên thùng làm mát. Sau đó anh cởi áo khoác ra. Nhà ga của quan tài được đúc thành một bức tường lõm, đối diện với một tấm bảng liệt kê các quy tắc trong nhà bằng bảy thứ tiếng. Case lấy chiếc điện thoại màu hồng ra khỏi giá và bấm một số Hồng Kông trong trí nhớ. Anh để chuông reo năm lần rồi cúp máy. Người mua 3 megabyte RAM nóng của chiếc Hitachi không nhận cuộc gọi nào."
+    },
+    {
+      "type": "parallel",
+      "en": "He punched a Tokyo number in Shinjuku.",
+      "vi": "Anh ta bấm số Tokyo ở Shinjuku."
+    },
+    {
+      "type": "parallel",
+      "en": "A woman answered, something in Japanese.",
+      "vi": "Một người phụ nữ trả lời bằng tiếng Nhật."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Snake Man there?\"",
+      "vi": "\"Người rắn ở đó à?\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"Very good to hear from you,\" said Snake Man, coming in on an extension. \"I've been expecting your call.\"",
+      "vi": "“Rất vui được nghe ý kiến ​​của bạn,” Snake Man nói, nối dài câu chuyện. \"Tôi đang mong đợi cuộc gọi của bạn.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"I got the music you wanted.\" Glancing at the cooler.",
+      "vi": "\"Tôi đã có được bản nhạc mà bạn muốn.\" Liếc nhìn vào máy làm mát."
+    },
+    {
+      "type": "parallel",
+      "en": "\"I'm very glad to hear that. We have a cash flow problem. Can you front?\"",
+      "vi": "\"Tôi rất vui khi nghe điều đó. Chúng tôi đang gặp vấn đề về dòng tiền. Bạn có thể giải quyết được không?\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"Oh, man, I really need the money bad...\"",
+      "vi": "\"Ôi trời, tôi thực sự cần tiền lắm...\""
+    },
+    {
+      "type": "parallel",
+      "en": "Snake Man hung up.",
+      "vi": "Người Rắn cúp máy."
+    },
+    {
+      "type": "parallel",
+      "en": "\"You shit,\" Case said to the humming receiver. He stared at the cheap little pistol.",
+      "vi": "\"Đồ khốn nạn,\" Case nói với chiếc ống nghe đang ồn ào. Anh nhìn chằm chằm vào khẩu súng lục nhỏ rẻ tiền."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Iffy,\" he said, \"it's all looking very iffy tonight.\"",
+      "vi": "“Không ổn,” anh ấy nói, “tối nay mọi chuyện có vẻ rất tồi tệ.”"
+    },
+    {
+      "type": "parallel",
+      "en": "Case walked into the Chat an hour before dawn, both hands in the pockets of his jacket: one held the rented pistol, the other the aluminum flask.",
+      "vi": "Case bước vào Chat một giờ trước bình minh, cả hai tay đút túi áo khoác: một tay cầm khẩu súng lục thuê, tay kia cầm bình nhôm."
+    },
+    {
+      "type": "parallel",
+      "en": "Ratz was at a rear table, drinking Apollonaris water from a beer pitcher, his hundred and twenty kilos of doughy flesh tilted against the wall on a creaking chair. A Brazilian kid called Kurt was on the bar, tending a thin crowd of mostly silent drunks. Ratz's plastic arm buzzed as he raised the pitcher and drank. His shaven head was filmed with sweat. \"You look bad, friend artiste,\" he said, flashing the wet ruin of his teeth.",
+      "vi": "Ratz đang ngồi ở bàn phía sau, uống nước Apollonaris từ bình bia, một trăm hai mươi kg thịt nhão của anh ta tựa vào tường trên một chiếc ghế kêu cót két. Một cậu bé người Brazil tên là Kurt đang ở trong quầy bar, chăm sóc một đám đông ít người say rượu. Cánh tay nhựa của Ratz rung lên khi anh nâng bình lên và uống. Cái đầu cạo trọc của anh ta lấm tấm mồ hôi. “Trông bạn tệ quá, bạn nghệ sĩ,” anh ta nói, để lộ hàm răng ướt át của mình."
+    },
+    {
+      "type": "parallel",
+      "en": "\"I'm doing just fine,\" said Case, and grinned like a skull. \"Super fine.\" He sagged into the chair opposite Ratz, hands still in his pockets.",
+      "vi": "“Tôi vẫn ổn,” Case nói và cười toe toét như một cái đầu lâu. \"Siêu ổn.\" Anh ta ngồi xuống chiếc ghế đối diện Ratz, tay vẫn đút trong túi."
+    },
+    {
+      "type": "parallel",
+      "en": "\"And you wander back and forth in this portable bombshelter built of booze and ups, sure. Proof against the grosser emotions, yes?\"",
+      "vi": "\"Và chắc chắn là bạn đi đi lại lại trong hầm tránh bom di động được làm bằng rượu và thuốc nổ này. Bằng chứng chống lại những cảm xúc thô thiển hơn, đúng không?\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"Why don't you get off my case, Ratz? You seen Wage?\"",
+      "vi": "\"Sao anh không bỏ vụ án của tôi đi, Ratz? Anh đã gặp Wage à?\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"Proof against fear and being alone,\" the bartender continued. \"Listen to the fear. Maybe it's your friend.\"",
+      "vi": "“Bằng chứng chống lại nỗi sợ hãi và sự cô đơn,” người pha chế rượu tiếp tục. \"Hãy lắng nghe nỗi sợ hãi. Có lẽ đó là bạn của bạn.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"You hear anything about a fight in the arcade tonight, Ratz? Somebody hurt?\"",
+      "vi": "“Anh có nghe thấy gì về vụ đánh nhau ở khu trò chơi điện tử tối nay không, Ratz? Có ai bị thương không?”"
+    },
+    {
+      "type": "parallel",
+      "en": "\"Crazy cut a security man.\" He shrugged. \"A girl, they say.\"",
+      "vi": "\"Điên cắt một người bảo vệ.\" Anh nhún vai. “Người ta nói là một cô gái.”"
+    },
+    {
+      "type": "parallel",
+      "en": "\"I gotta talk to Wage. Ratz, I...\"",
+      "vi": "\"Tôi phải nói chuyện với Wage. Ratz, tôi...\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"Ah.\" Ratz's mouth narrowed, compressed into a single line. He was looking past Case, toward the entrance. \"I think you are about to.\"",
+      "vi": "\"À.\" Miệng Ratz mím lại, mím lại thành một đường. Anh ta đang nhìn qua Case, hướng tới lối vào. \"Tôi nghĩ là cậu sắp làm vậy.\""
+    },
+    {
+      "type": "parallel",
+      "en": "Case had a sudden flash of the shuriken in their window. The speed sang in his head. The pistol in his hand was slippery with sweat.",
+      "vi": "Case đột ngột xuất hiện một tia sáng của chiếc shuriken trong cửa sổ phòng họ. Tốc độ vang lên trong đầu anh. Khẩu súng trong tay anh trơn trượt vì mồ hôi."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Herr Wage,\" Ratz said, slowly extending his pink manipulator as if he expected it to be shaken. \"How great a pleasure. Too seldom do you honor us.\"",
+      "vi": "“Herr Wage,” Ratz nói, từ từ đưa tay cầm màu hồng của mình ra như thể anh ta mong đợi nó sẽ bị rung chuyển. \"Thật là một niềm vui lớn. Rất hiếm khi bạn tôn trọng chúng tôi.\""
+    },
+    {
+      "type": "parallel",
+      "en": "Case turned his head and looked up into Wage's face. It was a tanned and forgettable mask. The eyes were vatgrown sea-green Nikon transplants. Wage wore a suit of gunmetal silk and a simple bracelet of platinum on either wrist. He was flanked by his joeboys, nearly identical young men, their arms and shoulders bulging with grafted muscle.",
+      "vi": "Case quay đầu lại và nhìn vào mặt Wage. Đó là một chiếc mặt nạ rám nắng và đáng quên. Đôi mắt được cấy ghép từ Nikon màu xanh nước biển. Wage mặc một bộ vest bằng lụa kim loại và một chiếc vòng tay đơn giản bằng bạch kim ở cả hai cổ tay. Bên cạnh anh là những chàng trai trẻ của mình, những chàng trai trẻ gần như giống hệt nhau, cánh tay và vai của họ phồng lên với cơ bắp được ghép."
+    },
+    {
+      "type": "parallel",
+      "en": "\"How you doing, Case?\"",
+      "vi": "“Anh thế nào rồi, Case?”"
+    },
+    {
+      "type": "parallel",
+      "en": "\"Gentlemen,\" said Ratz, picking up the table's heaped ashtray in his pink plastic claw, \"I want no trouble here.\" The ashtray was made of thick, shatterproof plastic, and advertised Tsingtao beer. Ratz crushed it smoothly, butts and shards of green plastic cascading onto the tabletop. \"You understand?\"",
+      "vi": "“Các quý ông,” Ratz nói, nhặt chiếc gạt tàn chất đống trên bàn lên bằng móng vuốt nhựa màu hồng của mình, “Tôi không muốn gặp rắc rối ở đây.” Chiếc gạt tàn được làm bằng nhựa dày, chống vỡ và quảng cáo bia Tsingtao. Ratz nghiền nát nó một cách êm ái, những mẩu nhựa màu xanh lá cây rơi xuống mặt bàn. \"Bạn hiểu không?\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"Hey, sweetheart,\" said one of the joeboys, \"you wanna try that thing on me?\"",
+      "vi": "\"Này, em yêu,\" một trong những joeboys nói, \"bạn có muốn thử thứ đó với tôi không?\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"Don't bother aiming for the legs, Kurt,\" Ratz said, his tone conversational. Case glanced across the room and saw the Brazilian standing on the bar, aiming a Smith & Wesson riot gun at the trio. The thing's barrel, made of paper-thin alloy wrapped with a kilometer of glass filament, was wide enough to swallow a fist. The skeletal magazine revealed five fat orange cartridges, subsonic sandbag jellies.",
+      "vi": "“Đừng nhắm vào chân, Kurt,” Ratz nói, giọng đầy trò chuyện. Case liếc qua phòng và thấy người Brazil đang đứng trên quầy bar, chĩa khẩu súng chống bạo động Smith & Wesson vào bộ ba. Nòng súng của thứ này, làm bằng hợp kim mỏng như tờ giấy được bọc bằng sợi thủy tinh dài hàng km, đủ rộng để nuốt chửng một nắm tay. Tạp chí bộ xương tiết lộ năm viên đạn màu cam béo, thạch bao cát cận âm."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Technically nonlethal,\" said Ratz.",
+      "vi": "“Về mặt kỹ thuật thì không gây chết người,” Ratz nói."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Hey, Ratz,\" Case said, \"I owe you one.\"",
+      "vi": "“Này, Ratz,” Case nói, “Tôi nợ anh một lần.”"
+    },
+    {
+      "type": "parallel",
+      "en": "The bartender shrugged. \"Nothing, you owe me. These,\" and he glowered at Wage and the joeboys, \"should know better. You don't take anybody off in the Chatsubo.\"",
+      "vi": "Người pha chế nhún vai. \"Không có gì, bạn nợ tôi. Những thứ này,\" và anh ta trừng mắt nhìn Wage và những chàng trai trẻ, \"nên biết rõ hơn. Bạn không được đưa ai đi ở Chatsubo.\""
+    },
+    {
+      "type": "parallel",
+      "en": "Wage coughed. \"So who's talking about taking anybody off. We just wanna talk business. Case and me, we work together.\"",
+      "vi": "Lương ho. \"Vậy ai đang nói về việc đuổi ai đi. Chúng tôi chỉ muốn nói chuyện kinh doanh. Case và tôi, chúng tôi làm việc cùng nhau.\""
+    },
+    {
+      "type": "parallel",
+      "en": "Case pulled the .22 out of his pocket and levelled it at Wage's crotch. \"I hear you wanna do me.\" Ratz's pink claw closed around the pistol and Case let his hand go limp.",
+      "vi": "Case rút khẩu .22 ra khỏi túi và chĩa vào háng Wage. \"Tôi nghe nói anh muốn làm tôi.\" Móng vuốt màu hồng của Ratz khép lại quanh khẩu súng lục và Case buông tay ra."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Look, Case, you tell me what the fuck is going on with you, you wig or something? What's this shit I'm trying to kill you?\" Wage turned to the boy on his left. \"You two go back to the Namban. Wait for me.\"",
+      "vi": "\"Nghe này Case, cậu nói cho tôi biết chuyện quái gì đang xảy ra với cậu vậy, tóc giả hay gì đó? Tôi đang cố giết cậu là cái quái gì vậy?\" Wage quay sang cậu bé bên trái. \"Hai người quay lại Namban. Đợi tôi.\""
+    },
+    {
+      "type": "parallel",
+      "en": "Case watched as they crossed the bar, which was now entirely deserted except for Kurt and a drunken sailor in khakis, who was curled at the foot of a barstool. The barrel of the Smith & Wesson tracked the two to the door, then swung back to cover Wage. The magazine of Case's pistol clattered on the table. Ratz held the gun in his claw and pumped the round out of the chamber.",
+      "vi": "Case nhìn họ băng qua quán bar, lúc này đã hoàn toàn vắng tanh, ngoại trừ Kurt và một thủy thủ say rượu trong bộ quần áo kaki, người đang cuộn tròn dưới chân một chiếc ghế đẩu. Nòng súng của Smith & Wesson theo dõi cả hai đến cửa, sau đó quay lại che chắn cho Wage. Băng đạn súng lục của Case kêu leng keng trên bàn. Ratz giữ khẩu súng trong móng vuốt của mình và bơm viên đạn ra khỏi ổ đạn."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Who told you I was going to hit you, Case?\" Wage asked.",
+      "vi": "“Ai nói với cậu là tôi sẽ đánh cậu, Case?” Lương hỏi."
+    },
+    {
+      "type": "parallel",
+      "en": "Linda.",
+      "vi": "Linda."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Who told you, man? Somebody trying to set you up?\"",
+      "vi": "\"Ai nói cho anh biết vậy, anh bạn? Có ai đó đang gài bẫy anh à?\""
+    },
+    {
+      "type": "parallel",
+      "en": "The sailor moaned and vomited explosively.",
+      "vi": "Người thủy thủ rên rỉ và nôn mửa dữ dội."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Get him out of here,\" Ratz called to Kurt, who was sitting on the edge of the bar now, the Smith & Wesson across his lap, lighting a cigarette.",
+      "vi": "\"Đưa anh ta ra khỏi đây,\" Ratz gọi Kurt, lúc này đang ngồi ở rìa quầy bar, Smith & Wesson đặt trên đùi anh ta, châm một điếu thuốc."
+    },
+    {
+      "type": "parallel",
+      "en": "Case felt the weight of the night come down on him like a bag of wet sand settling behind his eyes. He took the flask out of his pocket and handed it to Wage. \"All I got. Pituitaries. Get you five hundred if you move it fast. Had the rest of my roll in some RAM, but that's gone by now.\"",
+      "vi": "Case cảm thấy sức nặng của màn đêm đè nặng lên mình như một túi cát ướt đọng lại sau mắt anh. Anh ta lấy chiếc bình ra khỏi túi và đưa cho Wage. \"Tất cả những gì tôi có. Tuyến yên. Nếu bạn di chuyển nhanh, tôi sẽ nhận được năm trăm. Tôi đã cho phần còn lại vào một ít RAM, nhưng giờ nó đã hết rồi.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"You okay, Case?\" The flask had already vanished behind a gunmetal lapel. \"I mean, fine, this'll square us, but you look bad. Like hammered shit. You better go somewhere and sleep.\"",
+      "vi": "“Cậu ổn chứ Case?” Chiếc bình đã biến mất sau ve áo bằng kim loại màu súng. \"Ý tôi là, được thôi, điều này sẽ khiến chúng ta khó chịu, nhưng trông bạn tệ quá. Giống như một thứ đồ chết tiệt. Tốt nhất bạn nên đi đâu đó và ngủ đi.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"Yeah.\" He stood up and felt the Chat sway around him. \"Well, I had this fifty, but I gave it to somebody.\" He giggled. He picked up the .22's magazine and the one loose cartridge and dropped them into one pocket, then put the pistol in the other. \"I gotta see Shin, get my deposit back.\"",
+      "vi": "\"Vâng.\" Anh đứng dậy và cảm thấy Chat lắc lư xung quanh mình. \"Chà, tôi có năm mươi cái này, nhưng tôi đã đưa nó cho ai đó.\" Anh ấy cười khúc khích. Anh ta nhặt băng đạn .22 và một hộp đạn rời rồi thả chúng vào một túi, rồi nhét khẩu súng lục vào túi kia. \"Tôi phải gặp Shin, lấy lại tiền đặt cọc.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"Go home,\" said Ratz, shifting on the creaking chair with something like embarrassment. \"Artiste. Go home.\"",
+      "vi": "“Về nhà đi,” Ratz nói, di chuyển trên chiếc ghế cọt kẹt với vẻ gì đó giống như bối rối. \"Nghệ sĩ. Về nhà đi.\""
+    },
+    {
+      "type": "parallel",
+      "en": "He felt them watching as he crossed the room and shouldered his way past the plastic doors.",
+      "vi": "Anh cảm thấy họ đang quan sát khi anh băng qua phòng và lách qua cánh cửa nhựa."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Bitch,\" he said to the rose tint over Shiga. Down on Ninsei the holograms were vanishing like ghosts, and most of the neon was already cold and dead. He sipped thick black coffee from a street vendor's foam thimble and watched the sun come up. \"You fly away, honey. Towns like this are for people who like the way down.\" But that wasn't it, really, and he was finding it increasingly hard to maintain the sense of betrayal. She just wanted a ticket home, and the RAM in his Hitachi would buy it for her, if she could find the right fence. And that business with the fifty; she'd almost turned it down, knowing she was about to rip him for the rest of what he had.",
+      "vi": "“Đồ khốn,” anh nói với sắc hồng trên người Shiga. Ở dưới Ninsei, những hình ảnh ba chiều đang biến mất như những bóng ma, và phần lớn ánh đèn neon đã lạnh lẽo và chết chóc. Anh nhấp một ngụm cà phê đen đặc từ chiếc ống xốp bán hàng rong và ngắm mặt trời mọc. \"Em bay đi đi em yêu. Những thị trấn như thế này dành cho những người thích đi xuống.\" Nhưng thực sự không phải vậy, và anh ngày càng cảm thấy khó khăn hơn trong việc duy trì cảm giác bị phản bội. Cô chỉ muốn một tấm vé về nhà, và RAM trên chiếc Hitachi của anh sẽ mua nó cho cô, nếu cô tìm được hàng rào phù hợp. Và việc kinh doanh với năm mươi; cô gần như đã từ chối nó vì biết rằng cô sắp xé nát anh để lấy phần còn lại của anh."
+    },
+    {
+      "type": "parallel",
+      "en": "When he climbed out of the elevator, the same boy was on the desk. Different textbook. \"Good buddy,\" Case called across the plastic turf, \"you don't need to tell me. I know already. Pretty lady came to visit, said she had my key. Nice little tip for you, say fifty New ones?\" The boy put down his book. \"Woman,\" Case said, and drew a line across his forehead with his thumb. \"Silk.\" He smiled broadly. The boy smiled back, nodded. \"Thanks, asshole,\" Case said.",
+      "vi": "Khi anh bước ra khỏi thang máy, cũng chính cậu bé đó đang ngồi trên bàn. Sách giáo khoa khác nhau. \"Bạn tốt,\" Case gọi qua sân nhựa, \"bạn không cần phải nói với tôi. Tôi biết rồi. Cô gái xinh đẹp đến thăm, nói rằng cô ấy có chìa khóa của tôi. Mẹo nhỏ cho bạn, chẳng hạn như năm mươi cái mới?\" Cậu bé đặt cuốn sách của mình xuống. “Phụ nữ,” Case nói và dùng ngón tay cái vẽ một đường ngang trán. \"Lụa.\" Anh mỉm cười rộng rãi. Cậu bé mỉm cười đáp lại, gật đầu. “Cám ơn, đồ khốn,” Case nói."
+    },
+    {
+      "type": "parallel",
+      "en": "On the catwalk, he had trouble with the lock. She'd messed it up somehow when she'd fiddled it, he thought. Beginner. He knew where to rent a blackbox that would open anything in Cheap Hotel. Fluorescents came on as he crawled in.",
+      "vi": "Trên sàn catwalk, anh gặp rắc rối với ổ khóa. Bằng cách nào đó cô đã làm hỏng nó khi nghịch nghịch nó, anh nghĩ. Người mới bắt đầu. Anh ta biết chỗ thuê một chiếc hộp đen có thể mở được mọi thứ trong Khách sạn Giá rẻ. Đèn huỳnh quang bật sáng khi anh bò vào."
+    },
+    {
+      "type": "parallel",
+      "en": "\"Close the hatch real slow, friend. You still got that Saturday night special you rented from the waiter?\"",
+      "vi": "\"Đóng cửa thật chậm, anh bạn. Anh vẫn còn nhận món đặc biệt tối thứ Bảy thuê từ người phục vụ chứ?\""
+    },
+    {
+      "type": "parallel",
+      "en": "She sat with her back to the wall, at the far end of the coffin. She had her knees up, resting her wrists on them; the pepperbox muzzle of a flechette pistol emerged from her hands.",
+      "vi": "Cô ngồi quay lưng vào tường, ở đầu kia của quan tài. Cô co đầu gối lên, đặt cổ tay lên đó; đầu nòng của một khẩu súng lục Flechette nhô ra khỏi tay cô."
+    },
+    {
+      "type": "parallel",
+      "en": "\"That you in the arcade?\" He pulled the hatch down. \"Where's Linda?\"",
+      "vi": "\"Bạn ở trong trò chơi điện tử à?\" Anh kéo cửa sập xuống. \"Linda đâu?\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"Hit that latch switch.\"",
+      "vi": "\"Nhấn công tắc chốt đó.\""
+    },
+    {
+      "type": "parallel",
+      "en": "He did.",
+      "vi": "Anh ấy đã làm vậy."
+    },
+    {
+      "type": "parallel",
+      "en": "\"That your girl? Linda?\"",
+      "vi": "\"Đó là cô gái của bạn à? Linda?\""
+    },
+    {
+      "type": "parallel",
+      "en": "He nodded.",
+      "vi": "Anh ấy gật đầu."
+    },
+    {
+      "type": "parallel",
+      "en": "\"She's gone. Took your Hitachi. Real nervous kid. What about the gun, man?\" She wore mirrored glasses. Her clothes were black, the heels of black boots deep in the temperfoam.",
+      "vi": "\"Cô ấy đi rồi. Lấy đi chiếc Hitachi của anh. Thằng bé thực sự lo lắng. Còn khẩu súng thì sao, anh bạn?\" Cô ấy đeo kính tráng gương. Quần áo của cô ấy màu đen, gót đôi bốt đen chìm sâu trong lớp bọt xốp."
+    },
+    {
+      "type": "parallel",
+      "en": "\"I took it back to Shin, got my deposit. Sold his bullets back to him for half what I paid. You want the money?\"",
+      "vi": "\"Tôi đã trả lại cho Shin, nhận lại tiền đặt cọc. Bán lại số đạn của anh ấy cho anh ấy với giá bằng một nửa số tiền tôi trả. Anh muốn tiền à?\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"No.\"",
+      "vi": "\"KHÔNG.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"Want some dry ice? All I got, right now.\"",
+      "vi": "\"Muốn chút đá khô không? Tất cả những gì tôi có, ngay bây giờ.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"What got into you tonight? Why'd you pull that scene at the arcade? I had to mess up this rentacop came after me with nunchucks.\"",
+      "vi": "\"Tối nay cậu bị cái gì thế? Tại sao cậu lại kéo cảnh đó ra ở khu trò chơi điện tử? Tôi đã phải làm rối tung việc tên cho thuê nhà này đuổi theo tôi bằng côn nhị khúc.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"Linda said you were gonna kill me.\"",
+      "vi": "“Linda nói cậu sẽ giết tôi.”"
+    },
+    {
+      "type": "parallel",
+      "en": "\"Linda said? I never saw her before I came up here.\"",
+      "vi": "\"Linda nói? Tôi chưa bao giờ gặp cô ấy trước khi lên đây.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"You aren't with Wage?\"",
+      "vi": "“Anh không ở chỗ Wage à?”"
+    },
+    {
+      "type": "parallel",
+      "en": "She shook her head. He realized that the glasses were surgically inset, sealing her sockets. The silver lenses seemed to grow from smooth pale skin above her cheekbones, framed by dark hair cut in a rough shag. The fingers curled around the fletcher were slender, white, tipped with polished burgundy. The nails looked artificial. \"I think you screwed up, Case. I showed up and you just fit me right into your reality picture.\"",
+      "vi": "Cô ấy lắc đầu. Anh nhận ra rằng chiếc kính đã được phẫu thuật lắp vào, bịt kín hốc mắt của cô. Cặp kính màu bạc dường như mọc lên từ làn da nhợt nhạt mịn màng phía trên gò má của cô, được bao bọc bởi mái tóc đen cắt theo kiểu xù xì. Những ngón tay cuộn quanh chiếc Fletcher mảnh khảnh, trắng trẻo, điểm một chút màu đỏ tía bóng loáng. Móng tay trông có vẻ giả tạo. \"Tôi nghĩ bạn đã làm sai rồi, Case. Tôi xuất hiện và bạn vừa khít với tôi trong bức tranh thực tế của bạn.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"So what do you want, lady?\" He sagged back against the hatch.",
+      "vi": "“Vậy cô muốn gì, thưa cô?” Anh ta lùi lại dựa vào cửa sập."
+    },
+    {
+      "type": "parallel",
+      "en": "\"You. One live body, brains still somewhat intact. Molly, Case. My name's Molly. I'm collecting you for the man I work for. Just wants to talk; is all. Nobody wants to hurt you.\"",
+      "vi": "\"Bạn. Một cơ thể còn sống, bộ não vẫn còn nguyên vẹn. Molly, Case. Tên tôi là Molly. Tôi đang thu thập bạn cho người đàn ông mà tôi làm việc. Chỉ muốn nói chuyện; thế thôi. Không ai muốn làm tổn thương bạn.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"That's good.\"",
+      "vi": "\"Tốt đấy.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"'Cept I do hurt people sometimes, Case. I guess it's just the way I'm wired.\" She wore tight black gloveleather jeans and a bulky black jacket cut from some matte fabric that seemed to absorb light. \"If I put this dartgun away, will you be easy, Case? You look like you like to take stupid chances.\"",
+      "vi": "\"'Tất nhiên là đôi khi tôi cũng làm tổn thương người khác, Case. Tôi đoán đó chỉ là do tôi bị thôi thúc thôi.\" Cô mặc một chiếc quần jean bó sát bằng da màu đen và một chiếc áo khoác đen cồng kềnh được cắt từ một loại vải mờ có vẻ như hấp thụ ánh sáng. \"Nếu tôi cất khẩu súng phi tiêu này đi, cậu có yên tâm không Case? Trông cậu có vẻ thích mạo hiểm một cách ngu ngốc.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"Hey, I'm very easy. I'm a pushover, no problem.\"",
+      "vi": "\"Này, tôi rất dễ tính, tôi là người dễ bị dụ dỗ, không có vấn đề gì.\""
+    },
+    {
+      "type": "parallel",
+      "en": "\"That's fine, man.\" The fletcher vanished into the black jacket. \"Because you try to fuck around with me, you'll be taking one of the stupidest chances of your whole life.\"",
+      "vi": "\"Không sao đâu anh bạn.\" Con Fletcher biến mất trong chiếc áo khoác đen. \"Bởi vì cậu cố đùa giỡn với tôi nên cậu sẽ có được một trong những cơ hội ngu ngốc nhất trong đời mình.\""
+    },
+    {
+      "type": "parallel",
+      "en": "She held out her hands, palms up, the white fingers slightly spread, and with a barely audible click, ten double-edged, fourcentimeter scalpel blades slid from their housings beneath the burgundy nails.",
+      "vi": "Cô đưa tay ra, lòng bàn tay hướng lên, những ngón tay trắng nõn hơi xòe ra, và với một tiếng cạch vừa đủ nghe thấy, mười lưỡi dao mổ hai lưỡi dài bốn centimet trượt ra khỏi vỏ bên dưới những chiếc móng tay màu đỏ tía."
+    },
+    {
+      "type": "parallel",
+      "en": "She smiled. The blades slowly withdrew.",
+      "vi": "Cô xòe hai bàn tay ra, lòng bàn tay hướng lên trên, những ngón tay trắng ngần hơi xòe nhẹ, và với một tiếng lách cách êm ru, mười lưỡi dao mổ hai lưỡi dài bốn phân trượt ra khỏi ổ chứa bên dưới những móng tay màu đỏ rượu vang rực rỡ."
+    }
+  ]
+}
