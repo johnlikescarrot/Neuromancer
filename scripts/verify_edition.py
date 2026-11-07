@@ -110,6 +110,10 @@ def verify_chapter(ch_num: int, strict_ratio: bool = True) -> list[str]:
             errors.append(f"Ch {ch_num:02d}: Invalid JSON in {study_path.name}: {exc}")
             return errors
 
+        raw_study_str = study_path.read_text(encoding="utf-8")
+        if re.search(r"[\u0400-\u04FF\u3040-\u30FF\u4E00-\u9FFF\uAC00-\uD7AF]", raw_study_str):
+            errors.append(f"Ch {ch_num:02d} study dossier: Stray CJK/Hangul/Cyrillic character detected")
+
         for req_key in ("chapter_title_vi", "chapter_summary_vi", "vocabulary", "syntax_notes", "exam_drills"):
             if req_key not in st or not st[req_key]:
                 errors.append(f"Ch {ch_num:02d} study dossier: Missing or empty '{req_key}'")

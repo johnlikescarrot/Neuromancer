@@ -1,0 +1,138 @@
+{
+  "chapter": 4,
+  "chapter_title_vi": "ĐỘT KÍCH KIM TỰ THÁP SENSE/NET & THÔNG ĐIỆP 'WINTERMUTE'",
+  "chapter_summary_vi": "Case thử nghiệm thành công công tắc chuyển mạch simstim, hóa thành 'hành khách vô hình' ngồi sau đôi mắt của Molly khi cô tìm tới Hẻm Ký Ức thuê băng nhóm khủng bố mỹ học Báo Đen Tân Thời (Panther Moderns). Sau chín ngày ròng rã nghiên cứu bẻ khóa lớp băng phòng vệ của tập đoàn Sense/Net, chiến dịch đột kích bùng nổ lúc nửa đêm: nhóm Báo Đen Tân Thời tung hai đòn tâm lý chiến giả mạo khí độc Lam Cửu và chất kích thích xương HsG khiến cả tòa Kim tự tháp Sense/Net rơi vào cơn hoảng loạn điên cuồng. Bất chấp một chân bị đánh gãy và phải nén đau bằng liều endorphin cực mạnh, Molly vẫn phối hợp nhịp nhàng từng giây với mũi khoan virus của Case để đánh cắp thành công hộp lưu trữ nhân cách ROM của Dixie Vạch Phẳng. Rạng sáng hôm sau, thủ lĩnh nhóm Tân Thời là Lupus Yonderboy bất ngờ chặn đường Case ngoài phố để chuyển một mật danh bí ẩn duy nhất: 'Wintermute'.",
+  "vocabulary": [
+    {
+      "term": "gratuitous",
+      "ipa": "/ɡrəˈtjuː.ɪ.təs/",
+      "pos": "adj.",
+      "cefr": "C2",
+      "quote_id": "04·002",
+      "meaning_vi": "thừa thãi vô cớ, không có lý do chính đáng",
+      "nuance_vi": "Từ học thuật cực kỳ sắc sảo (*a gratuitous multiplication of flesh input*); thường đi với *violence* hoặc *insult* để chỉ sự phô bày thái quá không cần thiết.",
+      "collocations": "• *gratuitous violence/cruelty* (bạo lực vô nghĩa/thừa thãi) — Từ phân loại điểm C2 trong Cambridge Reading & IELTS Writing chủ đề Media Censorship."
+    },
+    {
+      "term": "précis",
+      "ipa": "/ˈpreɪ.siː/",
+      "pos": "n. / v.",
+      "cefr": "C2",
+      "quote_id": "04·031",
+      "meaning_vi": "bản tóm lược cô đọng chuẩn xác",
+      "nuance_vi": "Từ gốc Pháp (chữ *-s* cuối câm khi phát âm số ít `/ˈpreɪ.siː/`, số nhiều giữ nguyên chữ viết *précis* phát âm `/ˈpreɪ.siːz/`).",
+      "collocations": "• *compile a five-minute précis* • *a concise précis of the report*."
+    },
+    {
+      "term": "mimetic",
+      "ipa": "/mɪˈmet.ɪk/",
+      "pos": "adj.",
+      "cefr": "C2",
+      "quote_id": "04·034",
+      "meaning_vi": "mang tính bắt chước, mô phỏng ngụy trang",
+      "nuance_vi": "Từ gốc Hy Lạp *mimesis* (sự mô phỏng): dùng cả trong sinh học (côn trùng ngụy trang), khoa học vật liệu (*mimetic polycarbon*) lẫn lý luận nghệ thuật/triết học.",
+      "collocations": "• *mimetic camouflage/behavior* (ngụy trang/hành vi bắt chước) • *mimesis (n.)*."
+    },
+    {
+      "term": "penchant",
+      "ipa": "/ˈpɒ̃.ʃɒ̃/ • /ˈpen.tʃənt/",
+      "pos": "n.",
+      "cefr": "C2",
+      "quote_id": "04·036",
+      "meaning_vi": "thiên hướng, sở thích nghiêng hẳn về (thường là điều khác thường)",
+      "nuance_vi": "Luôn đi kèm giới từ **for** (*Given their penchant for these random acts...*) — cấu trúc tủ của bài thi Cambridge C1/C2 Open Cloze & Multiple-Choice Cloze.",
+      "collocations": "• *have/display a penchant for + N/V-ing* (có thiên hướng/sở thích đặc biệt làm gì)."
+    },
+    {
+      "term": "symptomatic",
+      "ipa": "/ˌsɪmp.təˈmæt.ɪk/",
+      "pos": "adj.",
+      "cefr": "C1",
+      "quote_id": "04·037",
+      "meaning_vi": "là triệu chứng/biểu hiện điển hình của (một vấn đề sâu xa hơn)",
+      "nuance_vi": "Đi với giới từ **of** (*symptomatic of the media gestalt itself*): công cụ lập luận nhân quả tuyệt vời trong văn nghị luận xã hội học.",
+      "collocations": "• *be symptomatic of a deeper systemic crisis* (là biểu hiện của một cuộc khủng hoảng hệ thống sâu xa hơn) — Mẫu câu vàng cho IELTS Writing Task 2 Band 7.5+."
+    },
+    {
+      "term": "innately",
+      "ipa": "/ɪˈneɪt.li/",
+      "pos": "adv.",
+      "cefr": "C1",
+      "quote_id": "04·037",
+      "meaning_vi": "vốn dĩ bẩm sinh, tự trong bản chất",
+      "nuance_vi": "(Nguyên bản in *inately*; chuẩn chính tả học thuật hiện đại là **innately** với hai chữ *n*): chỉ thuộc tính gắn liền ngay từ gốc rễ bản chất (*innately media-related*).",
+      "collocations": "• *innately human/curious* • *innate capacity (n.)* (năng lực bẩm sinh)."
+    },
+    {
+      "term": "precept",
+      "ipa": "/ˈpriː.sept/",
+      "pos": "n.",
+      "cefr": "C2",
+      "quote_id": "04·039",
+      "meaning_vi": "giáo điều, quy tắc chỉ đạo hành vi",
+      "nuance_vi": "Trang trọng hơn *rule*: chỉ những nguyên tắc nền tảng định hướng đạo đức hoặc lối sống của một nhóm/học phái (*coded precepts of various short-lived subcults*).",
+      "collocations": "• *moral/legal precepts* (các chuẩn mực đạo đức/pháp lý)."
+    },
+    {
+      "term": "nihilistic",
+      "ipa": "/ˌnaɪ.ɪˈlɪs.tɪk/",
+      "pos": "adj.",
+      "cefr": "C2",
+      "quote_id": "04·039",
+      "meaning_vi": "theo thuyết hư vô (phủ nhận mọi giá trị/ý nghĩa truyền thống)",
+      "nuance_vi": "Từ triết học (*nihil* = hư không) xuất hiện thường xuyên trong các bài đọc Văn học – Xã hội học của TOEFL iBT & Cambridge C2.",
+      "collocations": "• *nihilistic worldview/cynicism* • *nihilism (n.)* (chủ nghĩa hư vô)."
+    },
+    {
+      "term": "custodial",
+      "ipa": "/kʌsˈtəʊ.di.əl/",
+      "pos": "adj.",
+      "cefr": "C1",
+      "quote_id": "04·059",
+      "meaning_vi": "thuộc quyền quản thủ, lưu giữ bảo quản; thuộc giam giữ",
+      "nuance_vi": "Trong khoa học thông tin chỉ việc quản lý lưu trữ (*primary custodial commands*); trong luật học chỉ hình thức phạt tù (*custodial sentence*).",
+      "collocations": "• *custodial responsibility/records* • *a non-custodial sentence* (án treo/cải tạo không giam giữ)."
+    },
+    {
+      "term": "keening",
+      "ipa": "/ˈkiː.nɪŋ/",
+      "pos": "n. / adj.",
+      "cefr": "C2",
+      "quote_id": "04·097",
+      "meaning_vi": "tiếng than khóc ai oán ngân dài (như khóc tang)",
+      "nuance_vi": "Từ gốc Ireland (*caoineadh*) chỉ tiếng than rền rĩ cao vút xé lòng trước cái chết hoặc nỗi kinh hoàng tột độ.",
+      "collocations": "• *a high-pitched keening wail* (tiếng rên than cao vút ai oán)."
+    }
+  ],
+  "syntax_notes": [
+    {
+      "feature": "Cấu trúc 'Given + Noun Phrase' & Mệnh đề Quan hệ Giới từ Bậc cao ('at which / beyond which / the extent to which')",
+      "quote_en": "Given their penchant for these random acts of surreal violence... There is always a point at which the terrorist ceases to manipulate the media gestalt. A point at which the violence may well escalate, but beyond which the terrorist has become symptomatic of the media gestalt itself... their awareness of the extent to which media divorce the act of terrorism from the original sociopolitical intent... [04·036–037]",
+      "analysis_vi": "Chỉ trong 6 dòng phát biểu của Tiến sĩ Xã hội học Virginia Rambali, Gibson phô diễn trọn bộ khung ngữ pháp học thuật đỉnh cao chuẩn C2: (1) Giới từ phân từ **Given + NP** ('Xét tới...'); (2) Chuỗi mệnh đề quan hệ có giới từ đi trước đại từ *which* (**at which**, **beyond which**, **the extent to which**) tạo độ chính xác tuyệt đối về ranh giới logic; (3) Cấu trúc động từ **divorce A from B** ('tách rời A khỏi B').",
+      "exam_transfer_vi": "Học thuộc lòng bộ khung **...awareness of the extent to which [A] divorces [B] from [C]** sẽ giúp bạn ghi điểm tối đa tiêu chí *Grammatical Range & Accuracy* trong **IELTS Writing Band 8.0+**, **TOEFL Band 5.5–6.0**, và **Cambridge C2 Essay**!"
+    },
+    {
+      "feature": "Danh từ Đổi Chức năng thành Động từ Ghép (Zero-Derivation / Conversion Verb)",
+      "quote_en": "You can't let the little pricks generation-gap you... [04·041] / Sirens dopplered in the distance. [04·113]",
+      "analysis_vi": "Gibson biến danh từ ghép *generation gap* (khoảng cách thế hệ) và tên nhà vật lý *Doppler* (hiệu ứng biến thiên tần số sóng âm) thành động từ trực tiếp (*generation-gap somebody*, *sirens dopplered*). Thủ pháp chuyển loại từ (conversion) nén cả một lời giải thích vật lý dài 10 chữ thành đúng một động từ duy nhất.",
+      "exam_transfer_vi": "Nhận diện linh hoạt từ chuyển loại giúp giải mã nhanh từ lạ trong **TOEFL/IELTS Reading** và **DET Read and Complete**."
+    }
+  ],
+  "exam_drills": [
+    {
+      "exam_tag": "TOEFL iBT Band 5.0+ & Cambridge C1/C2 Reading • Academic Argument Analysis",
+      "prompt": "According to Dr. Virginia Rambali in paragraph [04·037], what distinguishes the Panther Moderns from conventional terrorist groups?\n(A) They avoid causing physical casualties by relying exclusively on digital hoaxes.\n(B) They possess an acute meta-awareness of how mass media sever violent spectacle from any underlying political ideology.\n(C) They seek to restore traditional sociopolitical grievances to mainstream news broadcasts.\n(D) They reject technological implants in favor of classical psychological warfare.",
+      "answer_and_explanation": "**Đáp án đúng: (B).** Tiến sĩ Rambali chỉ rõ nhóm Báo Đen Tân Thời khác biệt ở *\"their degree of self-consciousness, in their awareness of the extent to which media divorce the act of terrorism from the original sociopolitical intent\"* — tức nhận thức siêu tầng (meta-awareness) về cách truyền thông tách rời hành động bạo lực khỏi mục đích chính trị – xã hội gốc."
+    },
+    {
+      "exam_tag": "Cambridge C1/C2 (Scale 185+) • Open Cloze & Prepositional Precision",
+      "prompt": "Fill each gap with ONE suitable word:\n1. Given their penchant ______ theatrical chaos, the group treated the infiltration as an elaborate private joke.\n2. Urban sociologists argue that youth subcultures are often symptomatic ______ broader economic alienation.\n3. Few citizens fully grasp the extent ______ which algorithmic feeds divorce public outrage ______ factual reality.",
+      "answer_and_explanation": "**1. for** (*penchant for*) • **2. of** (*symptomatic of*) • **3. to / from** (*the extent to which... divorce A from B*) — Bốn giới từ học thuật kinh điển quyết định điểm Use of English Part 2!"
+    },
+    {
+      "exam_tag": "IELTS Writing Task 2 (Band 7.0+) & PTE Essay (65+) • Media & Society",
+      "prompt": "**Prompt:** *Sensationalist 24-hour media coverage often amplifies public panic rather than informing citizens constructively. Discuss this view and propose solutions.*\nViết câu luận điểm mở bài/thân bài vận dụng cấu trúc của Tiến sĩ Rambali (*Given..., the extent to which..., symptomatic of, gratuitous*).",
+      "answer_and_explanation": "**Đoạn mẫu chuẩn C1/C2:** *Given commercial broadcasters' **penchant** for **gratuitous** spectacle, sensationalized crisis reporting has become **symptomatic** of an attention economy driven by anxiety rather than accuracy. Critics rightly highlight **the extent to which** viral news cycles **divorce** complex public risks **from** scientific context, transforming manageable emergencies into mass hysteria.*"
+    }
+  ]
+}

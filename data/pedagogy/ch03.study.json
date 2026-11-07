@@ -1,0 +1,138 @@
+{
+  "chapter": 3,
+  "chapter_title_vi": "TRỞ VỀ DẢI ĐÔ THỊ, TÚI ĐỘC TỐ ĐỘNG MẠCH & SỰ BUNG NỞ CỦA MA TRẬN",
+  "chapter_summary_vi": "Case tỉnh dậy cùng Molly trong một căn gác xưởng trống trải giữa lòng Dải Đô Thị (BAMA) sau hành trình qua Amsterdam và Paris. Armitage lộ diện chiếc cùm trói buộc mới: mười lăm túi độc tố nấm đang tự phân hủy chậm trong thành động mạch chính của Case, buộc hắn phải hoàn thành phi vụ đúng hạn để đổi lấy enzyme hóa giải. Tại căn phòng chắn sóng tuyệt mật phía sau tiệm đồng nát Metro Holografix của lão Finn, Molly tiết lộ hai mục tiêu kế tiếp trong 'danh sách đi chợ': đánh cắp cấu trúc nhân cách ROM của sư phụ quá cố McCoy Pauley (Dixie Vạch Phẳng) từ hầm lưu trữ Sense/Net và chiêu mộ gã tâm thần Peter Riviera. Đủ tám ngày hậu phẫu, Case cắm kết nối vào bàn Ono-Sendai mới và vỡ òa nước mắt khi không gian mạng bung nở rực rỡ trở lại trước mắt hắn.",
+  "vocabulary": [
+    {
+      "term": "desiccated",
+      "ipa": "/ˈdes.ɪ.keɪ.tɪd/",
+      "pos": "adj.",
+      "cefr": "C2",
+      "quote_id": "03·005",
+      "meaning_vi": "khô kiệt, mất sạch độ ẩm; khô cằn thiếu sức sống",
+      "nuance_vi": "(Nguyên bản in *dessicated* — biến thể chính tả cũ; chuẩn học thuật hiện đại là **desiccated** với một chữ *s* và hai chữ *c* — bẫy chính tả khét tiếng trong PTE Listening/Spelling & IELTS!).",
+      "collocations": "• *desiccated soil/wood/leaves* (đất/gỗ/lá khô kiệt) • *desiccate (v.)* (làm khô kiệt)."
+    },
+    {
+      "term": "foray",
+      "ipa": "/ˈfɒr.eɪ/",
+      "pos": "n.",
+      "cefr": "C1",
+      "quote_id": "03·009",
+      "meaning_vi": "chuyến đột kích ngắn; sự lấn sân/thử sức sang lĩnh vực mới",
+      "nuance_vi": "Vốn là từ quân sự chỉ cuộc tập kích chớp nhoáng (*some cryptic foray*), ngày nay cực kỳ phổ biến trong báo chí kinh tế/học thuật chỉ bước dấn thân đầu tiên vào ngành mới.",
+      "collocations": "• *make a foray into politics/biotech* (lấn sân sang chính trị / công nghệ sinh học) — Cụm danh từ C1 tuyệt đẹp cho IELTS & TOEFL."
+    },
+    {
+      "term": "somber (BrE: sombre)",
+      "ipa": "/ˈsɒm.bər/",
+      "pos": "adj.",
+      "cefr": "C1",
+      "quote_id": "03·018",
+      "meaning_vi": "trầm mặc, tối màu trang nghiêm; u ám nặng nề",
+      "nuance_vi": "Kết hợp hoàn hảo cả nghĩa thị giác (*a somber Italian suit* — bộ vest Ý tối màu nghiêm nghị) lẫn sắc thái cảm xúc (*a somber mood/assessment*).",
+      "collocations": "• *a somber assessment/reminder* (đánh giá/lời nhắc nhở nghiêm trọng trầm buồn)."
+    },
+    {
+      "term": "amalgam",
+      "ipa": "/əˈmæl.ɡəm/",
+      "pos": "n.",
+      "cefr": "C2",
+      "quote_id": "03·018",
+      "meaning_vi": "sự dung hợp, hỗn hợp pha trộn nhiều yếu tố",
+      "nuance_vi": "Gốc từ luyện kim/nha khoa (hỗn hống thủy ngân), chuyển sang nghĩa bóng học thuật cực sang thay cho *mixture/combination* (*a conservative amalgam of leading media faces*).",
+      "collocations": "• *a curious amalgam of tradition and modernity* • *amalgamate (v.)* (sáp nhập doanh nghiệp/tổ chức)."
+    },
+    {
+      "term": "recapitulate",
+      "ipa": "/ˌriː.kəˈpɪtʃ.ə.leɪt/",
+      "pos": "v.",
+      "cefr": "C2",
+      "quote_id": "03·032",
+      "meaning_vi": "tái hiện tóm lược lại từng giai đoạn; điểm lại cốt lõi",
+      "nuance_vi": "Gốc của từ rút gọn quen thuộc *recap*. Trong đoạn [03·032], dòng người qua lại *recapitulate the stages of his life* (tái hiện tuần tự các chặng đời của hắn — gợi nhắc thuyết sinh học *ontogeny recapitulates phylogeny*).",
+      "collocations": "• *briefly recapitulate the main arguments* (tóm lược lại các luận điểm chính) — Động từ chuẩn C2 cho Academic Lecture & Writing."
+    },
+    {
+      "term": "canted",
+      "ipa": "/ˈkæn.tɪd/",
+      "pos": "adj.",
+      "cefr": "C2",
+      "quote_id": "03·049",
+      "meaning_vi": "nghiêng vát, chếch chéo một góc rõ rệt",
+      "nuance_vi": "Từ miêu tả hình học – kiến trúc chính xác cao (*canted sharply backward* = vát quặp hẳn vào trong).",
+      "collocations": "• *canted at a steep angle* (nghiêng chếch một góc dốc)."
+    },
+    {
+      "term": "biocompatibility",
+      "ipa": "/ˌbaɪ.əʊ.kəmˌpæt.əˈbɪl.ə.ti/",
+      "pos": "n.",
+      "cefr": "C1",
+      "quote_id": "03·052",
+      "meaning_vi": "tính tương thích sinh học (không gây đào thải mô sống)",
+      "nuance_vi": "Thuật ngữ y sinh hiện đại xuất hiện thường xuyên trong các bài đọc Biomedical Engineering của IELTS Reading & TOEFL iBT.",
+      "collocations": "• *exhibit high biocompatibility* (thể hiện độ tương thích sinh học cao) • *biocompatible implants*."
+    },
+    {
+      "term": "subsidiary",
+      "ipa": "/səbˈsɪd.i.ər.i/",
+      "pos": "n. / adj.",
+      "cefr": "C1",
+      "quote_id": "03·077",
+      "meaning_vi": "công ty con / nhánh trực thuộc (n.); phụ trợ, thứ yếu (adj.)",
+      "nuance_vi": "Danh từ kinh doanh cốt lõi (*some Yakuza subsidiary* = công ty con trực thuộc Yakuza); tính từ chỉ vai trò phụ (*a subsidiary role*).",
+      "collocations": "• *a wholly owned subsidiary* (công ty con sở hữu 100% vốn) — Xuất hiện dày đặc trong Cambridge Business/CAE & TOEIC/IELTS."
+    },
+    {
+      "term": "hypnagogic",
+      "ipa": "/ˌhɪp.nəˈɡɒdʒ.ɪk/",
+      "pos": "adj.",
+      "cefr": "C2",
+      "quote_id": "03·102",
+      "meaning_vi": "thuộc trạng thái chớm ngủ (giữa thức và ngủ)",
+      "nuance_vi": "Thuật ngữ tâm thần học/thần kinh học chỉ các ảo ảnh thị giác xuất hiện ngay trước khi chìm vào giấc ngủ (*hypnagogic images*); đối lập với *hypnopompic* (lúc chớm tỉnh).",
+      "collocations": "• *hypnagogic hallucinations/imagery* — Từ chuyên ngành thường được giải nghĩa gián tiếp trong bài đọc Psychology của TOEFL Band 5+."
+    },
+    {
+      "term": "sensorium",
+      "ipa": "/senˈsɔː.ri.əm/",
+      "pos": "n.",
+      "cefr": "C2",
+      "quote_id": "03·119",
+      "meaning_vi": "toàn bộ hệ thống giác quan và trung khu cảm nhận",
+      "nuance_vi": "Không chỉ là một giác quan đơn lẻ (*sense*), *sensorium* chỉ tổng thể trường tri giác sống động của một cơ thể (*access her sensorium*).",
+      "collocations": "• *the human sensorium* (toàn thể bộ máy tri giác con người)."
+    }
+  ],
+  "syntax_notes": [
+    {
+      "feature": "Định nghĩa Kinh điển bằng Cụm Danh từ Đồng vị Mở rộng (Extended Appositive Definition)",
+      "quote_en": "Cyberspace. A consensual hallucination experienced daily by billions of legitimate operators, in every nation, by children being taught mathematical concepts... A graphic representation of data abstracted from the banks of every computer in the human system. [03·094]",
+      "analysis_vi": "Đoạn định nghĩa nổi tiếng nhất lịch sử khoa học viễn tưởng không dùng một động từ *to be* tẻ nhạt nào (*Cyberspace is...*). Thay vào đó, Gibson đặt danh từ đơn lập *Cyberspace.*, theo sau là hai cụm danh từ đồng vị song hành mở rộng bằng quá khứ phân từ rút gọn mệnh đề quan hệ (*experienced daily by...*, *being taught...*, *abstracted from...*), tạo âm hưởng trang trọng như từ điển bách khoa tương lai.",
+      "exam_transfer_vi": "Trong **IELTS Writing Task 2** & **PTE Summarize Written Text**, kỹ thuật nén định nghĩa bằng cụm đồng vị rút gọn phân từ giúp nâng tầm câu văn lên chuẩn C1/C2: *Artificial intelligence, a computational paradigm abstracted from statistical learning models, now permeates global governance.*"
+    },
+    {
+      "feature": "Cấu trúc 'no rest for the wicked' & Thành ngữ Đảo lộn Châm biếm",
+      "quote_en": "We'll get in, but there's no rest for the wicked, right? [03·115]",
+      "analysis_vi": "Thành ngữ gốc Kinh Thánh (*Isaiah 48:22: There is no peace unto the wicked*) trong tiếng Anh hiện đại thường được dùng một cách tự trào hài hước với nghĩa: 'Người bận rộn/vất vả thì chẳng lúc nào được ngơi tay'. Khi lão Finn dùng nó trong lúc cạy phá linh kiện ăn cắp gài bẫy nổ, câu nói vừa giữ nghĩa thành ngữ quen thuộc vừa mang lại nghĩa đen hóm hỉnh ('lũ kẻ xấu tụi mình').",
+      "exam_transfer_vi": "Hiểu thành ngữ tự trào giúp đạt điểm tối đa phần **Idiomatic Expressions & Speaker Attitude** trong **Cambridge C1/C2 Listening** và **DET Interactive Listening**."
+    }
+  ],
+  "exam_drills": [
+    {
+      "exam_tag": "TOEFL iBT Band 5.0 (90+) • Vocabulary-in-Context & Factual Detail",
+      "prompt": "1. The word **amalgam** in paragraph [03·018] is closest in meaning to:\n(A) caricature   (B) composite   (C) prototype   (D) facade\n\n2. According to the Finn in paragraphs [03·115–119], what is the specific function of the polycarbon-encased prototype component?",
+      "answer_and_explanation": "**1. Đáp án đúng: (B) composite** (*amalgam* = sự dung hợp/tổng hợp từ nhiều phần tử khác nhau; gương mặt thẩm mỹ của Armitage là bản tổng hợp bảo thủ từ các gương mặt ngôi sao truyền thông thập kỷ qua).\n**2. Chức năng kỹ thuật:** Đó là một bộ chuyển mạch lật trạng thái (*flipflop switch*) tích hợp vào bàn Ono-Sendai, cho phép Case chuyển đổi truy cập trực tiếp vào luồng cảm giác *simstim* của Molly mà không cần rút kết nối (*jack out*) khỏi ma trận không gian mạng."
+    },
+    {
+      "exam_tag": "Cambridge C1/C2 (Scale 185+) • Word Formation",
+      "prompt": "Use the word given in capitals to form a word that fits in the space:\n1. Engineers coated the neural clock in pyrolytic carbon to ensure optimal ____________ with surrounding cranial tissue. (**COMPATIBLE**)\n2. Rather than operating as an independent enterprise, the firm functioned as a covert ____________ of a multinational conglomerate. (**SUBSIDIARY / SUBSIDIZE** → use root **SUBSIDY** family)",
+      "answer_and_explanation": "**1. biocompatibility** (Danh từ ghép tiền tố *bio-* + *compatibility*, đối chiếu đoạn [03·052]).\n**2. subsidiary** (Danh từ chỉ công ty con trực thuộc tập đoàn mẹ, đối chiếu đoạn [03·077])."
+    },
+    {
+      "exam_tag": "PTE Academic 65+ & IELTS Writing 7.0+ • Summarize Written Text (1-Sentence Compression)",
+      "prompt": "Summarize the Sense/Net documentary passage in paragraph [03·094] (*'The matrix has its roots... Like city lights, receding...'*) into **ONE single grammatically complex sentence of 30–50 words**.",
+      "answer_and_explanation": "**Câu mẫu đạt điểm tối đa PTE Summarize Written Text (41 từ):** *Originating from early arcade graphics and military neural-interface experiments, cyberspace has evolved into a globally shared consensual hallucination that translates the vast, unimaginable complexity of interconnected human computer databases into navigable three-dimensional constellations of light.*"
+    }
+  ]
+}

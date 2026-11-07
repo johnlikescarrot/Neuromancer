@@ -1,0 +1,138 @@
+{
+  "chapter": 5,
+  "chapter_title_vi": "HUYỀN THOẠI GIA TỘC TESSIER-ASHPOOL & TIẾNG NÓI CỦA NGƯỜI ĐÃ KHUẤT",
+  "chapter_summary_vi": "Sau khi bác sĩ ngầm Gerald Chin bó bột cố định chiếc chân gãy cho Molly ở Baltimore, cô và Case tới phòng chắn sóng của lão Finn để tra cứu mật danh 'Wintermute'. Lão Finn xác nhận Wintermute là một Trí tuệ Nhân tạo đặt máy chủ tại Berne (Thụy Sĩ) thuộc sở hữu của gia tộc tỷ phú lập dị Tessier-Ashpool S.A. trên trạm không gian Freeside, đồng thời kể lại giai thoại rợn người về chiếc đầu cơ khí khảm pháp lam đánh cắp từ Biệt dinh Straylight và gã sát thủ ninja nhân bản vô tính. Đêm ấy, sau khi nhận tọa độ cơ sở dữ liệu Luân Đôn của Armitage từ Molly, Case lần đầu cắm kết nối hộp cấu trúc nhân cách ROM của sư phụ quá cố McCoy Pauley (Dixie Vạch Phẳng) và cấp thêm bộ nhớ thời gian thực để hai thầy trò cùng bắt tay điều tra.",
+  "vocabulary": [
+    {
+      "term": "resignation",
+      "ipa": "/ˌrez.ɪɡˈneɪ.ʃən/",
+      "pos": "n.",
+      "cefr": "C1",
+      "quote_id": "05·010",
+      "meaning_vi": "sự cam chịu buông xuôi (không đếm được); đơn từ chức (đếm được)",
+      "nuance_vi": "Đa nghĩa quan trọng bậc C1: trong cụm *glum resignation*, từ này mang nghĩa tâm lý (chấp nhận điều không tránh khỏi mà không phản kháng), hoàn toàn không phải 'từ chức'.",
+      "collocations": "• *accept one's fate with quiet/glum resignation* • *tender one's resignation* (nộp đơn từ chức)."
+    },
+    {
+      "term": "autonomy",
+      "ipa": "/ɔːˈtɒn.ə.mi/",
+      "pos": "n.",
+      "cefr": "C1",
+      "quote_id": "05·024",
+      "meaning_vi": "quyền tự chủ, năng lực tự trị độc lập",
+      "nuance_vi": "Từ khóa trung tâm xuyên suốt toàn bộ triết học về AI trong *Neuromancer* (*Those things aren't allowed any autonomy*) và cũng là từ khóa số 1 của đề thi IELTS/TOEFL về AI Ethics.",
+      "collocations": "• *grant/restrict operational autonomy* • *autonomous systems (adj.)* (hệ thống tự hành)."
+    },
+    {
+      "term": "formidable",
+      "ipa": "/ˈfɔː.mɪ.də.bəl/ • /fəˈmɪd.ə.bəl/",
+      "pos": "adj.",
+      "cefr": "C1",
+      "quote_id": "05·029",
+      "meaning_vi": "đáng gờm, uyên bác đồ sộ (gây kính nể hoặc e sợ)",
+      "nuance_vi": "Mang sắc thái tích cực lẫn kính sợ (*Smith's knowledge of the art business was formidable* = kiến thức uyên thâm đáng nể).",
+      "collocations": "• *a formidable opponent/obstacle/intellect* (đối thủ/trở ngại/trí tuệ đáng gờm)."
+    },
+    {
+      "term": "opine",
+      "ipa": "/əʊˈpaɪn/",
+      "pos": "v.",
+      "cefr": "C2",
+      "quote_id": "05·029",
+      "meaning_vi": "phát biểu ý kiến, nêu nhận định (thường mang sắc thái trang trọng hoặc hơi châm biếm)",
+      "nuance_vi": "Động từ C2 cực gọn thay cho *express the opinion that* (*It might be possible, the Finn had opined*).",
+      "collocations": "• *analysts/critics opined that...* (các nhà phân tích nhận định rằng...)."
+    },
+    {
+      "term": "baroque",
+      "ipa": "/bəˈrɒk/",
+      "pos": "adj.",
+      "cefr": "C2",
+      "quote_id": "05·030",
+      "meaning_vi": "cầu kỳ rườm rà hoa mỹ quá mức; thuộc phong cách nghệ thuật Baroque",
+      "nuance_vi": "Viết thường chữ *b* (*a baroque thing*) mang nghĩa ẩn dụ chỉ cấu trúc tinh xảo phức tạp đến mức kỳ quặc.",
+      "collocations": "• *baroque complexity/intricacy* (độ phức tạp cầu kỳ hoa mỹ)."
+    },
+    {
+      "term": "whereabouts",
+      "ipa": "/ˈweə.rə.baʊts/",
+      "pos": "n. (plural form, sing./pl. verb)",
+      "cefr": "C1",
+      "quote_id": "05·034",
+      "meaning_vi": "tung tích, nơi ở hiện tại",
+      "nuance_vi": "Luôn có chữ *-s* ở cuối (*the whereabouts of this object*); rất hay được kiểm tra trong phần chữa lỗi sai hoặc Word Formation.",
+      "collocations": "• *his current whereabouts remain unknown* (tung tích hiện tại của ông ta vẫn chưa rõ)."
+    },
+    {
+      "term": "litigation",
+      "ipa": "/ˌlɪt.ɪˈɡeɪ.ʃən/",
+      "pos": "n.",
+      "cefr": "C2",
+      "quote_id": "05·036",
+      "meaning_vi": "hoạt động kiện tụng pháp lý tại tòa án",
+      "nuance_vi": "Thuật ngữ luật học trang trọng hơn *lawsuit* (danh từ không đếm được: *found Tessier-Ashpool in litigation*).",
+      "collocations": "• *protracted/costly litigation* (kiện tụng kéo dài/tốn kém) • *litigate (v.)*."
+    },
+    {
+      "term": "eccentric",
+      "ipa": "/ɪkˈsen.trɪk/",
+      "pos": "adj. / n.",
+      "cefr": "C1",
+      "quote_id": "05·038",
+      "meaning_vi": "lập dị, khác người (nhưng thường vô hại hoặc giàu có/tài năng)",
+      "nuance_vi": "Nhẹ nhàng và thú vị hơn *bizarre* hay *deranged*; đồng thời trong hình học/cơ khí còn có nghĩa là 'lệch tâm'.",
+      "collocations": "• *an eccentric billionaire/recluse* • *eccentricity (n.)* (tính lập dị)."
+    },
+    {
+      "term": "cryogenic",
+      "ipa": "/ˌkraɪ.əʊˈdʒen.ɪk/",
+      "pos": "adj.",
+      "cefr": "C1",
+      "quote_id": "05·040",
+      "meaning_vi": "thuộc công nghệ đông lạnh sâu ở nhiệt độ cực thấp",
+      "nuance_vi": "Từ gốc Hy Lạp *kryos* (giá băng): thuật ngữ quen thuộc trong vật lý siêu dẫn và y sinh học tương lai (*cryogenic preservation*).",
+      "collocations": "• *cryogenic suspension/storage* (ngủ đông / bảo quản lạnh sâu)."
+    },
+    {
+      "term": "shun",
+      "ipa": "/ʃʌn/",
+      "pos": "v.",
+      "cefr": "C1",
+      "quote_id": "05·059",
+      "meaning_vi": "xa lánh, cố tình lảng tránh hắt hủi",
+      "nuance_vi": "Mạnh và mang tính xã hội rõ hơn *avoid* (*The cowboy elite in the Loser shunned Pauley* — giới tinh hoa cao bồi xa lánh Pauley như tránh điềm gở; phân từ: *shunned*).",
+      "collocations": "• *shun publicity/the spotlight* (tránh xa sự chú ý của truyền thông — tương đương *very shy of media* ở [05·038])."
+    }
+  ],
+  "syntax_notes": [
+    {
+      "feature": "Đảo ngữ Giới từ & Động từ Bị động trang trọng trong Giọng điệu Lịch thiệp Chết chóc",
+      "quote_en": "It had come to his attention, the ninja said, that Smith might know of the whereabouts of this object. [05·034]",
+      "analysis_vi": "Gibson dùng lời kể gián tiếp tự do (*free indirect speech*) mô phỏng lối nói ngoại giao thượng lưu cực kỳ lễ phép của gã ninja nhân bản vô tính: chủ ngữ giả *It* + quá khứ hoàn thành *had come to his attention* + mệnh đề danh ngữ *that Smith might know of the whereabouts...*. Sự lịch thiệp lạnh băng đối lập rợn người với cái chết chờ sẵn.",
+      "exam_transfer_vi": "Cấu trúc **It has come to our attention that...** là mẫu câu mở đầu kinh điển đạt điểm tối đa về thanh điệu trang trọng (*Formal Register*) trong **Cambridge C1 Advanced Formal Letter/Report** và **IELTS General Writing Task 1**!"
+    },
+    {
+      "feature": "Phương ngữ Miền Nam Hoa Kỳ (Southern Vernacular) của Dixie Vạch Phẳng",
+      "quote_en": "Had themself two goddam brains, one in the head an' one by the tailbone, kept the hind legs movin'... ol' tailbrain jus' kept right on keepin' on. [05·058]",
+      "analysis_vi": "Dixie dùng đại từ phản thân phi chuẩn *themself* như đại từ nhấn mạnh sở hữu (*Had themself...*), nuốt âm cuối *-g* (*movin', keepin'*), và thành ngữ khẩu ngữ lặp từ *keep right on keeping on* ('cứ thế bền bỉ lầm lũi tiến tới bất chấp nghịch cảnh').",
+      "exam_transfer_vi": "Giúp người đọc nhận diện tức thì giọng vùng miền Mỹ trong **TOEFL/IELTS Listening**, đồng thời biết chuyển sang dạng học thuật chuẩn: *possessed a secondary neural ganglion near the coccyx that sustained locomotion independently.*"
+    }
+  ],
+  "exam_drills": [
+    {
+      "exam_tag": "TOEFL iBT Band 5.0 (90+) & IELTS Reading 7.0+ • Detail & Legal Inference",
+      "prompt": "Why is it exceptionally difficult for outsiders to determine who controls Tessier-Ashpool S.A. at any given moment, according to paragraphs [05·038–042]?\n(A) Its shares are constantly bought and sold anonymously across dozens of European stock exchanges.\n(B) Family members alternate periods of cryogenic suspension—during which they are legally dead—behind a labyrinth of powers of attorney and widespread cloning.\n(C) Swiss citizenship laws transfer corporate governance to Wintermute whenever the founders travel to Freeside.\n(D) Yakuza intermediaries screen all corporate filings in Tokyo.",
+      "answer_and_explanation": "**Đáp án đúng: (B).** Đoạn [05·038–042] chỉ rõ cổ phiếu T-A không hề giao dịch hơn 100 năm qua (loại A); thay vào đó gia tộc kết hợp nhân bản vô tính (*cloning*), luân phiên ngủ đông lạnh sâu (*cryogenic setup* — khi đóng băng được coi là chết về pháp lý), và một mạng lưới ủy quyền pháp lý chằng chịt (*tangle of powers of attorney*)."
+    },
+    {
+      "exam_tag": "Cambridge C1/C2 (Scale 185+) • Key Word Transformation",
+      "prompt": "Rewrite each sentence using the word in capitals (3–6 words):\n1. We have recently been informed that unauthorized copies of the firmware are circulating. (**ATTENTION**)\n→ It has recently ________________________ unauthorized copies of the firmware are circulating.\n\n2. The reclusive founders deliberately avoided any contact with mainstream journalists. (**SHUNNED**)\n→ Mainstream journalists ________________________ the reclusive founders.",
+      "answer_and_explanation": "**1. come to our attention that** (Cấu trúc trang trọng chuẩn C1/C2 *come to one's attention that...*).\n**2. were deliberately shunned by** (Chuyển chủ động sang bị động với động từ C1 *shun* = cố tình xa lánh/tránh mặt)."
+    },
+    {
+      "exam_tag": "DET 120+ & IELTS Writing Task 2 (Band 7.0+) • Bioethics & Digital Immortality",
+      "prompt": "**Prompt:** *In Chapter 5, McCoy Pauley's skills and memories survive as a read-only ROM construct owned by a media conglomerate. If technology eventually allows human expertise and personality to be digitized after death, who should hold legal rights over such digital constructs, and what ethical limits should apply?*",
+      "answer_and_explanation": "**Luận điểm mẫu chuẩn C1/C2:** *Digitizing human consciousness into proprietary firmware raises profound questions regarding posthumous **autonomy** and intellectual property. Without stringent statutory safeguards, corporations could exploit a deceased specialist's cognitive likeness indefinitely without consent, reducing human identity to a tradable asset entangled in perpetual **litigation**.*"
+    }
+  ]
+}
