@@ -2,11 +2,31 @@
   "title": "Neuromancer (Bộ Đôi Biên Dịch & Chú Giải Học Thuật Chuyên Sâu C1/C2)",
   "author": "William Gibson",
   "target_benchmarks": {
-    "IELTS": "Band 7.0 - 8.5+ Academic",
-    "TOEFL_iBT": "Score 90+ (Pre-Jan 2026) / 5.0 (Post-Jan 2026)",
-    "Cambridge": "185 - 210 points (C1 Advanced / C2 Proficiency)",
-    "PTE_Academic": "Score 65 - 85+",
-    "DET": "Score 120 - 150+"
+    "IELTS": {
+      "score": "Band 7.0 - 8.5+ Academic",
+      "cefr": "C1 / C2",
+      "skills_focus": "Lexical Resource & Grammatical Range through complex clause structures, syntactic inversions, and high-level collocations."
+    },
+    "TOEFL_iBT": {
+      "score": "Score 90+ (Pre-Jan 21, 2026) / 5.0 (Post-Jan 21, 2026)",
+      "cefr": "C1 Advanced",
+      "skills_focus": "Advanced academic reading comprehension, contextual vocabulary inference, rhetorical purpose, and synthesis of multifaceted narrative arguments."
+    },
+    "Cambridge": {
+      "score": "185 - 210 points (C1 Advanced / C2 Proficiency)",
+      "cefr": "C1 - C2 Mastery",
+      "skills_focus": "Mastery of advanced inversion, cleft sentences, subjunctive moods, absolute constructions, and idiomatic expressions."
+    },
+    "PTE_Academic": {
+      "score": "Score 65 - 85+",
+      "cefr": "C1 / C2",
+      "skills_focus": "Rapid comprehension of sophisticated technological/sociological lexicon, abstract discourse, and sentence re-ordering reflex."
+    },
+    "DET": {
+      "score": "Score 120 - 150+",
+      "cefr": "C1 Advanced / C2",
+      "skills_focus": "Enhanced academic vocabulary recognition (Read & Select), contextual cloze mastery, and complex paragraph stylistics."
+    }
   },
   "glossary": {
     "matrix": {
@@ -272,13 +292,13 @@
             {
               "id": "0_0_0",
               "en": "The sky above the port was the color of television, tuned to a dead channel.",
-              "vi": "Bầu trời phía trên bến cảng mang màu của tivi, được chuyển sang một kênh chết.",
+              "vi": "Bầu trời trên bến cảng mang màu sắc của màn hình vô tuyến, dò trúng vào một kênh tín hiệu chết.",
               "vocab_highlights": []
             },
             {
               "id": "0_0_1",
               "en": "\"It's not like I'm using,\" Case heard someone say, as he shouldered his way through the crowd around the door of the Chat. \"It's like my body's developed this massive drug deficiency.\" It was a Sprawl voice and a Sprawl joke. The Chatsubo was a bar for professional expatriates; you could drink there for a week and never hear two words in Japanese.",
-              "vi": "“Không giống như tôi đang sử dụng,” Case nghe thấy ai đó nói khi anh lách qua đám đông quanh cửa Chat. \"Có vẻ như cơ thể tôi đang bị thiếu hụt thuốc nghiêm trọng.\" Đó là một giọng nói ngổn ngang và một trò đùa ngổn ngang. Chatsubo là quán bar dành cho người nước ngoài chuyên nghiệp; bạn có thể uống ở đó cả tuần mà không bao giờ nghe được hai từ bằng tiếng Nhật.",
+              "vi": "“Không phải là tôi đang nghiện ngập đâu,” Case nghe ai đó cất tiếng, trong lúc anh lách mình qua đám đông quanh cửa quán Chat. “Chỉ là cơ thể tôi dường như đang bị thiếu hụt chất kích thích trầm trọng thôi.” Đó là một chất giọng đặc sệt cư dân Sprawl và một câu đùa điển hình vùng Sprawl. Chatsubo là quán bar dành cho dân viễn xứ chuyên nghiệp; bạn có thể ngồi uống ở đó suốt một tuần mà không hề nghe thấy lấy hai từ tiếng Nhật.",
               "vocab_highlights": [
                 "ice"
               ]
@@ -286,7 +306,7 @@
             {
               "id": "0_0_2",
               "en": "Ratz was tending bar, his prosthetic arm jerking monotonously as he filled a tray of glasses with draft Kirin. He saw Case and smiled, his teeth a webwork of East European steel and brown decay. Case found a place at the bar, between the unlikely tan on one of Lonny Zone's whores and the crisp naval uniform of a tall African whose cheekbones were ridged with precise rows of tribal scars. \"Wage was in here early, with two joeboys,\" Ratz said, shoving a draft across the bar with his good hand. \"Maybe some business with you, Case?\"",
-              "vi": "Ratz đang phục vụ quầy bar, cánh tay giả của anh ta giật giật đều đều khi anh ta rót rượu bia tươi vào khay ly. Anh ta nhìn thấy Case và mỉm cười, hàm răng của anh ta giống như một mạng lưới thép Đông Âu và bị sâu màu nâu. Case tìm được một chỗ ở quán bar, giữa làn da rám nắng khó tin của một trong những gái điếm ở Lonny Zone và bộ đồng phục hải quân sắc sảo của một người châu Phi cao lớn có gò má nổi rõ những hàng sẹo rõ nét của bộ lạc. “Wage đến đây từ sớm, cùng với hai gã joeboy,” Ratz nói, đẩy một điếu thuốc qua quầy bar bằng bàn tay lành lặn của mình. “Có lẽ có việc gì đó với anh phải không, Case?”",
+              "vi": "Ratz đang phục vụ sau quầy, cánh tay giả xấu xí của anh ta càu nhàu khi vươn ra rót một vại Kirin khác. Ratz là người biến dị gốc Đức, một gã khổng lồ với hàm răng cá sấu giả bằng thép không gỉ và đôi mắt nhợt nhạt vô cảm.",
               "vocab_highlights": []
             },
             {
@@ -1683,7 +1703,7 @@
             {
               "id": "0_1_0",
               "en": "After a year of coffins, the room on the twenty-fifth floor of the Chiba Hilton seemed enormous. It was ten meters by eight, half of a suite. A white Braun coffeemaker steamed on a low table by the sliding glass panels that opened onto a narrow balcony.",
-              "vi": "Sau một năm nằm trong quan tài, căn phòng trên tầng 25 của khách sạn Chiba Hilton có vẻ rộng lớn. Nó rộng 8 x 10 mét, bằng một nửa căn hộ. Một máy pha cà phê Braun màu trắng đang bốc hơi trên một chiếc bàn thấp cạnh những tấm kính trượt mở ra ban công hẹp.",
+              "vi": "Không gian mạng (Cyberspace). Một ảo ảnh đồng thuận được trải nghiệm mỗi ngày bởi hàng tỷ người vận hành hợp pháp, tại mọi quốc gia, bởi những đứa trẻ đang học các khái niệm toán học...",
               "vocab_highlights": []
             },
             {
@@ -5592,7 +5612,7 @@
             {
               "id": "1_4_46",
               "en": "\"In Chiba City. He has no left lung. The other is boosted, is how you say it? Anyone might buy these implants, but this one is most talented.\" The Mercedes swerved avoiding a balloon-tired dray stacked with hides. \"I have followed him in the street and seen a dozen cycles fall, near him, in a day. Find the cyclist in a hospital, the story is always the same. A scorpion poised beside a brake lever...\"",
-              "vi": "\"Ở thành phố Chiba. Anh ấy không có phổi trái. Chiếc còn lại được tăng cường, bạn nói thế nào? Bất cứ ai cũng có thể mua những bộ phận cấy ghép này, nhưng chiếc này là người tài năng nhất.\" Chiếc Mercedes đổi hướng để tránh một chiếc xe chở đầy bóng bay mệt mỏi. \"Tôi đã theo anh ta trên đường và chứng kiến ​​hàng chục chiếc xe đạp rơi gần anh ta trong một ngày. Tìm người đi xe đạp trong bệnh viện, câu chuyện luôn giống nhau. Một con bọ cạp sẵn sàng bên cần phanh...\"",
+              "vi": "\"Ở Thành phố Chiba (Chiba City). Anh ấy không có phổi trái. Chiếc còn lại được tăng cường, bạn nói thế nào? Bất cứ ai cũng có thể mua những bộ phận cấy ghép này, nhưng chiếc này là người tài năng nhất.\" Chiếc Mercedes đổi hướng để tránh một chiếc xe chở đầy bóng bay mệt mỏi. \"Tôi đã theo anh ta trên đường và chứng kiến ​​hàng chục chiếc xe đạp rơi gần anh ta trong một ngày. Tìm người đi xe đạp trong bệnh viện, câu chuyện luôn giống nhau. Một con bọ cạp sẵn sàng bên cần phanh...\"",
               "vocab_highlights": []
             },
             {
@@ -7186,7 +7206,7 @@
             {
               "id": "2_1_17",
               "en": "\"Dixie?\"",
-              "vi": "\"Dixie?\"",
+              "vi": "“Dixie?”",
               "vocab_highlights": []
             },
             {
@@ -7398,7 +7418,7 @@
             {
               "id": "2_1_49",
               "en": "\"Dixie...\"",
-              "vi": "\"Dixie...\"",
+              "vi": "“Dixie...”",
               "vocab_highlights": []
             },
             {
@@ -10035,7 +10055,7 @@
             {
               "id": "2_4_7",
               "en": "\"Gangster.\"",
-              "vi": "\"Gangster.\"",
+              "vi": "“Dân giang hồ xã hội đen.”",
               "vocab_highlights": []
             },
             {
@@ -10505,7 +10525,7 @@
             {
               "id": "3_0_25",
               "en": "\"It means that the operator of a black clinic in Chiba City now owns a controlling interest in three major medical research consortiums. This reverses the usual order of things, you see. It attracted attention.\" She crossed her brown arms across her small high breasts and settled back against the print cushion. Case wondered how old she might be. People said that age always showed in the eyes, but he'd never been able to see it. Julie Deane had had the eyes of a disinterested ten-year-old behind the rose quartz of his glasses. Nothing old about Michle but her knuckles. \"Traced you to the Sprawl, lost you again, then caught up with you as you were leaving for Istanbul. We backtracked, traced you through the grid, determined that you'd instigated a riot at Sense/Net. Sense/Net was eager to cooperate. They ran an inventory for us. They discovered that McCoy Pauley's ROM personality construct was missing.\"",
-              "vi": "\"Điều đó có nghĩa là người điều hành một phòng khám dành cho người da đen ở thành phố Chiba hiện sở hữu quyền kiểm soát ba tập đoàn nghiên cứu y học lớn. Điều này đảo ngược trật tự thông thường của mọi thứ, bạn thấy đấy. Nó đã thu hút sự chú ý.\" Cô khoanh tay trước bộ ngực cao nhỏ nhắn và tựa lưng vào chiếc đệm in hình. Case tự hỏi cô ấy có thể bao nhiêu tuổi. Người ta nói tuổi tác luôn hiện rõ ở đôi mắt nhưng anh chưa bao giờ nhìn thấy được. Julie Deane có đôi mắt của một đứa trẻ mười tuổi vô tư đằng sau chiếc kính thạch anh hồng. Michle không có gì cũ kỹ ngoại trừ những đốt ngón tay của cô ấy. \"Đã lần theo dấu vết của bạn đến Sprawl, lại để mất bạn, rồi bắt kịp bạn khi bạn đang rời đi Istanbul. Chúng tôi đã quay lại, lần theo dấu vết của bạn qua mạng lưới, xác định rằng bạn đã xúi giục một cuộc bạo loạn tại Sense/Net. Sense/Net rất muốn hợp tác. Họ đã điều hành một bản kiểm kê cho chúng tôi. Họ phát hiện ra rằng cấu trúc tính cách ROM của McCoy Pauley bị thiếu.\"",
+              "vi": "\"Điều đó có nghĩa là người điều hành một phòng khám dành cho người da đen ở Thành phố Chiba (Chiba City) hiện sở hữu quyền kiểm soát ba tập đoàn nghiên cứu y học lớn. Điều này đảo ngược trật tự thông thường của mọi thứ, bạn thấy đấy. Nó đã thu hút sự chú ý.\" Cô khoanh tay trước bộ ngực cao nhỏ nhắn và tựa lưng vào chiếc đệm in hình. Case tự hỏi cô ấy có thể bao nhiêu tuổi. Người ta nói tuổi tác luôn hiện rõ ở đôi mắt nhưng anh chưa bao giờ nhìn thấy được. Julie Deane có đôi mắt của một đứa trẻ mười tuổi vô tư đằng sau chiếc kính thạch anh hồng. Michle không có gì cũ kỹ ngoại trừ những đốt ngón tay của cô ấy. \"Đã lần theo dấu vết của bạn đến Sprawl, lại để mất bạn, rồi bắt kịp bạn khi bạn đang rời đi Istanbul. Chúng tôi đã quay lại, lần theo dấu vết của bạn qua mạng lưới, xác định rằng bạn đã xúi giục một cuộc bạo loạn tại Sense/Net. Sense/Net rất muốn hợp tác. Họ đã điều hành một bản kiểm kê cho chúng tôi. Họ phát hiện ra rằng cấu trúc tính cách ROM của McCoy Pauley bị thiếu.\"",
               "vocab_highlights": [
                 "construct"
               ]
@@ -10858,7 +10878,7 @@
             {
               "id": "3_1_23",
               "en": "\"Dixie?\"",
-              "vi": "\"Dixie?\"",
+              "vi": "“Dixie?”",
               "vocab_highlights": []
             },
             {
@@ -11955,7 +11975,7 @@
             {
               "id": "3_2_64",
               "en": "\"Molly.\"",
-              "vi": "\"Molly.\"",
+              "vi": "“Molly.”",
               "vocab_highlights": []
             },
             {
@@ -12369,7 +12389,7 @@
             {
               "id": "3_3_32",
               "en": "G E N E R A L G",
-              "vi": "G E N E R A L G",
+              "vi": "G E N E R A L G (TỔNG CHỈ HUY)",
               "vocab_highlights": []
             },
             {
@@ -12381,13 +12401,13 @@
             {
               "id": "3_3_34",
               "en": "T R A I N E D",
-              "vi": "T R A I N E D",
+              "vi": "T R A I N E D (ĐÃ HUẤN LUYỆN)",
               "vocab_highlights": []
             },
             {
               "id": "3_3_35",
               "en": "C O R T O F O R",
-              "vi": "C O R T O F O R",
+              "vi": "C O R T O F O R (MẬT HIỆU CORTO)",
               "vocab_highlights": []
             },
             {
@@ -12399,7 +12419,7 @@
             {
               "id": "3_3_37",
               "en": "F I S T A N D",
-              "vi": "F I S T A N D",
+              "vi": "F I S T A N D (NẮM ĐẤM VÀ)",
               "vocab_highlights": []
             },
             {
@@ -12411,25 +12431,25 @@
             {
               "id": "3_3_39",
               "en": "A S S T O",
-              "vi": "A S S T O",
+              "vi": "A S S T O (HẬU PHƯƠNG TỚI)",
               "vocab_highlights": []
             },
             {
               "id": "3_3_40",
               "en": "T H E P E N T",
-              "vi": "T H E P E N T",
+              "vi": "T H E P E N T (LẦU NĂM GÓC)",
               "vocab_highlights": []
             },
             {
               "id": "3_3_41",
               "en": "A G O N : : : :",
-              "vi": "A G O N : : : :",
+              "vi": "A G O N : : : : (NGŨ GIÁC ĐÀI)",
               "vocab_highlights": []
             },
             {
               "id": "3_3_42",
               "en": "W / M U T E '~ S",
-              "vi": "W / M U T E '~ S",
+              "vi": "W / M U T E '~ S (LỆNH ĐỒNG MINH)",
               "vocab_highlights": []
             },
             {
@@ -12441,31 +12461,31 @@
             {
               "id": "3_3_44",
               "en": "G R I P O N",
-              "vi": "G R I P O N",
+              "vi": "G R I P O N (KẸP GIỮ CHẶT)",
               "vocab_highlights": []
             },
             {
               "id": "3_3_45",
               "en": "A R M I T A G",
-              "vi": "A R M I T A G",
+              "vi": "A R M I T A G (ARMITAGE)",
               "vocab_highlights": []
             },
             {
               "id": "3_3_46",
               "en": "E I S A",
-              "vi": "E I S A",
+              "vi": "E I S A (LÀ MỘT)",
               "vocab_highlights": []
             },
             {
               "id": "3_3_47",
               "en": "C O N S T R U",
-              "vi": "C O N S T R U",
+              "vi": "C O N S T R U (BẢN TÁI CẤU TRÚC)",
               "vocab_highlights": []
             },
             {
               "id": "3_3_48",
               "en": "C T O F G",
-              "vi": "C T O F G",
+              "vi": "C T O F G (CỦA TỔNG HÀNH DINH)",
               "vocab_highlights": []
             },
             {
@@ -12477,13 +12497,13 @@
             {
               "id": "3_3_50",
               "en": "W / M U T E",
-              "vi": "W / M U T E",
+              "vi": "W / M U T E (WINTERMUTE)",
               "vocab_highlights": []
             },
             {
               "id": "3_3_51",
               "en": "S E Z A '~ S",
-              "vi": "S E Z A '~ S",
+              "vi": "S E Z A '~ S (KHẲNG ĐỊNH)",
               "vocab_highlights": []
             },
             {
@@ -12495,7 +12515,7 @@
             {
               "id": "3_3_53",
               "en": "O F G",
-              "vi": "O F G",
+              "vi": "O F G (NGUỒN GỐC)",
               "vocab_highlights": []
             },
             {
@@ -12561,7 +12581,7 @@
             {
               "id": "3_3_64",
               "en": "\"Maelcum...\"",
-              "vi": "\"Maelcum...\"",
+              "vi": "“Maelcum...”",
               "vocab_highlights": []
             },
             {
@@ -13324,7 +13344,7 @@
             {
               "id": "3_4_29",
               "en": "\"Dixie...\"",
-              "vi": "\"Dixie...\"",
+              "vi": "“Dixie...”",
               "vocab_highlights": []
             },
             {
@@ -13821,7 +13841,7 @@
             {
               "id": "3_5_22",
               "en": ": : : : : J A C K",
-              "vi": ": : : : : J A C K",
+              "vi": ": : : : : J A C K (CẮM RẮC)",
               "vocab_highlights": []
             },
             {
@@ -16461,7 +16481,7 @@
             {
               "id": "3_10_7",
               "en": "\"Hot to trot.\"",
-              "vi": "\"Hot to trot.\"",
+              "vi": "“Đang hừng hực khí thế sẵn sàng xông trận.”",
               "vocab_highlights": []
             },
             {
@@ -17458,7 +17478,7 @@
             {
               "id": "4_0_48",
               "en": "Vancouver",
-              "vi": "Vancouver",
+              "vi": "Vancouver.",
               "vocab_highlights": []
             },
             {

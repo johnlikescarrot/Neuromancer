@@ -25,8 +25,13 @@ class TestBilingualEdition(unittest.TestCase):
             data = json.load(f)
 
         self.assertIn("target_benchmarks", data)
-        self.assertIn("IELTS", data["target_benchmarks"])
-        self.assertIn("TOEFL_iBT", data["target_benchmarks"])
+        benchmarks = data["target_benchmarks"]
+        self.assertIn("IELTS", benchmarks)
+        self.assertIn("TOEFL_iBT", benchmarks)
+        self.assertIn("Cambridge", benchmarks)
+        self.assertIn("PTE_Academic", benchmarks)
+        self.assertIn("DET", benchmarks)
+
         self.assertIn("glossary", data)
         self.assertGreaterEqual(len(data["glossary"]), 20, "Glossary must have at least 20 academic terms")
 
@@ -51,6 +56,12 @@ class TestBilingualEdition(unittest.TestCase):
         with open(self.pdf_path, "rb") as f:
             header = f.read(4)
             self.assertEqual(header, b"%PDF", "Output file must be a valid PDF format")
+
+    def test_typescript_tooling(self):
+        self.assertTrue(Path("scripts/render_astryx.tsx").exists(), "scripts/render_astryx.tsx must exist")
+        self.assertTrue(Path("scripts/build_pdf.ts").exists(), "scripts/build_pdf.ts must exist")
+        self.assertTrue(Path("package.json").exists(), "package.json must exist")
+        self.assertTrue(Path("tsconfig.json").exists(), "tsconfig.json must exist")
 
 if __name__ == "__main__":
     unittest.main()
