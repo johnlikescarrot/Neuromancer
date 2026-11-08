@@ -1,7 +1,7 @@
 # Neuromancer — Bản thảo học liệu đọc Anh - Việt
 
 > **Tác giả tác phẩm gốc:** William Gibson
-> **Dự án:** Bản thảo học liệu đọc đối chiếu Anh - Việt, kèm chú giải và tài liệu luyện đọc. Đây không phải ấn bản được cấp phép hoặc được biên tập, hiệu đính độc lập.
+> **Dự án:** Bản thảo học liệu đọc đối chiếu Anh - Việt, kèm chú giải và tài liệu luyện đọc. Kho mã nguồn chưa ghi nhận giấy phép cho việc sao chép/dịch tác phẩm hoặc quy trình biên tập, hiệu đính độc lập.
 
 ---
 
