@@ -1,7 +1,7 @@
-# Neuromancer — Ấn Bản Song Ngữ Anh - Việt & Cẩm Nang Học Thuật C1/C2 Toàn Diện
+# Neuromancer — Bản thảo học liệu đọc Anh - Việt
 
-> **Tác giả:** William Gibson
-> **Dự án:** Biên soạn ấn bản song ngữ đối sánh Anh - Việt toàn vẹn nhất của kiệt tác khoa học viễn tưởng *Neuromancer*, tích hợp hệ thống chú giải học thuật chuẩn mực quốc tế và xuất bản định dạng PDF chuẩn A4.
+> **Tác giả tác phẩm gốc:** William Gibson
+> **Dự án:** Bản thảo học liệu đọc đối chiếu Anh - Việt, kèm chú giải và tài liệu luyện đọc. Đây không phải ấn bản được cấp phép hoặc được biên tập, hiệu đính độc lập.
 
 ---
 
@@ -9,16 +9,17 @@
 
 *Neuromancer* (1984) là tác phẩm mở đường cho trào lưu **Cyberpunk**, tác phẩm đầu tiên giành trọn bộ 3 vương miện danh giá nhất của làng văn học khoa học viễn tưởng: **Giải Hugo**, **Giải Nebula** và **Giải thưởng Tưởng niệm Philip K. Dick**. Cuốn tiểu thuyết đã sản sinh và phổ quát hóa những khái niệm mang tính thời đại như *cyberspace* (không gian mạng), *the matrix* (ma trận), *neural interface* (giao diện thần kinh) và đặt ra các câu hỏi triết học sắc sảo về trí tuệ nhân tạo (AI), ý thức và bản dạng con người.
 
-Ấn bản này cung cấp:
-- **Dịch hoàn chỉnh 100% toàn bộ tác phẩm:** Gồm đủ **5 phần, 24 chương, 2.598 đoạn văn** đối chiếu song song. Không cắt gọt, không tóm lược.
-- **Trình bày song song (Parallel Bilingual Layout):** Cột trái là văn bản tiếng Anh nguyên tác của William Gibson; cột phải là bản dịch tiếng Việt văn chương trau chuốt, giữ trọn sắc thái u uất, sắc lạnh đặc trưng của tiểu thuyết Neo-noir và Cyberpunk.
-- **Tệp xuất bản PDF chất lượng cao:** Sẵn sàng tại `output/neuromancer_bilingual_edition.pdf` (~358 trang A4, dàn trang khoa học, đánh số trang và mục lục tự động).
+Bản thảo hiện có các tệp dữ liệu đối chiếu và một PDF được sinh tự động. Số đoạn trong dữ liệu chỉ là kiểm đếm cấu trúc, không chứng minh bản dịch đầy đủ, chính xác hay đã qua biên tập chuyên môn. Hãy xem nội dung là bản nháp chưa được thẩm định, không phải bản dịch văn học đã xuất bản.
+
+Trước khi chia sẻ hoặc phát hành, cần xác minh quyền sao chép và dịch tác phẩm gốc. Việc một tệp có trong kho mã nguồn không tự nó xác lập quyền phân phối hoặc quyền dịch.
 
 ---
 
-## 🎯 2. Định hướng và Hỗ trợ các chuẩn Năng lực Tiếng Anh Quốc tế
+## 🎯 2. Mục tiêu học tập tham khảo
 
-Ấn bản được thiết kế đặc thù làm học liệu luyện đọc chuyên sâu (Academic Reading & Stylistics) phục vụ người học nâng cấp năng lực ngôn ngữ từ B2 lên C1 Advanced và C2 Proficiency:
+Các mức dưới đây là mục tiêu do dự án đề xuất để định hướng việc chọn nội dung luyện đọc, không phải kết quả đánh giá đã được kiểm chứng. Một cuốn sách hoặc PDF không thể bảo đảm người học đạt điểm thi; điểm số phụ thuộc vào bài thi chính thức và cả bốn kỹ năng. Hãy đối chiếu thang điểm, cấu trúc bài thi và ngày áp dụng với nguồn chính thức của từng tổ chức trước khi dùng các mức này để lập kế hoạch.
+
+Tài liệu có thể hỗ trợ luyện đọc và chú ý đến từ vựng, ngữ pháp, diễn ngôn. Nó chưa được kiểm định như một khóa luyện thi hay được tổ chức khảo thí chứng nhận.
 
 | Bài thi / Chứng chỉ | Mức điểm mục tiêu | Ứng dụng trong ấn bản |
 | :--- | :--- | :--- |
