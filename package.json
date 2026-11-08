@@ -1,0 +1,19 @@
+{
+  "name": "neuromancer-study-companion",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "description": "TypeScript PDF generator for an original C1/C2 reading companion.",
+  "scripts": {
+    "build:guide": "tsx scripts/create_study_companion.ts",
+    "test": "tsx --test tests/study_companion.test.ts",
+    "design:tokens": "npx --yes @astryxdesign/cli@0.7.11 docs tokens/tokens-color"
+  },
+  "devDependencies": {
+    "@pdf-lib/fontkit": "^1.1.1",
+    "@types/node": "^26.6.6",
+    "pdf-lib": "^1.17.1",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
