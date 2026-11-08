@@ -41,6 +41,11 @@ class TestBilingualEdition(unittest.TestCase):
                     self.assertTrue(len(p["vi"].strip()) > 0)
         self.assertEqual(total_paragraphs, 2598, "All 2598 paragraphs must have both English and Vietnamese text")
 
+    def test_examples_are_not_claimed_as_original_quotes(self):
+        html = self.html_path.read_text(encoding="utf-8")
+        self.assertNotIn("Ví dụ nguyên tác:", html)
+        self.assertIn("Ví dụ minh họa (không nhất thiết là trích dẫn nguyên tác):", html)
+
     def test_html_and_pdf_generation(self):
         self.assertTrue(self.html_path.exists(), "data/novel_bilingual.html must exist")
         self.assertGreater(self.html_path.stat().st_size, 1_000_000, "HTML file must be > 1 MB")

@@ -10,7 +10,7 @@
 *Neuromancer* (1984) là tác phẩm mở đường cho trào lưu **Cyberpunk**, tác phẩm đầu tiên giành trọn bộ 3 vương miện danh giá nhất của làng văn học khoa học viễn tưởng: **Giải Hugo**, **Giải Nebula** và **Giải thưởng Tưởng niệm Philip K. Dick**. Cuốn tiểu thuyết đã sản sinh và phổ quát hóa những khái niệm mang tính thời đại như *cyberspace* (không gian mạng), *the matrix* (ma trận), *neural interface* (giao diện thần kinh) và đặt ra các câu hỏi triết học sắc sảo về trí tuệ nhân tạo (AI), ý thức và bản dạng con người.
 
 Ấn bản này cung cấp:
-- **Dịch hoàn chỉnh 100% toàn bộ tác phẩm:** Gồm đủ **5 phần, 24 chương, 2.598 đoạn văn** đối chiếu song song. Không cắt gọt, không tóm lược.
+- **Dữ liệu song ngữ:** Gồm 5 phần, 24 chương và 2.598 cặp đoạn. Sự hiện diện của bản dịch không chứng minh chất lượng hoặc tính đầy đủ; cần đối chiếu và biên tập thủ công trước khi xem đây là bản hoàn thiện.
 - **Trình bày song song (Parallel Bilingual Layout):** Cột trái là văn bản tiếng Anh nguyên tác của William Gibson; cột phải là bản dịch tiếng Việt văn chương trau chuốt, giữ trọn sắc thái u uất, sắc lạnh đặc trưng của tiểu thuyết Neo-noir và Cyberpunk.
 - **Tệp xuất bản PDF chất lượng cao:** Sẵn sàng tại `output/neuromancer_bilingual_edition.pdf` (~358 trang A4, dàn trang khoa học, đánh số trang và mục lục tự động).
 
@@ -18,7 +18,7 @@
 
 ## 🎯 2. Định hướng và Hỗ trợ các chuẩn Năng lực Tiếng Anh Quốc tế
 
-Ấn bản được thiết kế đặc thù làm học liệu luyện đọc chuyên sâu (Academic Reading & Stylistics) phục vụ người học nâng cấp năng lực ngôn ngữ từ B2 lên C1 Advanced và C2 Proficiency:
+Đây là các mức điểm mục tiêu tham khảo, không phải chứng nhận tương đương hay bảo đảm điểm thi. Các bài thi còn đánh giá nhiều kỹ năng ngoài đọc hiểu. Ấn bản được thiết kế làm học liệu luyện đọc (Academic Reading & Stylistics) phục vụ người học nâng cấp năng lực ngôn ngữ từ B2 lên C1 Advanced và C2 Proficiency:
 
 | Bài thi / Chứng chỉ | Mức điểm mục tiêu | Ứng dụng trong ấn bản |
 | :--- | :--- | :--- |
@@ -34,7 +34,7 @@
 
 Mỗi chương trong tác phẩm đều được đính kèm:
 1. **Chapter Academic Masterclass:** Tóm lược diễn biến cốt truyện song song với phân tích chủ đề văn học.
-2. **Grammar & Rhetoric Focus:** Bóc tách các hiện tượng ngữ pháp nâng cao xuất hiện trực tiếp trong văn bản gốc kèm câu ví dụ trích dẫn và phân tích ứng dụng.
+2. **Grammar & Rhetoric Focus:** Bóc tách các hiện tượng ngữ pháp nâng cao xuất hiện trực tiếp trong văn bản gốc kèm các câu ví dụ minh họa và phân tích ứng dụng; các ví dụ không nhất thiết là trích dẫn nguyên tác.
 3. **Cyberpunk & Academic Glossary:** Bảng tra cứu thuật ngữ chuyên sâu (Matrix, Cyberspace, ROM Construct, ICE, Zaibatsu, Villa Straylight,...) phiên âm quốc tế IPA, cấp độ CEFR và phân tích sắc thái biểu đạt.
 
 ---
@@ -85,4 +85,6 @@ python3 -m unittest tests/test_bilingual_edition.py
 ```
 
 ---
-*Ấn bản được hoàn thiện với tinh thần tôn trọng nguyên tác và phụng sự người học tiếng Anh học thuật đỉnh cao.*
+*Ấn bản đang cần kiểm chứng bản dịch, nội dung học liệu và quyền sử dụng trước khi phát hành.*
+
+> **Lưu ý về PDF hiện có:** PDF được tạo trước khi sửa nhãn ví dụ có thể vẫn ghi nhầm ví dụ minh họa là nguyên tác. Hãy tạo lại PDF sau khi thiết lập Playwright và Chromium.
