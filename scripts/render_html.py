@@ -448,7 +448,7 @@ def generate_html():
                         html_out.append(f"""
     <div class="grammar-item">
       <div class="grammar-name">• {html.escape(gf['rule'])}: <span style="font-weight: normal; color: #334155;">{html.escape(gf['explanation'])}</span></div>
-      <div class="grammar-eg">Ví dụ nguyên tác: "{html.escape(gf['example'])}"</div>
+      <div class="grammar-eg">Ví dụ minh họa (không nhất thiết là trích dẫn nguyên tác): "{html.escape(gf['example'])}"</div>
     </div>
 """)
                 html_out.append("""</div>""")
