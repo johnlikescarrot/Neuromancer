@@ -86,3 +86,20 @@ python3 -m unittest tests/test_bilingual_edition.py
 
 ---
 *Ấn bản được hoàn thiện với tinh thần tôn trọng nguyên tác và phụng sự người học tiếng Anh học thuật đỉnh cao.*
+
+---
+
+## 🎨 6. Tái thiết kế giao diện ấn phẩm với TypeScript & Meta Astryx
+
+Phiên bản tối thượng này được nâng cấp hệ thống xuất bản dựa trên **TypeScript** và Design System **Meta Astryx** (`@astryxdesign/core`, `@astryxdesign/theme-gothic`):
+- `scripts/render_astryx.tsx`: Thiết kế giao diện tài liệu React chuẩn typography in ấn A4, tích hợp Gothic Cyberpunk theme tokens.
+- `scripts/build_pdf.ts`: Quy trình tự động hóa xuất bản tệp PDF chất lượng cao, đánh số trang và chỉ mục thông minh.
+
+Lệnh thực thi xuất bản:
+```bash
+# Kiểm tra TypeScript
+npx tsc --noEmit
+
+# Biên dịch giao diện và xuất PDF
+npx tsx scripts/build_pdf.ts
+```

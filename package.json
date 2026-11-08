@@ -1,0 +1,38 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "> **Tác giả:** William Gibson > **Dự án:** Biên soạn ấn bản song ngữ đối sánh Anh - Việt toàn vẹn nhất của kiệt tác khoa học viễn tưởng *Neuromancer*, tích hợp hệ thống chú giải học thuật chuẩn mực quốc tế và xuất bản định dạng PDF chuẩn A4.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnlikescarrot/Neuromancer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/johnlikescarrot/Neuromancer/issues"
+  },
+  "homepage": "https://github.com/johnlikescarrot/Neuromancer#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "playwright": "^1.65.0",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "@astryxdesign/core": "^0.7.11",
+    "@astryxdesign/theme-gothic": "^0.7.11",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  }
+}
