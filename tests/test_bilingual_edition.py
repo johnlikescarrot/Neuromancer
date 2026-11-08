@@ -24,9 +24,21 @@ class TestBilingualEdition(unittest.TestCase):
         with open(self.bilingual_path, "r", encoding="utf-8") as f:
             data = json.load(f)
 
+        # Assert full coverage of target international benchmarks
         self.assertIn("target_benchmarks", data)
-        self.assertIn("IELTS", data["target_benchmarks"])
-        self.assertIn("TOEFL_iBT", data["target_benchmarks"])
+        benchmarks = data["target_benchmarks"]
+        self.assertIn("IELTS", benchmarks)
+        self.assertIn("TOEFL_iBT", benchmarks)
+        self.assertIn("Cambridge", benchmarks)
+        self.assertIn("PTE_Academic", benchmarks)
+        self.assertIn("DET", benchmarks)
+        self.assertIn("90+", benchmarks["TOEFL_iBT"])
+        self.assertIn("5.0", benchmarks["TOEFL_iBT"])
+        self.assertIn("7.0", benchmarks["IELTS"])
+        self.assertIn("185", benchmarks["Cambridge"])
+        self.assertIn("65", benchmarks["PTE_Academic"])
+        self.assertIn("120", benchmarks["DET"])
+
         self.assertIn("glossary", data)
         self.assertGreaterEqual(len(data["glossary"]), 20, "Glossary must have at least 20 academic terms")
 
@@ -51,6 +63,13 @@ class TestBilingualEdition(unittest.TestCase):
         with open(self.pdf_path, "rb") as f:
             header = f.read(4)
             self.assertEqual(header, b"%PDF", "Output file must be a valid PDF format")
+
+    def test_typescript_build_files(self):
+        self.assertTrue(Path("src/astryx_design_system.ts").exists())
+        self.assertTrue(Path("src/render_astryx.ts").exists())
+        self.assertTrue(Path("src/generate_pdf.ts").exists())
+        self.assertTrue(Path("package.json").exists())
+        self.assertTrue(Path("tsconfig.json").exists())
 
 if __name__ == "__main__":
     unittest.main()
