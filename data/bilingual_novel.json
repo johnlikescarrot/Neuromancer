@@ -3935,7 +3935,7 @@
             {
               "id": "1_1_59",
               "en": "12:06:26.",
-              "vi": "12:06:26.",
+              "vi": "12:06:26 (Mười hai giờ sáu phút hai mươi sáu giây).",
               "vocab_highlights": []
             },
             {
@@ -7186,7 +7186,7 @@
             {
               "id": "2_1_17",
               "en": "\"Dixie?\"",
-              "vi": "\"Dixie?\"",
+              "vi": "\"Dixie, ông có đó không?\"",
               "vocab_highlights": []
             },
             {
@@ -7398,7 +7398,7 @@
             {
               "id": "2_1_49",
               "en": "\"Dixie...\"",
-              "vi": "\"Dixie...\"",
+              "vi": "\"Dixie, trả lời đi...\"",
               "vocab_highlights": []
             },
             {
@@ -10035,7 +10035,7 @@
             {
               "id": "2_4_7",
               "en": "\"Gangster.\"",
-              "vi": "\"Gangster.\"",
+              "vi": "\"Tên giang hồ bẩn thỉu.\"",
               "vocab_highlights": []
             },
             {
@@ -10858,7 +10858,7 @@
             {
               "id": "3_1_23",
               "en": "\"Dixie?\"",
-              "vi": "\"Dixie?\"",
+              "vi": "\"Dixie đấy phải không?\"",
               "vocab_highlights": []
             },
             {
@@ -12333,7 +12333,7 @@
             {
               "id": "3_3_26",
               "en": "04:23:04.",
-              "vi": "04:23:04.",
+              "vi": "04:23:04 (Bốn giờ hai mươi ba phút bốn giây).",
               "vocab_highlights": []
             },
             {
@@ -12345,7 +12345,7 @@
             {
               "id": "3_3_28",
               "en": "C A S E : 0 0 0 0",
-              "vi": "C A S E : 0 0 0 0",
+              "vi": "C A S E : 0 0 0 0 (Tín hiệu nhận dạng Case: 0000)",
               "vocab_highlights": []
             },
             {
@@ -12357,7 +12357,7 @@
             {
               "id": "3_3_30",
               "en": "0 0 0 0 0 0 0 0 .",
-              "vi": "0 0 0 0 0 0 0 0 .",
+              "vi": "0 0 0 0 0 0 0 0 . (Chuỗi xung số 00000000)",
               "vocab_highlights": []
             },
             {
@@ -12369,7 +12369,7 @@
             {
               "id": "3_3_32",
               "en": "G E N E R A L G",
-              "vi": "G E N E R A L G",
+              "vi": "G E N E R A L G (Tướng quân G...)",
               "vocab_highlights": []
             },
             {
@@ -12381,13 +12381,13 @@
             {
               "id": "3_3_34",
               "en": "T R A I N E D",
-              "vi": "T R A I N E D",
+              "vi": "T R A I N E D (Được huấn luyện)",
               "vocab_highlights": []
             },
             {
               "id": "3_3_35",
               "en": "C O R T O F O R",
-              "vi": "C O R T O F O R",
+              "vi": "C O R T O F O R (Corto cho)",
               "vocab_highlights": []
             },
             {
@@ -12399,7 +12399,7 @@
             {
               "id": "3_3_37",
               "en": "F I S T A N D",
-              "vi": "F I S T A N D",
+              "vi": "F I S T A N D (Chiến dịch Fist và...)",
               "vocab_highlights": []
             },
             {
@@ -12411,25 +12411,25 @@
             {
               "id": "3_3_39",
               "en": "A S S T O",
-              "vi": "A S S T O",
+              "vi": "A S S T O (Giao cho)",
               "vocab_highlights": []
             },
             {
               "id": "3_3_40",
               "en": "T H E P E N T",
-              "vi": "T H E P E N T",
+              "vi": "T H E P E N T (Lầu Năm Góc...)",
               "vocab_highlights": []
             },
             {
               "id": "3_3_41",
               "en": "A G O N : : : :",
-              "vi": "A G O N : : : :",
+              "vi": "A G O N : : : : (...Góc ::::)",
               "vocab_highlights": []
             },
             {
               "id": "3_3_42",
               "en": "W / M U T E '~ S",
-              "vi": "W / M U T E '~ S",
+              "vi": "W / M U T E '~ S (Sự kìm kẹp của Wintermute)",
               "vocab_highlights": []
             },
             {
@@ -12441,31 +12441,31 @@
             {
               "id": "3_3_44",
               "en": "G R I P O N",
-              "vi": "G R I P O N",
+              "vi": "G R I P O N (Siết chặt lên)",
               "vocab_highlights": []
             },
             {
               "id": "3_3_45",
               "en": "A R M I T A G",
-              "vi": "A R M I T A G",
+              "vi": "A R M I T A G (Armitage...)",
               "vocab_highlights": []
             },
             {
               "id": "3_3_46",
               "en": "E I S A",
-              "vi": "E I S A",
+              "vi": "E I S A (Là một...)",
               "vocab_highlights": []
             },
             {
               "id": "3_3_47",
               "en": "C O N S T R U",
-              "vi": "C O N S T R U",
+              "vi": "C O N S T R U (Mô phỏng...)",
               "vocab_highlights": []
             },
             {
               "id": "3_3_48",
               "en": "C T O F G",
-              "vi": "C T O F G",
+              "vi": "C T O F G (Ý niệm của G...)",
               "vocab_highlights": []
             },
             {
@@ -12477,13 +12477,13 @@
             {
               "id": "3_3_50",
               "en": "W / M U T E",
-              "vi": "W / M U T E",
+              "vi": "W / M U T E (Wintermute)",
               "vocab_highlights": []
             },
             {
               "id": "3_3_51",
               "en": "S E Z A '~ S",
-              "vi": "S E Z A '~ S",
+              "vi": "S E Z A '~ S (Nói rằng...)",
               "vocab_highlights": []
             },
             {
@@ -12495,7 +12495,7 @@
             {
               "id": "3_3_53",
               "en": "O F G",
-              "vi": "O F G",
+              "vi": "O F G (Của G...)",
               "vocab_highlights": []
             },
             {
@@ -12543,7 +12543,7 @@
             {
               "id": "3_3_61",
               "en": ": : D I X I E",
-              "vi": ": : D I X I E",
+              "vi": ": : D I X I E (: : Dixie)",
               "vocab_highlights": []
             },
             {
@@ -12561,7 +12561,7 @@
             {
               "id": "3_3_64",
               "en": "\"Maelcum...\"",
-              "vi": "\"Maelcum...\"",
+              "vi": "\"Maelcum, anh nghe rõ không...\"",
               "vocab_highlights": []
             },
             {
@@ -13324,7 +13324,7 @@
             {
               "id": "3_4_29",
               "en": "\"Dixie...\"",
-              "vi": "\"Dixie...\"",
+              "vi": "\"Dixie, mau phản hồi...\"",
               "vocab_highlights": []
             },
             {
@@ -13500,7 +13500,7 @@
             {
               "id": "3_4_55",
               "en": "07:02:18.",
-              "vi": "07:02:18.",
+              "vi": "07:02:18 (Bảy giờ hai phút mười tám giây).",
               "vocab_highlights": []
             },
             {
@@ -13821,7 +13821,7 @@
             {
               "id": "3_5_22",
               "en": ": : : : : J A C K",
-              "vi": ": : : : : J A C K",
+              "vi": ": : : : : J A C K (: : : : : Cắm giắc kết nối)",
               "vocab_highlights": []
             },
             {
@@ -14292,7 +14292,7 @@
             {
               "id": "3_5_97",
               "en": "07:29:40.",
-              "vi": "07:29:40.",
+              "vi": "07:29:40 (Bảy giờ hai mươi chín phút bốn mươi giây).",
               "vocab_highlights": []
             },
             {
@@ -16461,7 +16461,7 @@
             {
               "id": "3_10_7",
               "en": "\"Hot to trot.\"",
-              "vi": "\"Hot to trot.\"",
+              "vi": "\"Sẵn sàng xung trận rồi.\"",
               "vocab_highlights": []
             },
             {
@@ -17458,7 +17458,7 @@
             {
               "id": "4_0_48",
               "en": "Vancouver",
-              "vi": "Vancouver",
+              "vi": "Vancouver.",
               "vocab_highlights": []
             },
             {

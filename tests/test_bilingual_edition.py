@@ -27,6 +27,17 @@ class TestBilingualEdition(unittest.TestCase):
         self.assertIn("target_benchmarks", data)
         self.assertIn("IELTS", data["target_benchmarks"])
         self.assertIn("TOEFL_iBT", data["target_benchmarks"])
+        self.assertIn("Cambridge", data["target_benchmarks"])
+        self.assertIn("PTE_Academic", data["target_benchmarks"])
+        self.assertIn("DET", data["target_benchmarks"])
+
+        # Verify exact benchmark standards required
+        self.assertTrue(any("7.0" in data["target_benchmarks"]["IELTS"] or "8" in data["target_benchmarks"]["IELTS"] for _ in [1]))
+        self.assertTrue("90" in data["target_benchmarks"]["TOEFL_iBT"] and "5.0" in data["target_benchmarks"]["TOEFL_iBT"])
+        self.assertTrue("185" in data["target_benchmarks"]["Cambridge"])
+        self.assertTrue("65" in data["target_benchmarks"]["PTE_Academic"])
+        self.assertTrue("120" in data["target_benchmarks"]["DET"])
+
         self.assertIn("glossary", data)
         self.assertGreaterEqual(len(data["glossary"]), 20, "Glossary must have at least 20 academic terms")
 
@@ -44,6 +55,12 @@ class TestBilingualEdition(unittest.TestCase):
     def test_html_and_pdf_generation(self):
         self.assertTrue(self.html_path.exists(), "data/novel_bilingual.html must exist")
         self.assertGreater(self.html_path.stat().st_size, 1_000_000, "HTML file must be > 1 MB")
+
+        # Verify Astryx tokens and highlights are rendered in HTML
+        with open(self.html_path, "r", encoding="utf-8") as f:
+            html_text = f.read()
+        self.assertIn("--astryx-color-primary", html_text, "HTML must include Astryx design CSS variables")
+        self.assertIn("term-highlight", html_text, "HTML must include highlighted academic vocabulary terms")
 
         self.assertTrue(self.pdf_path.exists(), "PDF output file must exist")
         self.assertGreater(self.pdf_path.stat().st_size, 1_000_000, "PDF file must be > 1 MB")
