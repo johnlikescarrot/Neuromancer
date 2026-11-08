@@ -86,3 +86,13 @@ python3 -m unittest tests/test_bilingual_edition.py
 
 ---
 *Ấn bản được hoàn thiện với tinh thần tôn trọng nguyên tác và phụng sự người học tiếng Anh học thuật đỉnh cao.*
+
+---
+
+## ⚡ 6. TypeScript & Meta Astryx Design Architecture
+
+Hệ thống biên soạn và xuất bản ấn bản PDF được hiện đại hóa toàn diện với TypeScript và hệ thống thiết kế **Astryx** của Meta (`@astryxdesign/core`, `@astryxdesign/theme-gothic`):
+
+- **Engine TypeScript (`scripts/build_bilingual_pdf.ts`):** Quản lý quy trình dựng trang HTML và biên dịch PDF tối ưu A4 tự động thông qua Playwright.
+- **Astryx Gothic Theme:** Ứng dụng bảng mã màu cyberpunk tối ưu, phông chữ học thuật và các biến giao diện CSS chuẩn mực từ Astryx Design System.
+- **Bộ kiểm thử tự động TypeScript (`tests/test_edition_ts.ts`):** Xác minh tự động cấu trúc dữ liệu 24 chương, 2.598 đoạn song ngữ, định dạng header tệp PDF (`%PDF`) và các chỉ số chuẩn hóa năng lực ngôn ngữ quốc tế (IELTS 7.0+, TOEFL 90 / 5.0, Cambridge 185, PTE 65, DET 120).
