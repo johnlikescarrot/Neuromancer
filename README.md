@@ -1,88 +1,157 @@
-# Neuromancer — Ấn Bản Song Ngữ Anh - Việt & Cẩm Nang Học Thuật C1/C2 Toàn Diện
+# Neuromancer — Bilingual Study Edition
 
-> **Tác giả:** William Gibson
-> **Dự án:** Biên soạn ấn bản song ngữ đối sánh Anh - Việt toàn vẹn nhất của kiệt tác khoa học viễn tưởng *Neuromancer*, tích hợp hệ thống chú giải học thuật chuẩn mực quốc tế và xuất bản định dạng PDF chuẩn A4.
-
----
-
-## 🌟 1. Giới thiệu tổng quan
-
-*Neuromancer* (1984) là tác phẩm mở đường cho trào lưu **Cyberpunk**, tác phẩm đầu tiên giành trọn bộ 3 vương miện danh giá nhất của làng văn học khoa học viễn tưởng: **Giải Hugo**, **Giải Nebula** và **Giải thưởng Tưởng niệm Philip K. Dick**. Cuốn tiểu thuyết đã sản sinh và phổ quát hóa những khái niệm mang tính thời đại như *cyberspace* (không gian mạng), *the matrix* (ma trận), *neural interface* (giao diện thần kinh) và đặt ra các câu hỏi triết học sắc sảo về trí tuệ nhân tạo (AI), ý thức và bản dạng con người.
-
-Ấn bản này cung cấp:
-- **Dịch hoàn chỉnh 100% toàn bộ tác phẩm:** Gồm đủ **5 phần, 24 chương, 2.598 đoạn văn** đối chiếu song song. Không cắt gọt, không tóm lược.
-- **Trình bày song song (Parallel Bilingual Layout):** Cột trái là văn bản tiếng Anh nguyên tác của William Gibson; cột phải là bản dịch tiếng Việt văn chương trau chuốt, giữ trọn sắc thái u uất, sắc lạnh đặc trưng của tiểu thuyết Neo-noir và Cyberpunk.
-- **Tệp xuất bản PDF chất lượng cao:** Sẵn sàng tại `output/neuromancer_bilingual_edition.pdf` (~358 trang A4, dàn trang khoa học, đánh số trang và mục lục tự động).
+> **A reader's companion, glossary and exam workbook for William Gibson's *Neuromancer***
+> Built with a TypeScript typesetting pipeline · PDF output at `output/neuromancer_bilingual_edition.pdf`
 
 ---
 
-## 🎯 2. Định hướng và Hỗ trợ các chuẩn Năng lực Tiếng Anh Quốc tế
+## 1. What this repository produces
 
-Ấn bản được thiết kế đặc thù làm học liệu luyện đọc chuyên sâu (Academic Reading & Stylistics) phục vụ người học nâng cấp năng lực ngôn ngữ từ B2 lên C1 Advanced và C2 Proficiency:
+A single, print-ready A4 PDF (79 pages) containing an independent study apparatus for
+*Neuromancer*:
 
-| Bài thi / Chứng chỉ | Mức điểm mục tiêu | Ứng dụng trong ấn bản |
+| Part | Contents |
+| :--- | :--- |
+| **Front matter** | Preface, the exam map (TOEFL / IELTS / PTE / Cambridge / DET), and a structural orientation to the novel |
+| **I · The Novel** | 24 chapter guides, each with a synopsis, "what to watch", a language-focus note and key terms — English left, Vietnamese right, aligned |
+| **II · The Apparatus** | Twelve rhetoric and grammar features; a 102-headword CEFR-levelled lexicon with IPA, glosses in both languages and study notes; a six-section exam workbook with answer keys and model answers |
+| **III · Reference** | Character map, chronology, Gibson's coinages, further reading, Vietnamese–English index |
+
+### Scope, stated plainly
+
+This edition is **a companion to the novel, not a copy of it**. No chapter, scene or passage of
+*Neuromancer* is reproduced; where the analysis has to point at Gibson's wording it quotes a few
+words at most, in the manner of a critical study. You need your own copy of the novel.
+
+The repository previously contained a build that rendered the novel's full text alongside a
+machine translation. That build has been **replaced**: `output/neuromancer_bilingual_edition.pdf`
+is now the study edition, and the earlier output remains available in git history only. The
+reasons are legal and editorial — a complete unauthorized translation and reprint of a novel
+still in copyright is not something this project will produce or host — and they are recorded on
+the book's own colophon page as well as in `tests/content.test.ts`, which fails the build if a
+verbatim ten-word sequence from the source text ever appears in the edition.
+
+---
+
+## 2. Language targets
+
+The apparatus is calibrated to the level described by the following bands. These are the floors
+the content is written for, not claims about a reader's score:
+
+| Examination | Target | What the edition trains |
 | :--- | :--- | :--- |
-| **IELTS** | **7.0 - 8.5+** | Nâng cấp Lexical Resource & Grammatical Range qua cấu trúc câu đa tầng, văn phong miêu tả học thuật và cụm từ cố định (collocations). |
-| **TOEFL iBT** | **90+** (trước 21/01/2026) / **5.0** (từ 21/01/2026) | Rèn luyện khả năng đọc hiểu văn bản phức hợp, suy luận nghĩa theo ngữ cảnh (Inference & Rhetorical Purpose). |
-| **Cambridge English** | **185 - 210 điểm** (C1 Advanced / C2 Proficiency) | Làm chủ các cấu trúc ngữ pháp đỉnh cao: Đảo ngữ (Inversion), Thể giả định (Subjunctive), Cụm danh từ mở rộng, Cấu trúc tuyệt đối (Absolute Construction). |
-| **PTE Academic** | **65 - 85+** | Mở rộng vốn từ vựng trừu tượng, thuật ngữ khoa học công nghệ, cải thiện tốc độ xử lý đọc hiểu văn bản dài. |
-| **Duolingo English Test (DET)** | **120 - 150+** | Tăng cường phản xạ nhận diện từ vựng học thuật C1/C2 (Read and Select), hoàn thiện ngữ cảnh câu. |
+| **TOEFL iBT** | 90+ (pre-21 Jan 2026 scale) / **5.0** (new scale) | Inference, rhetorical purpose, vocabulary in context |
+| **IELTS Academic** | **7.0** | Lexical precision, paraphrase, matching and reference items |
+| **PTE Academic** | **65** | Processing speed, collocation, one-sentence summarising |
+| **Cambridge English** | **185** (C1 Advanced; C2 Proficiency as stretch) | Use of English: word formation, inversion, absolute constructions, register transfer |
+| **Duolingo English Test** | **120** | Read-and-select discrimination, c-test style gap filling |
+
+Every headword carries a CEFR band, and the distribution is deliberately honest — most entries
+are B2/C1, a minority are C2.
 
 ---
 
-## 📚 3. Cấu trúc học liệu trong ấn bản
+## 3. Architecture
 
-Mỗi chương trong tác phẩm đều được đính kèm:
-1. **Chapter Academic Masterclass:** Tóm lược diễn biến cốt truyện song song với phân tích chủ đề văn học.
-2. **Grammar & Rhetoric Focus:** Bóc tách các hiện tượng ngữ pháp nâng cao xuất hiện trực tiếp trong văn bản gốc kèm câu ví dụ trích dẫn và phân tích ứng dụng.
-3. **Cyberpunk & Academic Glossary:** Bảng tra cứu thuật ngữ chuyên sâu (Matrix, Cyberspace, ROM Construct, ICE, Zaibatsu, Villa Straylight,...) phiên âm quốc tế IPA, cấp độ CEFR và phân tích sắc thái biểu đạt.
-
----
-
-## 🛠️ 4. Cấu trúc thư mục dự án
+The old pipeline was five Python scripts (extract → translate → render HTML → print with
+Playwright). It is replaced by a typed TypeScript toolchain with no browser dependency:
 
 ```
-.
-├── data/
-│   ├── extracted_novel.json       # Toàn bộ 24 chương trích xuất từ EPUB
-│   ├── translated_cache.json      # Dữ liệu dịch song ngữ 2.598 đoạn văn
-│   ├── bilingual_novel.json       # Cơ sở dữ liệu song ngữ tích hợp chú giải
-│   └── novel_bilingual.html       # Mã nguồn HTML định dạng sách A4
-├── output/
-│   └── neuromancer_bilingual_edition.pdf # Tệp PDF ấn bản hoàn chỉnh
-├── scripts/
-│   ├── extract_text.py            # Script bóc tách dữ liệu từ file EPUB
-│   ├── translate_novel.py         # Script dịch thuật và chuẩn hóa dữ liệu
-│   ├── build_bilingual_edition.py # Script biên soạn cẩm nang học thuật & từ vựng
-│   ├── render_html.py             # Script thiết kế dàn trang A4
-│   └── generate_pdf.py            # Script xuất bản PDF tự động qua Playwright
-├── tests/
-│   └── test_bilingual_edition.py  # Bộ kiểm thử tự động xác minh tính toàn vẹn
-└── README.md
+src/
+├── types.ts               # typed document model (blocks, glossary entries, chapter guides)
+├── design/tokens.ts       # print design tokens, projected from the Astryx design system
+├── engine/
+│   ├── text.ts            # inline markup, measurement, line breaking
+│   ├── page.ts            # A4 architecture, mirrored margins, running heads, folios, outline
+│   └── render.ts          # block renderers: paired columns, tables, glossary, cover, TOC
+├── content/               # the book itself, as data
+│   ├── front.ts           # preface, exam map, structural orientation
+│   ├── chapters.ts        # 24 chapter guides (English + Vietnamese)
+│   ├── parts.ts           # five part essays, assembled with the guides
+│   ├── rhetoric.ts        # twelve rhetoric/grammar features
+│   ├── lexicon-a.ts       # cyberspace, corporate, street (headwords)
+│   ├── lexicon-b.ts       # body, AI, place, craft, academic (headwords)
+│   ├── workbook.ts        # six exam sections with keys
+│   ├── appendices.ts      # maps, chronology, coinages, further reading, index
+│   └── index.ts           # assembly + table of contents
+└── cli/build.ts           # two-pass build: measure pagination, then write the PDF
 ```
+
+**Why two passes.** The table of contents needs page numbers that only exist after pagination.
+Pass one lays the book out into a discarded buffer and records where every division and chapter
+lands; pass two writes the real file with a filled contents page. Page geometry is identical
+between passes because the contents page reads its numbers from a fixed-width gutter.
+
+**Text engine.** PDFKit can flow text, but a bilingual book needs explicit control: paired
+columns of unequal length, per-line justification, baseline placement across four font styles,
+widow control at column breaks. `engine/text.ts` measures words and breaks lines itself;
+`engine/page.ts` places each line.
+
+**Astryx.** `facebook/astryx` (`@astryxdesign/*`) is a React 19 + StyleX design system for web
+UIs — it contains no PDF renderer, and there is no browser in the build environment to print
+from. The integration is therefore at the level it can honestly be: `src/design/tokens.ts` reads
+the neutral theme's `theme.css` at build time, harvests its colour ramp, type scale and spacing
+ramp, and projects them onto print values (points, millimetres, printable inks). The book's
+palette and scale are the design system's, not an invented parallel.
+
+**Typography.** DejaVu Serif for English prose, DejaVu Sans for Vietnamese companion text and all
+metadata, both chosen for complete Vietnamese diacritic coverage. Fonts are embedded
+(`tests/pdf.test.ts` fails if a non-embedded standard font leaks in).
 
 ---
 
-## 🚀 5. Hướng dẫn chạy và tái sinh tài liệu
-
-Để tạo mới hoặc cập nhật lại toàn bộ tài liệu và ấn bản PDF:
+## 4. Build and test
 
 ```bash
-# 1. Trích xuất văn bản từ EPUB
-python3 scripts/extract_text.py
+npm install
 
-# 2. Biên dịch và tổng hợp dữ liệu học thuật
-python3 scripts/build_bilingual_edition.py
-
-# 3. Dàn trang HTML chuyên nghiệp
-python3 scripts/render_html.py
-
-# 4. Xuất bản tệp PDF song ngữ
-python3 scripts/generate_pdf.py
-
-# 5. Chạy bộ kiểm thử tự động
-python3 -m unittest tests/test_bilingual_edition.py
+npm run build      # tsc + build the PDF into output/
+npm run check      # type-check only
+npm test           # 11 tests: content integrity + PDF artefact
 ```
 
+Requirements: Node 20+ (developed on Node 22). No browser, no network, no external services.
+
+The build prints a one-line report (`pages, MB, TOC entries resolved, seconds`) and exits
+non-zero on failure.
+
+### Tests
+
+| Test | Guards |
+| :--- | :--- |
+| chapters 1–24, in order | structural completeness |
+| chapter guides bilingual and complete | both languages, minimum lengths, paired lists |
+| lexicon well formed | IPA delimiters, CEFR bands, unique headwords, no empty fields |
+| glossary groups match layout labels | no unlabelled section can appear |
+| contents resolves | every division and chapter has a page |
+| exam map covers five exams and bands | the language claims stay honest |
+| **no verbatim 10-word sequence from the novel** | the editorial policy, mechanically enforced |
+| A4 geometry, metadata, embedded fonts | the artefact itself |
+
 ---
-*Ấn bản được hoàn thiện với tinh thần tôn trọng nguyên tác và phụng sự người học tiếng Anh học thuật đỉnh cao.*
+
+## 5. Editorial notes
+
+- **Vietnamese text** is an original companion translation of the apparatus, written for
+  Vietnamese learners reading the novel in English, and set in the sans face so the two
+  languages never blur at a glance.
+- **Quotations** are limited to short critical phrases; all exercises, model answers, glosses and
+  synopses are original to this project.
+- **Synopses** summarise rather than retell, and assume the reader has just finished the chapter.
+- **Rights.** *Neuromancer* remains in copyright. This is an unofficial study aid, not authorised
+  by the author or his publishers, distributed for study and research.
+
+---
+
+## 6. Repository history
+
+| Stage | What changed |
+| :--- | :--- |
+| v1 | Python pipeline; full novel text with machine translation, rendered to PDF via Playwright |
+| **v2 (this)** | TypeScript typesetting engine; the edition becomes an original companion — 24 chapter guides, levelled lexicon, rhetoric compendium, exam workbook, appendices — with no reproduction of the novel's text |
+
+---
+
+*Ấn bản này là sách đồng hành học thuật cho tiểu thuyết, không phải bản in lại hay bản dịch của
+tác phẩm. Toàn bộ phần tóm lược, phân tích, từ điển, bài tập và đáp án là nội dung nguyên bản của
+dự án; bạn cần một bản *Neuromancer* của riêng mình để đọc cùng.*
