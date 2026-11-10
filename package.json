@@ -1,0 +1,23 @@
+{
+  "name": "neuromancer-bilingual-edition",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Typeset, print-ready bilingual study edition of William Gibson's Neuromancer",
+  "scripts": {
+    "build": "tsc -p tsconfig.json && node dist/src/cli/build.js",
+    "build:pdf": "tsc -p tsconfig.json && node dist/src/cli/build.js",
+    "test": "tsc -p tsconfig.json && node --test dist/tests/*.test.js",
+    "check": "tsc -p tsconfig.json --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@types/pdfkit": "^0.13.9",
+    "typescript": "^5.7.2",
+    "pdf-lib": "^1.17.1"
+  },
+  "dependencies": {
+    "pdfkit": "^0.15.1",
+    "@astryxdesign/theme-neutral": "^0.7.11"
+  }
+}
