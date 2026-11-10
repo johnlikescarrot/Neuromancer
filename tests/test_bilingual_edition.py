@@ -54,3 +54,22 @@ class TestBilingualEdition(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TestFinalTypeScriptEdition(unittest.TestCase):
+    def test_manifest_and_typescript_build(self):
+        m=Path("data/edition_manifest.json"); self.assertTrue(m.exists())
+        d=json.loads(m.read_text(encoding="utf-8"))
+        self.assertEqual(d["paragraphs"],2598); self.assertEqual(d["chapters"],24); self.assertGreaterEqual(d["glossary_terms"],55); self.assertGreater(d["pages"],200)
+        tg={b["exam"]:b["target"] for b in d["benchmarks"]}
+        self.assertIn("7.0",tg["IELTS Academic"]); self.assertIn("90",tg["TOEFL iBT (pre 21 Jan 2026)"]); self.assertEqual(tg["TOEFL iBT (from 21 Jan 2026)"],"5 (new reported band)"); self.assertIn("185",tg["Cambridge C1 Advanced / C2 Proficiency"]); self.assertEqual(tg["PTE Academic"],"65"); self.assertEqual(tg["Duolingo English Test"],"120")
+        self.assertEqual(d["design"]["language"],"TypeScript"); self.assertIn("Astryx",d["design"]["system"])
+        self.assertTrue(Path("src/build.ts").exists()); self.assertTrue(Path("package.json").exists())
+    def test_no_untranslated_paragraph(self):
+        d=json.loads(Path("data/bilingual_novel.json").read_text(encoding="utf-8"))
+        n=0
+        for p in d["parts"]:
+            for c in p["chapters"]:
+                for para in c["paragraphs"]:
+                    n+=1; self.assertTrue(para["en"].strip()); self.assertTrue(para["vi"].strip())
+        self.assertEqual(n,2598)
