@@ -1,0 +1,15 @@
+{
+  "generator": "TypeScript / Astryx Gothic / Paged.js",
+  "source": "data/bilingual_novel.json",
+  "output": "output/neuromancer_bilingual_edition.pdf",
+  "parts": 5,
+  "chapters": 24,
+  "paragraphs": 2598,
+  "untranslatedCandidates": 36,
+  "glossaryTerms": 25,
+  "pages": 329,
+  "bookmarks": 40,
+  "bytes": 2398299,
+  "sha256": "ecc4ff79c445b06b0d1a4a207238863ef709b5dff3fce3590c87c2aa15797135",
+  "sourceContentModified": false
+}

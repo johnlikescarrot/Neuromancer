@@ -1,88 +1,81 @@
-# Neuromancer — Ấn Bản Song Ngữ Anh - Việt & Cẩm Nang Học Thuật C1/C2 Toàn Diện
+# Neuromancer — Bilingual Study Edition
 
-> **Tác giả:** William Gibson
-> **Dự án:** Biên soạn ấn bản song ngữ đối sánh Anh - Việt toàn vẹn nhất của kiệt tác khoa học viễn tưởng *Neuromancer*, tích hợp hệ thống chú giải học thuật chuẩn mực quốc tế và xuất bản định dạng PDF chuẩn A4.
+Ấn bản đối sánh **Anh–Việt** kết hợp đọc văn chương Cyberpunk với học liệu phát triển tiếng Anh **B2–C1**. Pipeline xuất bản đã được viết lại bằng **TypeScript**, sử dụng design tokens từ **Astryx Gothic**, phân trang bằng Paged.js, xuất PDF bằng Chromium và bổ sung navigation bằng pdf-lib.
 
----
+## Thành phẩm
 
-## 🌟 1. Giới thiệu tổng quan
+- **PDF:** [`output/neuromancer_bilingual_edition.pdf`](output/neuromancer_bilingual_edition.pdf) — 329 trang A4.
+- **Báo cáo build:** [`output/build-report.json`](output/build-report.json) — số trang, checksum SHA-256 và thống kê nguồn.
+- **HTML trung gian:** `data/novel_bilingual.html`, chứa toàn bộ CSS/Astryx tokens và có thể xem độc lập.
 
-*Neuromancer* (1984) là tác phẩm mở đường cho trào lưu **Cyberpunk**, tác phẩm đầu tiên giành trọn bộ 3 vương miện danh giá nhất của làng văn học khoa học viễn tưởng: **Giải Hugo**, **Giải Nebula** và **Giải thưởng Tưởng niệm Philip K. Dick**. Cuốn tiểu thuyết đã sản sinh và phổ quát hóa những khái niệm mang tính thời đại như *cyberspace* (không gian mạng), *the matrix* (ma trận), *neural interface* (giao diện thần kinh) và đặt ra các câu hỏi triết học sắc sảo về trí tuệ nhân tạo (AI), ý thức và bản dạng con người.
+Ấn bản giữ nguyên dữ liệu hiện có: **5 phần gồm coda, 24 chương, 2.598 cặp đoạn và 25 mục thuật ngữ**. Thiết kế mới gồm bìa editorial, mục lục có số trang/liên kết, running headers, bookmarks PDF, metadata, phụ lục thuật ngữ và sáu module học tập nguyên bản.
 
-Ấn bản này cung cấp:
-- **Dịch hoàn chỉnh 100% toàn bộ tác phẩm:** Gồm đủ **5 phần, 24 chương, 2.598 đoạn văn** đối chiếu song song. Không cắt gọt, không tóm lược.
-- **Trình bày song song (Parallel Bilingual Layout):** Cột trái là văn bản tiếng Anh nguyên tác của William Gibson; cột phải là bản dịch tiếng Việt văn chương trau chuốt, giữ trọn sắc thái u uất, sắc lạnh đặc trưng của tiểu thuyết Neo-noir và Cyberpunk.
-- **Tệp xuất bản PDF chất lượng cao:** Sẵn sàng tại `output/neuromancer_bilingual_edition.pdf` (~358 trang A4, dàn trang khoa học, đánh số trang và mục lục tự động).
+> **Phạm vi minh bạch:** dữ liệu dịch cũ được bảo toàn, chưa được tuyên bố là đã hiệu đính toàn diện. Có 36 đoạn tiếng Việt trùng tiếng Anh; phần lớn là tên riêng, mốc giờ hoặc chuỗi ký tự cố ý giữ nguyên. Tất cả được đánh dấu để rà soát theo ngữ cảnh, không bị pipeline tự ý thay bằng bản dịch mới. Các ví dụ ngữ pháp trong study guide được gọi đúng là **ví dụ học thuật minh họa**, không mặc định là trích dẫn nguyên tác.
 
----
+## Định hướng năng lực
 
-## 🎯 2. Định hướng và Hỗ trợ các chuẩn Năng lực Tiếng Anh Quốc tế
+| Bài thi | Mốc mục tiêu của học liệu | Trọng tâm |
+|---|---:|---|
+| IELTS | 7.0 | Lexical Resource, Grammatical Range, đọc lập luận |
+| TOEFL iBT | 90 trước 21/01/2026 / 5 từ 21/01/2026 | Inference, Rhetorical Purpose, Reading to Learn |
+| Cambridge English | 185, C1 Advanced | Use of English, sắc thái, biến đổi cấu trúc |
+| PTE Academic | 65 | Từ vựng trong ngữ cảnh, tóm tắt, xử lý văn bản |
+| DET | 120 | Ngữ cảnh câu, nhận diện từ, sản xuất ngôn ngữ |
 
-Ấn bản được thiết kế đặc thù làm học liệu luyện đọc chuyên sâu (Academic Reading & Stylistics) phục vụ người học nâng cấp năng lực ngôn ngữ từ B2 lên C1 Advanced và C2 Proficiency:
+Đây là **định hướng học tập**, không phải bảo đảm điểm số hay bảng quy đổi chính thức. Ngườ i học cần kết hợp đề mẫu và rubric hiện hành của tổ chức thi.
 
-| Bài thi / Chứng chỉ | Mức điểm mục tiêu | Ứng dụng trong ấn bản |
-| :--- | :--- | :--- |
-| **IELTS** | **7.0 - 8.5+** | Nâng cấp Lexical Resource & Grammatical Range qua cấu trúc câu đa tầng, văn phong miêu tả học thuật và cụm từ cố định (collocations). |
-| **TOEFL iBT** | **90+** (trước 21/01/2026) / **5.0** (từ 21/01/2026) | Rèn luyện khả năng đọc hiểu văn bản phức hợp, suy luận nghĩa theo ngữ cảnh (Inference & Rhetorical Purpose). |
-| **Cambridge English** | **185 - 210 điểm** (C1 Advanced / C2 Proficiency) | Làm chủ các cấu trúc ngữ pháp đỉnh cao: Đảo ngữ (Inversion), Thể giả định (Subjunctive), Cụm danh từ mở rộng, Cấu trúc tuyệt đối (Absolute Construction). |
-| **PTE Academic** | **65 - 85+** | Mở rộng vốn từ vựng trừu tượng, thuật ngữ khoa học công nghệ, cải thiện tốc độ xử lý đọc hiểu văn bản dài. |
-| **Duolingo English Test (DET)** | **120 - 150+** | Tăng cường phản xạ nhận diện từ vựng học thuật C1/C2 (Read and Select), hoàn thiện ngữ cảnh câu. |
+## Sáu module học tập
 
----
+1. Chu trình đọc bốn lượt, ghi chú tối giản và spaced retrieval.
+2. Bóc tách câu dài, suy luận có bằng chứng và rhetorical purpose.
+3. Word family, collocation, register và paraphrase theo cấu trúc.
+4. Xây dựng đoạn lập luận, đảo ngữ/câu chẻ có chọn lọc, tự hiệu đính.
+5. Chuyển giao kỹ năng sang IELTS, TOEFL, Cambridge, PTE và DET.
+6. Kế hoạch bốn tuần với chẩn đoán, sản xuất và đánh giá lại.
 
-## 📚 3. Cấu trúc học liệu trong ấn bản
+## Chạy pipeline
 
-Mỗi chương trong tác phẩm đều được đính kèm:
-1. **Chapter Academic Masterclass:** Tóm lược diễn biến cốt truyện song song với phân tích chủ đề văn học.
-2. **Grammar & Rhetoric Focus:** Bóc tách các hiện tượng ngữ pháp nâng cao xuất hiện trực tiếp trong văn bản gốc kèm câu ví dụ trích dẫn và phân tích ứng dụng.
-3. **Cyberpunk & Academic Glossary:** Bảng tra cứu thuật ngữ chuyên sâu (Matrix, Cyberspace, ROM Construct, ICE, Zaibatsu, Villa Straylight,...) phiên âm quốc tế IPA, cấp độ CEFR và phân tích sắc thái biểu đạt.
-
----
-
-## 🛠️ 4. Cấu trúc thư mục dự án
-
-```
-.
-├── data/
-│   ├── extracted_novel.json       # Toàn bộ 24 chương trích xuất từ EPUB
-│   ├── translated_cache.json      # Dữ liệu dịch song ngữ 2.598 đoạn văn
-│   ├── bilingual_novel.json       # Cơ sở dữ liệu song ngữ tích hợp chú giải
-│   └── novel_bilingual.html       # Mã nguồn HTML định dạng sách A4
-├── output/
-│   └── neuromancer_bilingual_edition.pdf # Tệp PDF ấn bản hoàn chỉnh
-├── scripts/
-│   ├── extract_text.py            # Script bóc tách dữ liệu từ file EPUB
-│   ├── translate_novel.py         # Script dịch thuật và chuẩn hóa dữ liệu
-│   ├── build_bilingual_edition.py # Script biên soạn cẩm nang học thuật & từ vựng
-│   ├── render_html.py             # Script thiết kế dàn trang A4
-│   └── generate_pdf.py            # Script xuất bản PDF tự động qua Playwright
-├── tests/
-│   └── test_bilingual_edition.py  # Bộ kiểm thử tự động xác minh tính toàn vẹn
-└── README.md
-```
-
----
-
-## 🚀 5. Hướng dẫn chạy và tái sinh tài liệu
-
-Để tạo mới hoặc cập nhật lại toàn bộ tài liệu và ấn bản PDF:
+Yêu cầu **Node.js 22+**.
 
 ```bash
-# 1. Trích xuất văn bản từ EPUB
-python3 scripts/extract_text.py
-
-# 2. Biên dịch và tổng hợp dữ liệu học thuật
-python3 scripts/build_bilingual_edition.py
-
-# 3. Dàn trang HTML chuyên nghiệp
-python3 scripts/render_html.py
-
-# 4. Xuất bản tệp PDF song ngữ
-python3 scripts/generate_pdf.py
-
-# 5. Chạy bộ kiểm thử tự động
-python3 -m unittest tests/test_bilingual_edition.py
+npm ci
+npm run build   # render HTML → phân trang → PDF → report
+npm test        # typecheck + unit tests + kiểm tra dữ liệu/PDF
 ```
 
----
-*Ấn bản được hoàn thiện với tinh thần tôn trọng nguyên tác và phụng sự người học tiếng Anh học thuật đỉnh cao.*
+Các lệnh riêng:
+
+```bash
+npm run render
+npm run pdf
+npm run typecheck
+```
+
+`@sparticuz/chromium` cung cấp Chromium qua npm để build không phụ thuộc CDN trình duyệt. Pipeline tự giải nén thư viện tương thích khi cần. Có thể dùng Chromium cài sẵn:
+
+```bash
+CHROMIUM_PATH=/path/to/chromium npm run pdf
+```
+
+## Cấu trúc TypeScript
+
+```text
+src/
+├── types.ts           # Kiểu dữ liệu và thống kê nguồn
+├── study-material.ts  # Học liệu B2–C1 nguyên bản
+├── styles.css         # Hệ thống dàn trang A4 / Paged.js
+├── render.ts          # Escape HTML và render toàn bộ ấn bản
+├── pdf.ts             # Chromium, pagination, bookmarks, metadata, report
+└── validate.ts        # Đối chiếu nguồn, HTML và PDF đầu ra
+tests/
+├── pipeline.test.ts        # Unit tests cho TypeScript renderer
+└── test_bilingual_edition.py # Kiểm tra legacy vẫn được giữ
+```
+
+`data/bilingual_novel.json` là dữ liệu đầu vào bất biến trong pipeline mới. Các script Python cũ được giữ để tham chiếu lịch sử, nhưng không còn cần cho quy trình xuất bản chính.
+
+## Quyết định thiết kế Astryx
+
+[`facebook/astryx`](https://github.com/facebook/astryx) hiện chuyển hướng sang `meta/astryx`. Astryx là design system React/StyleX đang ở beta; theme Gothic cung cấp typography và color tokens phù hợp editorial. Dự án dùng chính package `@astryxdesign/theme-gothic` và embed `theme.css`, tránh kéo React vào tài liệu in tĩnh. Lớp CSS in ấn cục bộ override text tokens để bảo đảm tương phản trên giấy trắng, đồng thời giữ dark surfaces cho bìa và part dividers.
+
+Tác phẩm gốc và bản dịch thuộc quyền của các chủ sở hữu tương ứng. Học liệu bổ sung và mã nguồn pipeline phục vụ mục đích học tập, không thay thế ấn bản xuất bản chính thức.
