@@ -49,13 +49,19 @@ Mỗi chương trong tác phẩm đều được đính kèm:
 │   ├── bilingual_novel.json       # Cơ sở dữ liệu song ngữ tích hợp chú giải
 │   └── novel_bilingual.html       # Mã nguồn HTML định dạng sách A4
 ├── output/
-│   └── neuromancer_bilingual_edition.pdf # Tệp PDF ấn bản hoàn chỉnh
+│   ├── neuromancer_bilingual_edition.pdf      # Tệp PDF ấn bản song ngữ (pipeline Python)
+│   └── neuromancer_bilingual_academic_companion.pdf  # Cẩm nang học thuật C1-C2 (pipeline TypeScript, bản cập nhật cuối)
 ├── scripts/
 │   ├── extract_text.py            # Script bóc tách dữ liệu từ file EPUB
 │   ├── translate_novel.py         # Script dịch thuật và chuẩn hóa dữ liệu
 │   ├── build_bilingual_edition.py # Script biên soạn cẩm nang học thuật & từ vựng
 │   ├── render_html.py             # Script thiết kế dàn trang A4
 │   └── generate_pdf.py            # Script xuất bản PDF tự động qua Playwright
+├── ts/                            # Công cụ TypeScript + Astryx (bản cập nhật cuối)
+│   ├── src/content/               # Nội dung học thuật song ngữ (24 đơn vị, ngữ pháp, từ vựng, đề thi)
+│   ├── src/design/                # Design token Astryx theme-gothic + stylesheet in A4
+│   ├── src/html/ + src/pdf/       # Bộ kết xuất HTML và pipeline PDF Chromium
+│   └── tests/                     # Kiểm thử tự động (vitest)
 ├── tests/
 │   └── test_bilingual_edition.py  # Bộ kiểm thử tự động xác minh tính toàn vẹn
 └── README.md
@@ -82,7 +88,33 @@ python3 scripts/generate_pdf.py
 
 # 5. Chạy bộ kiểm thử tự động
 python3 -m unittest tests/test_bilingual_edition.py
+
+# 6. (Bản cập nhật cuối) Dựng cẩm nang học thuật bằng TypeScript + Astryx
+cd ts
+npm install
+npm run build     # -> output/neuromancer_bilingual_academic_companion.pdf
+npm test          # 15 kiểm thử nội dung + thiết kế + kết xuất
 ```
+
+---
+
+## 🏁 6. Bản cập nhật cuối cùng (Final Update, 2026-11-10)
+
+Bản cập nhật này bổ sung **một lớp học liệu độc lập, nguyên bản**, được thiết kế lại hoàn toàn bằng **TypeScript trên hệ thống thiết kế Astryx** (`meta/astryx`, bộ token `theme-gothic`) và xuất bản thành PDF A4:
+
+**`output/neuromancer_bilingual_academic_companion.pdf`** (126 trang) bao gồm:
+
+- **24 đơn vị học tập theo chương** (5 phần + Coda): tóm tắt song ngữ Anh-Việt, ghi chú kỹ thuật văn phong, 10 từ vựng/đơn vị tra cứu trực tiếp vào từ điển, 2 chỉ dẫn ngữ pháp, 1 câu hỏi kiểu đề thi và 1 đề viết.
+- **Chuyên đề Ngữ pháp & Tu từ**: 16 cấu trúc nâng cao (asyndeton, đảo ngữ, cấu trúc tuyệt đối, kiểu tự do gián tiếp, zeugma, litotes...) với ví dụ nguyên bản và bài tập chuyển đổi kiểu Cambridge Use of English.
+- **Từ điển Học thuật 232 mục**: IPA, cấp độ CEFR, hai cụm từ đi kèm và câu ví dụ nguyên bản cho mỗi mục; chú nghĩa Việt-Anh song song.
+- **Cẩm nang 5 kỳ thi** đúng theo các chuẩn mục tiêu của dự án: **TOEFL 90 (thang 0-120 cũ) / Band 5.0 (thang 1-6 từ 21/01/2026)**, **IELTS 7.0**, **PTE 65**, **Cambridge 185**, **DET 120**, kèm bảng quy đổi CEFR và chiến lược từng dạng bài.
+- **Kế học tập 8 tuần và 4 tuần**, thang tự đánh giá C1, đáp án toàn bộ 50 câu hỏi, và thư mục tham khảo (gồm thay đổi thang điểm TOEFL 2026 của ETS).
+- **Mục lục tự động có số trang chính xác** (kỹ thuật dựng PDF hai lượt trong pipeline TS), thiết kế bìa/divider theo bảng màu gothic của Astryx, font nhúng đầy đủ (gồm bộ dấu tiếng Việt).
+
+**Công nghệ:** TypeScript + `@astryxdesign/theme-gothic` (design token) + Fontsource (font OFL nhúng base64) + Puppeteer/Chromium headless + vitest. Dựng lại mọi lúc bằng `cd ts && npm install && npm run build`.
+
+> [!IMPORTANT]
+> **Lưu ý bản quyền.** *Neuromancer* (1984) là tác phẩm có bản quyền của William Gibson và các nhà xuất bản. Cẩm nang mới là **tác phẩm học thuật độc lập, nguyên bản**: nó tóm tắt và bình luận tác phẩm bằng lời của riêng nó, trích dẫn đúng **một câu** của nguyên tác cho mục đích đọc kỹ, và **không tái bản toàn văn tiểu thuyết hay bản dịch tác phẩm**. Trang pháp lý trong PDF ghi rõ điều này. Các tệp dữ liệu song ngữ có sẵn trong `data/` và ấn bản PDF cũ không bị thay đổi bởi bản cập nhật này.
 
 ---
 *Ấn bản được hoàn thiện với tinh thần tôn trọng nguyên tác và phụng sự người học tiếng Anh học thuật đỉnh cao.*
