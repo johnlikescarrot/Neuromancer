@@ -1,88 +1,30 @@
-# Neuromancer — Ấn Bản Song Ngữ Anh - Việt & Cẩm Nang Học Thuật C1/C2 Toàn Diện
+# Neuromancer — ấn bản đối chiếu Anh–Việt
 
-> **Tác giả:** William Gibson
-> **Dự án:** Biên soạn ấn bản song ngữ đối sánh Anh - Việt toàn vẹn nhất của kiệt tác khoa học viễn tưởng *Neuromancer*, tích hợp hệ thống chú giải học thuật chuẩn mực quốc tế và xuất bản định dạng PDF chuẩn A4.
+PDF A4 tại [`output/neuromancer_bilingual_edition.pdf`](output/neuromancer_bilingual_edition.pdf) sử dụng dữ liệu đã có trong kho, dàn trang lại bằng TypeScript, React và [Astryx](https://github.com/facebook/astryx) (`@astryxdesign/core` và theme Neutral). Mục lục PDF có liên kết đến chương; mỗi cặp đoạn giữ mã để tiện rà soát. Phần cuối có từ điển kế thừa và bài tập đọc tự luyện.
 
----
+## Giới hạn quan trọng
 
-## 🌟 1. Giới thiệu tổng quan
+- **Đây chưa phải bản dịch hoàn chỉnh đã hiệu đính.** Phần lớn bản dịch có sẵn là bản dịch máy; hai câu tiếng Anh còn nguyên đã được dịch, nhưng chất lượng, sự đầy đủ và sự tương ứng với EPUB của toàn bộ văn bản chưa được kiểm chứng. Trình dựng đánh dấu các đoạn trống hoặc giống nguyên bản; số này bao gồm tên riêng, dấu thời gian và chữ bị tách, nên không thể coi toàn bộ là lỗi dịch. Một số lỗi không được phát hiện bằng cách so chuỗi.
+- Dữ liệu trích xuất tách văn bản theo dòng HTML, có thể làm sai ranh giới đoạn và trình bày. Cần so sánh trực tiếp EPUB, hiệu đính bởi người có năng lực ngôn ngữ và kiểm tra quyền sử dụng trước khi chia sẻ hay xuất bản. Không gửi văn bản tới dịch vụ bên ngoài nếu chưa có quyền và căn cứ phù hợp.
+- Các hướng dẫn chương cũ chưa được kiểm chứng, một số ví dụ tự viết từng bị gắn nhãn trích dẫn; chúng **không** được đưa vào PDF mới. Từ điển kế thừa cũng cần kiểm tra độc lập. Không có chứng nhận từ các tổ chức thi hay cam kết đạt điểm.
+- Các mốc IELTS 7.0, TOEFL iBT 90 trước 21/01/2026 / 5 từ ngày đó, PTE Academic 65, Cambridge English 185 và DET 120 là **mục tiêu riêng**, không phải các điểm tương đương. Theo [ETS](https://www.ets.org/toefl/institutions/ibt/score-scale-update.html), cơ sở đang yêu cầu TOEFL 90 được khuyến nghị đặt mức 4,5 theo thang mới; mức 5 là mục tiêu cao hơn. [Cambridge](https://www.cambridgeenglish.org/exams-and-tests/qualifications/results/) xếp 185 ở C1, kể cả trên bài C2 Proficiency; [Duolingo](https://blog.englishtest.duolingo.com/duolingo-test-aligned-with-cefr/) xếp DET 120 trong khoảng B2. Yêu cầu nhập học và quy đổi phụ thuộc từng tổ chức.
 
-*Neuromancer* (1984) là tác phẩm mở đường cho trào lưu **Cyberpunk**, tác phẩm đầu tiên giành trọn bộ 3 vương miện danh giá nhất của làng văn học khoa học viễn tưởng: **Giải Hugo**, **Giải Nebula** và **Giải thưởng Tưởng niệm Philip K. Dick**. Cuốn tiểu thuyết đã sản sinh và phổ quát hóa những khái niệm mang tính thời đại như *cyberspace* (không gian mạng), *the matrix* (ma trận), *neural interface* (giao diện thần kinh) và đặt ra các câu hỏi triết học sắc sảo về trí tuệ nhân tạo (AI), ý thức và bản dạng con người.
+## Dựng và kiểm thử
 
-Ấn bản này cung cấp:
-- **Dịch hoàn chỉnh 100% toàn bộ tác phẩm:** Gồm đủ **5 phần, 24 chương, 2.598 đoạn văn** đối chiếu song song. Không cắt gọt, không tóm lược.
-- **Trình bày song song (Parallel Bilingual Layout):** Cột trái là văn bản tiếng Anh nguyên tác của William Gibson; cột phải là bản dịch tiếng Việt văn chương trau chuốt, giữ trọn sắc thái u uất, sắc lạnh đặc trưng của tiểu thuyết Neo-noir và Cyberpunk.
-- **Tệp xuất bản PDF chất lượng cao:** Sẵn sàng tại `output/neuromancer_bilingual_edition.pdf` (~358 trang A4, dàn trang khoa học, đánh số trang và mục lục tự động).
+Yêu cầu Node.js 22+, Python 3 và Linux x64 với các thư viện hệ thống Chromium (bao gồm NSS/NSPR), cùng font DejaVu Sans/Serif có hỗ trợ tiếng Việt. Trên hệ thống khác đặt `CHROMIUM_PATH` trỏ tới Chromium tương thích; phiên bản cài sẵn `@sparticuz/chromium` dành cho Linux x64. `npm ci` cài đúng các phiên bản trong lockfile.
 
----
-
-## 🎯 2. Định hướng và Hỗ trợ các chuẩn Năng lực Tiếng Anh Quốc tế
-
-Ấn bản được thiết kế đặc thù làm học liệu luyện đọc chuyên sâu (Academic Reading & Stylistics) phục vụ người học nâng cấp năng lực ngôn ngữ từ B2 lên C1 Advanced và C2 Proficiency:
-
-| Bài thi / Chứng chỉ | Mức điểm mục tiêu | Ứng dụng trong ấn bản |
-| :--- | :--- | :--- |
-| **IELTS** | **7.0 - 8.5+** | Nâng cấp Lexical Resource & Grammatical Range qua cấu trúc câu đa tầng, văn phong miêu tả học thuật và cụm từ cố định (collocations). |
-| **TOEFL iBT** | **90+** (trước 21/01/2026) / **5.0** (từ 21/01/2026) | Rèn luyện khả năng đọc hiểu văn bản phức hợp, suy luận nghĩa theo ngữ cảnh (Inference & Rhetorical Purpose). |
-| **Cambridge English** | **185 - 210 điểm** (C1 Advanced / C2 Proficiency) | Làm chủ các cấu trúc ngữ pháp đỉnh cao: Đảo ngữ (Inversion), Thể giả định (Subjunctive), Cụm danh từ mở rộng, Cấu trúc tuyệt đối (Absolute Construction). |
-| **PTE Academic** | **65 - 85+** | Mở rộng vốn từ vựng trừu tượng, thuật ngữ khoa học công nghệ, cải thiện tốc độ xử lý đọc hiểu văn bản dài. |
-| **Duolingo English Test (DET)** | **120 - 150+** | Tăng cường phản xạ nhận diện từ vựng học thuật C1/C2 (Read and Select), hoàn thiện ngữ cảnh câu. |
-
----
-
-## 📚 3. Cấu trúc học liệu trong ấn bản
-
-Mỗi chương trong tác phẩm đều được đính kèm:
-1. **Chapter Academic Masterclass:** Tóm lược diễn biến cốt truyện song song với phân tích chủ đề văn học.
-2. **Grammar & Rhetoric Focus:** Bóc tách các hiện tượng ngữ pháp nâng cao xuất hiện trực tiếp trong văn bản gốc kèm câu ví dụ trích dẫn và phân tích ứng dụng.
-3. **Cyberpunk & Academic Glossary:** Bảng tra cứu thuật ngữ chuyên sâu (Matrix, Cyberspace, ROM Construct, ICE, Zaibatsu, Villa Straylight,...) phiên âm quốc tế IPA, cấp độ CEFR và phân tích sắc thái biểu đạt.
-
----
-
-## 🛠️ 4. Cấu trúc thư mục dự án
-
-```
-.
-├── data/
-│   ├── extracted_novel.json       # Toàn bộ 24 chương trích xuất từ EPUB
-│   ├── translated_cache.json      # Dữ liệu dịch song ngữ 2.598 đoạn văn
-│   ├── bilingual_novel.json       # Cơ sở dữ liệu song ngữ tích hợp chú giải
-│   └── novel_bilingual.html       # Mã nguồn HTML định dạng sách A4
-├── output/
-│   └── neuromancer_bilingual_edition.pdf # Tệp PDF ấn bản hoàn chỉnh
-├── scripts/
-│   ├── extract_text.py            # Script bóc tách dữ liệu từ file EPUB
-│   ├── translate_novel.py         # Script dịch thuật và chuẩn hóa dữ liệu
-│   ├── build_bilingual_edition.py # Script biên soạn cẩm nang học thuật & từ vựng
-│   ├── render_html.py             # Script thiết kế dàn trang A4
-│   └── generate_pdf.py            # Script xuất bản PDF tự động qua Playwright
-├── tests/
-│   └── test_bilingual_edition.py  # Bộ kiểm thử tự động xác minh tính toàn vẹn
-└── README.md
+```sh
+npm ci
+npm run build              # data/bilingual_novel.json → HTML → PDF
+npm test                   # kiểm tra TypeScript và cấu trúc dữ liệu/HTML/PDF
 ```
 
----
+Trình dựng ghi đè `data/novel_bilingual.html` và PDF. Không chạy các script Python cũ để dựng PDF: đó là pipeline lịch sử. `scripts/translate_novel.py` gửi dữ liệu tới Google Translate và có thể giữ nguyên bản gốc khi thất bại; không dùng làm bằng chứng bản dịch hoàn thiện. Bộ kiểm thử không xác nhận tính chính xác của bản dịch, cách dàn trang trên mọi môi trường, hay độ tin cậy các chú giải.
 
-## 🚀 5. Hướng dẫn chạy và tái sinh tài liệu
+### Thành phần
 
-Để tạo mới hoặc cập nhật lại toàn bộ tài liệu và ấn bản PDF:
-
-```bash
-# 1. Trích xuất văn bản từ EPUB
-python3 scripts/extract_text.py
-
-# 2. Biên dịch và tổng hợp dữ liệu học thuật
-python3 scripts/build_bilingual_edition.py
-
-# 3. Dàn trang HTML chuyên nghiệp
-python3 scripts/render_html.py
-
-# 4. Xuất bản tệp PDF song ngữ
-python3 scripts/generate_pdf.py
-
-# 5. Chạy bộ kiểm thử tự động
-python3 -m unittest tests/test_bilingual_edition.py
-```
-
----
-*Ấn bản được hoàn thiện với tinh thần tôn trọng nguyên tác và phụng sự người học tiếng Anh học thuật đỉnh cao.*
+- `neuromancer.epub`: nguồn đầu vào trong kho.
+- `data/extracted_novel.json`, `data/translated_cache.json`, `data/bilingual_novel.json`: dữ liệu trích xuất, bản dịch máy và dữ liệu đối chiếu.
+- `scripts/edition.tsx`: thành phần Astryx, dàn trang in, dựng HTML và PDF bằng Playwright/Chromium.
+- `data/novel_bilingual.html`, `output/neuromancer_bilingual_edition.pdf`: sản phẩm đã dựng.
+- `tests/`: kiểm tra tự động. Các script Python khác là pipeline cũ.
