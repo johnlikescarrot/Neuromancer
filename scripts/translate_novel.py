@@ -18,7 +18,7 @@ def translate_batch(batch):
                 data = json.loads(resp.read().decode('utf-8'))
                 res_text = ''.join([seg[0] for seg in data[0] if seg and seg[0]])
                 parts = [p.strip() for p in res_text.split("<<<PARAGRAPH_SEP>>>")]
-                if len(parts) == len(batch):
+                if len(parts) == len(batch) and all(parts):
                     return parts
                 # If separator split length doesn't match perfectly, fallback to individual translation
                 break
@@ -35,12 +35,14 @@ def translate_batch(batch):
                 with urllib.request.urlopen(single_req, timeout=10) as r:
                     d = json.loads(r.read().decode('utf-8'))
                     translated = ''.join([s[0] for s in d[0] if s and s[0]])
+                    if not translated.strip():
+                        raise ValueError("Empty translation")
                     results.append(translated.strip())
                     break
             except Exception:
                 time.sleep(0.5 * (attempt + 1))
         else:
-            results.append(text)
+            raise RuntimeError("Translation failed after retries; no source text was saved as a translation")
     return results
 
 def main():

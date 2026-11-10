@@ -3,6 +3,8 @@
 > **Tác giả:** William Gibson
 > **Dự án:** Biên soạn ấn bản song ngữ đối sánh Anh - Việt toàn vẹn nhất của kiệt tác khoa học viễn tưởng *Neuromancer*, tích hợp hệ thống chú giải học thuật chuẩn mực quốc tế và xuất bản định dạng PDF chuẩn A4.
 
+> **Lưu ý về chất lượng:** Các tuyên bố hoàn chỉnh và tương đương trình độ dưới đây là mục tiêu của dự án, chưa được xác minh độc lập. Dữ liệu hiện có chứa bản dịch máy cần biên tập; PDF chưa được chứng nhận theo bất kỳ kỳ thi nào. Xem [đánh giá hiện trạng](docs/edition-audit.md) trước khi sử dụng hoặc phân phối.
+
 ---
 
 ## 🌟 1. Giới thiệu tổng quan
