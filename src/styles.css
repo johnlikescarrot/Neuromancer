@@ -1,0 +1,165 @@
+@page {
+  size: A4;
+  margin: 20mm 17mm 19mm 20mm;
+  @top-left {
+    content: "NEUROMANCER / BILINGUAL STUDY EDITION";
+    color: #65727a;
+    font: 600 6.8pt/1.2 "DejaVu Sans", sans-serif;
+    letter-spacing: .11em;
+  }
+  @top-right {
+    content: string(runningChapter);
+    color: #65727a;
+    font: 400 6.8pt/1.2 "DejaVu Sans", sans-serif;
+  }
+  @bottom-left {
+    content: "WILLIAM GIBSON · EN / VI";
+    color: #849097;
+    font: 500 6.4pt/1 "DejaVu Sans", sans-serif;
+    letter-spacing: .08em;
+  }
+  @bottom-right {
+    content: counter(page, decimal-leading-zero);
+    color: #273b44;
+    font: 600 8pt/1 "DejaVu Sans", sans-serif;
+  }
+}
+
+@page cover { margin: 0; @top-left { content: none } @top-right { content: none } @bottom-left { content: none } @bottom-right { content: none } }
+@page divider { background: #17262c; @top-left { content: none } @top-right { content: none } @bottom-left { content: none } @bottom-right { color: #98b8b6; } }
+
+:root {
+  --ink: #17262c;
+  --muted: #56666c;
+  --accent: #a3472d;
+  --accent-soft: #f2e8df;
+  --teal: #397b79;
+  --paper: #f7f4ef;
+  --line: #d7dcda;
+  --display: "DejaVu Serif", Georgia, serif;
+  --sans: "DejaVu Sans", Arial, sans-serif;
+}
+
+* { box-sizing: border-box; }
+html { background: #e9eceb; }
+body { margin: 0; color: var(--ink); font-family: var(--sans); font-size: 9.3pt; line-height: 1.55; }
+body[data-astryx-theme="gothic"] { --color-text-primary: var(--ink); --color-text-secondary: var(--muted); }
+h1,h2,h3,p { margin-top: 0; }
+h1,h2,h3 { color: var(--ink); }
+.cover h1,.part h1,.back-cover h1 { color: #edf3ef; }
+a { color: inherit; }
+.book { max-width: 210mm; margin: 0 auto; background: white; }
+.sheet { break-after: page; }
+.eyebrow { margin: 0 0 4mm; color: var(--accent); font-size: 7pt; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; }
+.display { font-family: var(--display); font-weight: 400; line-height: 1.12; }
+.lead { max-width: 155mm; color: var(--muted); font-size: 10pt; line-height: 1.7; }
+.rule { height: 1px; background: var(--line); margin: 7mm 0; }
+.small { font-size: 7.8pt; color: var(--muted); }
+.mono { font-family: "DejaVu Sans Mono", monospace; }
+
+.cover { page: cover; height: 297mm; padding: 20mm; position: relative; overflow: hidden; color: #e9efec; background: #14242b; }
+.cover::before { content: ""; position: absolute; width: 205mm; height: 205mm; border: 1px solid #53726f; border-radius: 50%; top: -86mm; right: -87mm; box-shadow: 0 0 0 13mm #172b32, 0 0 0 calc(13mm + 1px) #45625f, 0 0 0 31mm #172b32, 0 0 0 calc(31mm + 1px) #37524f; }
+.cover::after { content: ""; position: absolute; left: 20mm; right: 20mm; top: 23mm; bottom: 23mm; border: 1px solid #52706d; pointer-events: none; }
+.cover-grid { height: 100%; border-left: 1px solid #52706d; padding: 20mm 0 10mm 11mm; display: flex; flex-direction: column; position: relative; z-index: 1; }
+.cover-brand { font-size: 7pt; letter-spacing: .25em; color: #a9c8c2; }
+.cover-title { font-family: var(--display); font-size: 43pt; line-height: .98; letter-spacing: -.045em; font-weight: 400; margin: auto 0 7mm; max-width: 150mm; }
+.cover-subtitle { max-width: 125mm; color: #a9c8c2; font-size: 12pt; line-height: 1.6; }
+.cover-author { margin: 11mm 0 0; padding-top: 5mm; border-top: 1px solid #52706d; font-size: 9pt; letter-spacing: .13em; }
+.cover-meta { display: flex; justify-content: space-between; gap: 8mm; margin-top: 18mm; color: #98b8b6; font-size: 7pt; line-height: 1.7; }
+
+.front { padding-top: 4mm; }
+.front h1 { font-size: 28pt; margin: 0 0 7mm; max-width: 155mm; }
+.front h2 { font-size: 12pt; margin: 7mm 0 2mm; }
+.front p { max-width: 166mm; }
+.colophon { border-top: 3px solid var(--ink); padding-top: 4mm; display: grid; grid-template-columns: 1fr 1fr; gap: 7mm; margin-top: 9mm; }
+.stat-row { display: flex; flex-wrap: wrap; gap: 4mm; margin: 9mm 0; }
+.stat { min-width: 34mm; border-left: 2px solid var(--teal); padding-left: 3mm; }
+.stat strong { display: block; font: 400 22pt/1.1 var(--display); }
+.stat span { font-size: 7pt; text-transform: uppercase; letter-spacing: .09em; color: var(--muted); }
+.notice { background: var(--paper); border-left: 3px solid var(--accent); padding: 4mm 5mm; margin: 6mm 0; break-inside: avoid; }
+.notice strong { color: var(--accent); }
+
+.benchmarks { width: 100%; border-collapse: collapse; margin-top: 6mm; }
+.benchmarks th,.benchmarks td { padding: 3.2mm 2mm; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }
+.benchmarks th { font-size: 7pt; text-transform: uppercase; letter-spacing: .1em; color: var(--muted); }
+.benchmarks td:first-child { width: 28mm; font-weight: 700; color: var(--teal); }
+.benchmarks td { font-size: 8.4pt; }
+
+.toc { padding-top: 4mm; }
+.toc h1 { font-size: 29pt; margin-bottom: 10mm; }
+.toc-part { margin: 6mm 0 2mm; color: var(--accent); font-size: 7pt; font-weight: 700; letter-spacing: .1em; break-after: avoid; }
+.toc-item { display: flex; align-items: baseline; gap: 2mm; padding: 2.4mm 0; border-bottom: 1px solid #e6e9e7; break-inside: avoid; }
+.toc-item .num { width: 8mm; flex: 0 0 8mm; font-family: var(--display); color: var(--teal); font-size: 12pt; }
+.toc-item .label { flex: 1; font-size: 8.4pt; }
+.toc-item .label small { display: block; font-size: 6.8pt; color: var(--muted); margin-top: .7mm; }
+.toc-item a::after { content: target-counter(attr(href), page); font-size: 8pt; font-weight: 700; }
+.toc-item a { text-decoration: none; min-width: 7mm; text-align: right; }
+
+.module { padding-top: 3mm; }
+.module-head { display: grid; grid-template-columns: 24mm 1fr; gap: 7mm; border-top: 3px solid var(--ink); padding-top: 6mm; margin-bottom: 8mm; }
+.module-index { font: 400 27pt/1 var(--display); color: var(--teal); }
+.module h1 { font-size: 24pt; margin: 0 0 4mm; }
+.study-block { display: grid; grid-template-columns: 42mm 1fr; gap: 7mm; border-top: 1px solid var(--line); padding: 5mm 0; break-inside: avoid; }
+.study-block h2 { font: 400 12pt/1.35 var(--display); margin: 0; }
+.study-block p { margin-bottom: 3mm; font-size: 8.7pt; }
+.study-block ul { padding-left: 4.5mm; margin: 0; font-size: 8.2pt; }
+.study-block li { margin-bottom: 1.8mm; padding-left: 1mm; }
+.example { background: var(--paper); padding: 4mm; margin-top: 3mm; border-top: 1px solid var(--teal); font-size: 8pt; }
+.example .en { font-family: var(--display); font-size: 9.3pt; }
+.example .vi { margin: 2mm 0; color: var(--muted); }
+.example .note { font-size: 7.5pt; }
+
+.glossary-intro { padding-top: 4mm; }
+.glossary-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0 8mm; }
+.glossary-entry { border-top: 1px solid var(--line); padding: 4mm 0; break-inside: avoid; }
+.glossary-entry h3 { font: 400 12pt/1.2 var(--display); margin: 0 0 1mm; }
+.glossary-entry .ipa { color: var(--accent); font-size: 7pt; margin-bottom: 2mm; }
+.glossary-entry p { font-size: 7.4pt; margin-bottom: 1.5mm; }
+.glossary-entry .level { font-size: 6.4pt; color: var(--teal); letter-spacing: .04em; text-transform: uppercase; }
+.glossary-entry .note { color: var(--muted); }
+
+.part { page: divider; height: 257mm; padding: 17mm 12mm; color: #e5efec; position: relative; display: flex; flex-direction: column; }
+.part-num { font: 400 82pt/1 var(--display); color: #35544f; }
+.part-content { margin-top: auto; margin-bottom: 24mm; }
+.part h1 { font: 400 31pt/1.12 var(--display); max-width: 140mm; margin: 0 0 7mm; color: #edf3ef; }
+.part .vi { color: #9ebbb5; max-width: 135mm; font-size: 10pt; }
+.part-meta { border-top: 1px solid #52706d; padding-top: 4mm; color: #9ebbb5; font-size: 7pt; letter-spacing: .08em; }
+
+.chapter { break-before: page; }
+.chapter-head { string-set: runningChapter attr(data-running); border-top: 4px solid var(--ink); padding-top: 5mm; margin-bottom: 7mm; display: grid; grid-template-columns: 25mm 1fr; gap: 6mm; }
+.chapter-no { color: var(--teal); font: 400 30pt/1 var(--display); }
+.chapter h1 { font: 400 20pt/1.2 var(--display); margin: 0 0 3mm; }
+.chapter-sub { color: var(--muted); font-size: 9pt; }
+.guide { background: var(--paper); border-top: 1px solid var(--accent); padding: 5mm; margin-bottom: 7mm; break-inside: avoid; }
+.guide h2 { color: var(--accent); font-size: 7pt; text-transform: uppercase; letter-spacing: .11em; margin-bottom: 3mm; }
+.guide p { font-size: 8pt; margin-bottom: 3mm; }
+.grammar { border-top: 1px solid var(--line); padding-top: 2.5mm; margin-top: 2.5mm; }
+.grammar strong { font-size: 7.7pt; }
+.grammar p { font-size: 7.3pt; margin: 1mm 0 0; }
+.grammar .example-label { color: var(--teal); font-size: 6.4pt; text-transform: uppercase; letter-spacing: .06em; }
+.reading-labels { display: grid; grid-template-columns: 1fr 1fr; gap: 6mm; margin: 0 0 3mm; padding-bottom: 2mm; border-bottom: 1px solid var(--line); color: var(--muted); font-size: 6.5pt; font-weight: 700; letter-spacing: .12em; }
+.pair { display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 6mm; margin: 0 0 4mm; break-inside: avoid; position: relative; }
+.pair-text { margin: 0; font-size: 8.55pt; line-height: 1.57; text-align: left; hyphens: none; overflow-wrap: break-word; }
+.pair-en { font-family: var(--display); color: #17262c; }
+.pair-vi { border-left: 1px solid #c6d4d0; padding-left: 4mm; color: #354a50; }
+.pair-id { display: block; color: #87948f; font: 400 5.4pt/1.5 "DejaVu Sans Mono", monospace; letter-spacing: .02em; margin-bottom: 1mm; }
+.pair.missing { border-top: 1px solid var(--accent); padding-top: 2mm; }
+.pair.missing .pair-vi { background: #faf2ed; }
+.missing-label { display: block; color: var(--accent); font-size: 6.2pt; margin-bottom: 1mm; font-weight: 700; }
+.chapter-end { border-top: 1px solid var(--line); color: var(--muted); padding-top: 2mm; font-size: 6.7pt; letter-spacing: .08em; text-align: right; }
+
+.audit-list { columns: 2; column-gap: 8mm; font: 400 7pt/1.8 "DejaVu Sans Mono", monospace; }
+.audit-list div { break-inside: avoid; border-bottom: 1px solid var(--line); padding: 1mm 0; }
+.back-cover { page: cover; height: 297mm; background: #14242b; color: #e9efec; padding: 35mm 30mm; display: flex; flex-direction: column; }
+.back-cover blockquote { font: 400 24pt/1.45 var(--display); max-width: 140mm; margin: auto 0; }
+.back-cover .colophon-bottom { border-top: 1px solid #52706d; padding-top: 5mm; color: #9ebbb5; font-size: 7pt; }
+
+@media screen {
+  .sheet,.chapter { padding: 20mm 17mm 19mm 20mm; box-shadow: 0 1px 8px #0001; margin-bottom: 8mm; }
+  .cover,.back-cover { margin-left: 0; margin-right: 0; }
+  .part { margin: 0 0 8mm; padding: 37mm 29mm; height: 297mm; }
+}
+@media print {
+  html,body { background: white; }
+  .book { max-width: none; }
+}

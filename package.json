@@ -1,0 +1,30 @@
+{
+  "name": "neuromancer-bilingual-edition",
+  "version": "2.0.0",
+  "private": true,
+  "description": "A TypeScript/Astryx print pipeline for the Neuromancer bilingual study edition",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "render": "tsx src/render.ts",
+    "pdf": "tsx src/pdf.ts",
+    "build": "npm run render && npm run pdf",
+    "typecheck": "tsc --noEmit",
+    "test": "npm run typecheck && tsx --test tests/*.test.ts && tsx src/validate.ts",
+    "clean": "node -e \"require('node:fs').rmSync('dist',{recursive:true,force:true})\""
+  },
+  "dependencies": {
+    "@astryxdesign/theme-gothic": "^0.7.11",
+    "@sparticuz/chromium": "^143.0.4",
+    "pagedjs": "^0.4.3",
+    "pdf-lib": "^1.17.1",
+    "playwright": "^1.65.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
