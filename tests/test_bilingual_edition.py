@@ -1,6 +1,27 @@
 import json
 import unittest
+from html.parser import HTMLParser
 from pathlib import Path
+
+class EditionHTMLParser(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.chapter_ids = set()
+        self.pairs = 0
+        self.links = set()
+        self.text = []
+
+    def handle_starttag(self, tag, attrs):
+        attrs = dict(attrs)
+        if attrs.get("id", "").startswith("chapter-"):
+            self.chapter_ids.add(attrs["id"])
+        if "pair" in attrs.get("class", "").split():
+            self.pairs += 1
+        if attrs.get("href", "").startswith("#chapter-"):
+            self.links.add(attrs["href"][1:])
+
+    def handle_data(self, data):
+        self.text.append(data)
 
 class TestBilingualEdition(unittest.TestCase):
     def setUp(self):
@@ -40,6 +61,27 @@ class TestBilingualEdition(unittest.TestCase):
                     self.assertTrue(len(p["en"].strip()) > 0)
                     self.assertTrue(len(p["vi"].strip()) > 0)
         self.assertEqual(total_paragraphs, 2598, "All 2598 paragraphs must have both English and Vietnamese text")
+
+    def test_data_alignment_and_known_corrections(self):
+        data = json.loads(self.bilingual_path.read_text(encoding="utf-8"))
+        cache = json.loads(Path("data/translated_cache.json").read_text(encoding="utf-8"))
+        pairs = [p for part in data["parts"] for chapter in part["chapters"] for p in chapter["paragraphs"]]
+        ids = [p["id"] for p in pairs]
+        self.assertEqual(len(ids), len(set(ids)))
+        self.assertTrue(all(p["vi"] == cache[p["id"]] for p in pairs))
+        self.assertEqual(cache["2_4_7"], "“Xã hội đen.”")
+        self.assertEqual(cache["3_10_7"], "“Sẵn sàng xông tới rồi.”")
+
+    def test_rendered_structure_and_quality_notice(self):
+        parser = EditionHTMLParser()
+        parser.feed(self.html_path.read_text(encoding="utf-8"))
+        self.assertEqual(parser.pairs, 2598)
+        self.assertEqual(parser.chapter_ids, {f"chapter-{i}" for i in range(1, 25)})
+        self.assertEqual(parser.chapter_ids, parser.links)
+        text = " ".join(parser.text)
+        self.assertIn("bản dịch máy chưa được hiệu đính", text)
+        self.assertIn("không phải phép quy đổi trực tiếp", text)
+        self.assertNotIn("Ví dụ nguyên tác", text)
 
     def test_html_and_pdf_generation(self):
         self.assertTrue(self.html_path.exists(), "data/novel_bilingual.html must exist")
